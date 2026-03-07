@@ -1,0 +1,2210 @@
+====================================================================================================
+NFL PEAK TIERS — DEEP DIVE WITH PLAYER EXAMPLES
+Draft classes 2000-2021, stats through 2025
+====================================================================================================
+
+[1] Loading data...
+    Skill players: 1,494
+[2] Loading stats...
+[3] Classifying peak tiers...
+[4] Computing Year-1 and Year-2 stats...
+
+====================================================================================================
+SECTION 1: EVERY PLAYER — BY DRAFT TIER × ROOKIE PRODUCTION × PEAK TIER
+====================================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ┌─ WR | Rd 1 | Rookie Rec Yards 0-100  (n=9)
+  │  WR1: 2(22%) | WR2: 2(22%) | WR3: 3(33%) | Depth/Out: 2(22%)
+  │
+  │  ✅ Became WR1:
+  │     Mike Williams              '17 Rd1 #7       Y1: 95 yds       Peak: 1146 yds / 76 rec / 9 TDs (1x WR1)
+  │     Santana Moss               '1 Rd1 #16       Y1: 40 yds       Peak: 1105 yds / 74 rec / 10 TDs (4x WR1)
+  │  🟡 Became WR2:
+  │     Robert Meachem             '7 Rd1 #27       Y1: 0 yds        Peak: 722 yds / 45 rec / 9 TDs
+  │     Breshad Perriman           '15 Rd1 #26      Y1: 0 yds        Peak: 645 yds / 36 rec / 6 TDs
+  │  🟠 Became WR3:
+  │     John Ross                  '17 Rd1 #9       Y1: 0 yds        Peak: 506 yds / 28 rec / 3 TDs
+  │     Josh Doctson               '16 Rd1 #22      Y1: 66 yds       Peak: 502 yds / 35 rec / 6 TDs
+  │     Laquon Treadwell           '16 Rd1 #23      Y1: 15 yds       Peak: 302 yds / 35 rec / 1 TDs
+  │  ❌ Depth/Out:
+  │     A.J. Jenkins               '12 Rd1 #30      Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  │     Kevin White                '15 Rd1 #7       Y1: 0 yds        Peak: 187 yds / 19 rec / 0 TDs
+  └─
+
+  ┌─ WR | Rd 1 | Rookie Rec Yards 101-300  (n=14)
+  │  WR1: 2(14%) | WR2: 5(36%) | WR3: 4(29%) | Depth/Out: 3(21%)
+  │
+  │  ✅ Became WR1:
+  │     Demaryius Thomas           '10 Rd1 #22      Y1: 283 yds      Peak: 1434 yds / 94 rec / 10 TDs (5x WR1)
+  │     Plaxico Burress            '0 Rd1 #8        Y1: 273 yds      Peak: 1008 yds / 66 rec / 6 TDs (4x WR1)
+  │  🟡 Became WR2:
+  │     Darrius Heyward-Bey        '9 Rd1 #7        Y1: 124 yds      Peak: 975 yds / 64 rec / 4 TDs
+  │     Travis Taylor              '0 Rd1 #10       Y1: 276 yds      Peak: 869 yds / 61 rec / 6 TDs
+  │     Michael Jenkins            '4 Rd1 #29       Y1: 119 yds      Peak: 777 yds / 50 rec / 3 TDs
+  │     Nelson Agholor             '15 Rd1 #20      Y1: 283 yds      Peak: 768 yds / 62 rec / 8 TDs
+  │     Reggie Williams            '4 Rd1 #9        Y1: 268 yds      Peak: 615 yds / 53 rec / 4 TDs
+  │  🟠 Became WR3:
+  │     Phillip Dorsett            '15 Rd1 #29      Y1: 225 yds      Peak: 528 yds / 33 rec / 2 TDs
+  │     Freddie Mitchell           '1 Rd1 #25       Y1: 283 yds      Peak: 498 yds / 35 rec / 2 TDs
+  │     Jon Baldwin                '11 Rd1 #26      Y1: 254 yds      Peak: 325 yds / 20 rec / 1 TDs
+  │     N'Keal Harry               '19 Rd1 #32      Y1: 105 yds      Peak: 309 yds / 33 rec / 2 TDs
+  │  ❌ Depth/Out:
+  │     R. Jay Soward              '0 Rd1 #29       Y1: 154 yds      Peak: 154 yds / 14 rec / 1 TDs
+  │     Charles Rogers             '3 Rd1 #2        Y1: 243 yds      Peak: 243 yds / 22 rec / 3 TDs
+  │     Rashaun Woods              '4 Rd1 #31       Y1: 160 yds      Peak: 160 yds / 7 rec / 1 TDs
+  └─
+
+  ┌─ WR | Rd 1 | Rookie Rec Yards 301-500  (n=17)
+  │  WR1: 4(24%) | WR2: 6(35%) | WR3: 7(41%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became WR1:
+  │     Javon Walker               '2 Rd1 #20       Y1: 319 yds      Peak: 1380 yds / 89 rec / 12 TDs (2x WR1)
+  │     Reggie Wayne               '1 Rd1 #30       Y1: 345 yds      Peak: 1210 yds / 77 rec / 12 TDs (8x WR1)
+  │     Roddy White                '5 Rd1 #27       Y1: 446 yds      Peak: 1202 yds / 83 rec / 6 TDs (6x WR1)
+  │     DeVante Parker             '15 Rd1 #14      Y1: 494 yds      Peak: 1202 yds / 72 rec / 9 TDs (1x WR1)
+  │  🟡 Became WR2:
+  │     Mark Clayton               '5 Rd1 #22       Y1: 471 yds      Peak: 939 yds / 67 rec / 5 TDs
+  │     Corey Davis                '17 Rd1 #5       Y1: 375 yds      Peak: 891 yds / 65 rec / 4 TDs
+  │     Ted Ginn                   '7 Rd1 #9        Y1: 420 yds      Peak: 790 yds / 56 rec / 2 TDs
+  │     Mike Williams              '5 Rd1 #10       Y1: 350 yds      Peak: 751 yds / 65 rec / 2 TDs
+  │     Bryant Johnson             '3 Rd1 #17       Y1: 438 yds      Peak: 740 yds / 40 rec / 4 TDs
+  │     ... and 1 more
+  │  🟠 Became WR3:
+  │     Cordarrelle Patterson      '13 Rd1 #29      Y1: 469 yds      Peak: 469 yds / 45 rec / 4 TDs
+  │     Henry Ruggs III            '20 Rd1 #12      Y1: 452 yds      Peak: 452 yds / 26 rec / 2 TDs
+  │     Kadarius Toney             '21 Rd1 #20      Y1: 420 yds      Peak: 420 yds / 39 rec / 0 TDs
+  │     Tavon Austin               '13 Rd1 #8       Y1: 418 yds      Peak: 418 yds / 40 rec / 4 TDs
+  │     ... and 3 more
+  └─
+
+  ┌─ WR | Rd 1 | Rookie Rec Yards 501-750  (n=18)
+  │  WR1: 12(67%) | WR2: 5(28%) | WR3: 1(6%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became WR1:
+  │     Dez Bryant                 '10 Rd1 #24      Y1: 561 yds      Peak: 1371 yds / 90 rec / 12 TDs (3x WR1)
+  │     Braylon Edwards            '5 Rd1 #3        Y1: 512 yds      Peak: 1289 yds / 80 rec / 16 TDs (1x WR1)
+  │     Koren Robinson             '1 Rd1 #9        Y1: 536 yds      Peak: 1240 yds / 78 rec / 5 TDs (1x WR1)
+  │     Brandin Cooks              '14 Rd1 #20      Y1: 550 yds      Peak: 1138 yds / 84 rec / 9 TDs (6x WR1)
+  │     Michael Crabtree           '9 Rd1 #10       Y1: 625 yds      Peak: 1105 yds / 85 rec / 9 TDs (2x WR1)
+  │     Ashley Lelie               '2 Rd1 #19       Y1: 525 yds      Peak: 1084 yds / 54 rec / 7 TDs (1x WR1)
+  │     Kendall Wright             '12 Rd1 #20      Y1: 626 yds      Peak: 1079 yds / 94 rec / 2 TDs (1x WR1)
+  │     Michael Floyd              '12 Rd1 #13      Y1: 562 yds      Peak: 1041 yds / 65 rec / 5 TDs (1x WR1)
+  │     Brandon Aiyuk              '20 Rd1 #25      Y1: 748 yds      Peak: 1015 yds / 78 rec / 8 TDs (2x WR1)
+  │     Marquise Brown             '19 Rd1 #25      Y1: 584 yds      Peak: 1008 yds / 91 rec / 6 TDs (1x WR1)
+  │     Rod Gardner                '1 Rd1 #15       Y1: 741 yds      Peak: 1006 yds / 71 rec / 8 TDs (1x WR1)
+  │     Kenny Britt                '9 Rd1 #30       Y1: 701 yds      Peak: 1002 yds / 68 rec / 5 TDs (1x WR1)
+  │  🟡 Became WR2:
+  │     Donte' Stallworth          '2 Rd1 #13       Y1: 594 yds      Peak: 767 yds / 58 rec / 5 TDs
+  │     Rashod Bateman             '21 Rd1 #27      Y1: 515 yds      Peak: 756 yds / 45 rec / 9 TDs
+  │     Peter Warrick              '0 Rd1 #4        Y1: 592 yds      Peak: 667 yds / 70 rec / 1 TDs
+  │     Anthony Gonzalez           '7 Rd1 #32       Y1: 576 yds      Peak: 664 yds / 57 rec / 4 TDs
+  │     Will Fuller                '16 Rd1 #21      Y1: 635 yds      Peak: 635 yds / 47 rec / 2 TDs
+  │  🟠 Became WR3:
+  │     Sylvester Morris           '0 Rd1 #21       Y1: 566 yds      Peak: 566 yds / 42 rec / 0 TDs
+  └─
+
+  ┌─ WR | Rd 1 | Rookie Rec Yards 750+  (n=26)
+  │  WR1: 24(92%) | WR2: 2(8%) | WR3: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became WR1:
+  │     Ja'Marr Chase              '21 Rd1 #5       Y1: 1455 yds     Peak: 1455 yds / 81 rec / 13 TDs (5x WR1)
+  │     Larry Fitzgerald           '4 Rd1 #3        Y1: 780 yds      Peak: 1409 yds / 103 rec / 10 TDs (9x WR1)
+  │     Justin Jefferson           '20 Rd1 #22      Y1: 1400 yds     Peak: 1400 yds / 88 rec / 7 TDs (6x WR1)
+  │     Calvin Ridley              '18 Rd1 #26      Y1: 821 yds      Peak: 1374 yds / 90 rec / 9 TDs (3x WR1)
+  │     Calvin Johnson             '7 Rd1 #2        Y1: 756 yds      Peak: 1331 yds / 78 rec / 12 TDs (7x WR1)
+  │     Jeremy Maclin              '9 Rd1 #19       Y1: 762 yds      Peak: 1318 yds / 85 rec / 10 TDs (2x WR1)
+  │     Roy Williams               '4 Rd1 #7        Y1: 817 yds      Peak: 1310 yds / 82 rec / 7 TDs (1x WR1)
+  │     Odell Beckham, Jr.         '14 Rd1 #12      Y1: 1305 yds     Peak: 1305 yds / 91 rec / 12 TDs (5x WR1)
+  │     Lee Evans                  '4 Rd1 #13       Y1: 843 yds      Peak: 1291 yds / 82 rec / 8 TDs (2x WR1)
+  │     Santonio Holmes            '6 Rd1 #25       Y1: 824 yds      Peak: 1248 yds / 79 rec / 5 TDs (1x WR1)
+  │     Jerry Jeudy                '20 Rd1 #15      Y1: 856 yds      Peak: 1229 yds / 90 rec / 4 TDs (1x WR1)
+  │     DeAndre Hopkins            '13 Rd1 #27      Y1: 802 yds      Peak: 1210 yds / 76 rec / 6 TDs (7x WR1)
+  │     Julio Jones                '11 Rd1 #6       Y1: 959 yds      Peak: 1198 yds / 79 rec / 10 TDs (7x WR1)
+  │     Michael Clayton            '4 Rd1 #15       Y1: 1193 yds     Peak: 1193 yds / 80 rec / 7 TDs (1x WR1)
+  │     D.J. Moore                 '18 Rd1 #24      Y1: 788 yds      Peak: 1175 yds / 87 rec / 4 TDs (4x WR1)
+  │     Andre Johnson              '3 Rd1 #3        Y1: 976 yds      Peak: 1142 yds / 79 rec / 6 TDs (7x WR1)
+  │     CeeDee Lamb                '20 Rd1 #17      Y1: 935 yds      Peak: 1102 yds / 79 rec / 6 TDs (5x WR1)
+  │     Amari Cooper               '15 Rd1 #4       Y1: 1070 yds     Peak: 1070 yds / 72 rec / 6 TDs (7x WR1)
+  │     A.J. Green                 '11 Rd1 #4       Y1: 1057 yds     Peak: 1057 yds / 65 rec / 7 TDs (6x WR1)
+  │     Hakeem Nicks               '9 Rd1 #29       Y1: 790 yds      Peak: 1052 yds / 79 rec / 11 TDs (2x WR1)
+  │     Mike Evans                 '14 Rd1 #7       Y1: 1051 yds     Peak: 1051 yds / 68 rec / 12 TDs (11x WR1)
+  │     Sammy Watkins              '14 Rd1 #4       Y1: 982 yds      Peak: 1047 yds / 60 rec / 9 TDs (1x WR1)
+  │     Dwayne Bowe                '7 Rd1 #23       Y1: 995 yds      Peak: 1022 yds / 86 rec / 7 TDs (3x WR1)
+  │     Kelvin Benjamin            '14 Rd1 #28      Y1: 1008 yds     Peak: 1008 yds / 73 rec / 9 TDs (1x WR1)
+  │  🟡 Became WR2:
+  │     Justin Blackmon            '12 Rd1 #5       Y1: 865 yds      Peak: 865 yds / 64 rec / 5 TDs
+  │     Percy Harvin               '9 Rd1 #22       Y1: 790 yds      Peak: 790 yds / 60 rec / 6 TDs
+  └─
+
+  ┌─ WR | Rd 2-3 | Rookie Rec Yards 0-100  (n=61)
+  │  WR1: 3(5%) | WR2: 10(16%) | WR3: 14(23%) | Depth/Out: 34(56%)
+  │
+  │  ✅ Became WR1:
+  │     Steve Smith                '7 Rd2 #51       Y1: 63 yds       Peak: 1220 yds / 107 rec / 7 TDs (1x WR1)
+  │     Kevin Curtis               '3 Rd3 #74       Y1: 13 yds       Peak: 1110 yds / 77 rec / 6 TDs (1x WR1)
+  │     Vincent Jackson            '5 Rd2 #61       Y1: 59 yds       Peak: 1098 yds / 59 rec / 7 TDs (6x WR1)
+  │  🟡 Became WR2:
+  │     Mike Sims-Walker           '7 Rd3 #79       Y1: 0 yds        Peak: 869 yds / 63 rec / 7 TDs
+  │     Mario Manningham           '8 Rd3 #95       Y1: 26 yds       Peak: 822 yds / 57 rec / 5 TDs
+  │     Devery Henderson           '4 Rd2 #50       Y1: 0 yds        Peak: 745 yds / 32 rec / 5 TDs
+  │     Jerome Simpson             '8 Rd2 #46       Y1: 2 yds        Peak: 725 yds / 50 rec / 4 TDs
+  │     Earl Bennett               '8 Rd3 #70       Y1: 0 yds        Peak: 717 yds / 54 rec / 2 TDs
+  │     ... and 5 more
+  │  🟠 Became WR3:
+  │     Robert Ferguson            '1 Rd2 #41       Y1: 0 yds        Peak: 520 yds / 38 rec / 4 TDs
+  │     Tutu Atwell                '21 Rd2 #57      Y1: 0 yds        Peak: 483 yds / 39 rec / 3 TDs
+  │     Sammie Coates              '15 Rd3 #87      Y1: 11 yds       Peak: 435 yds / 21 rec / 2 TDs
+  │     Andre Caldwell             '8 Rd3 #97       Y1: 78 yds       Peak: 432 yds / 51 rec / 3 TDs
+  │     ... and 10 more
+  │  ❌ Depth/Out:
+  │     Chris Cole                 '0 Rd3 #70       Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  │     JaJuan Dawson              '0 Rd3 #79       Y1: 97 yds       Peak: 97 yds / 9 rec / 1 TDs
+  │     Cliff Russell              '2 Rd3 #87       Y1: 0 yds        Peak: 10 yds / 2 rec / 0 TDs
+  │     Taylor Jacobs              '3 Rd2 #44       Y1: 37 yds       Peak: 37 yds / 3 rec / 1 TDs
+  │     Derrick Hamilton           '4 Rd3 #77       Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  │     ... and 29 more
+  └─
+
+  ┌─ WR | Rd 2-3 | Rookie Rec Yards 101-300  (n=52)
+  │  WR1: 4(8%) | WR2: 12(23%) | WR3: 24(46%) | Depth/Out: 12(23%)
+  │
+  │  ✅ Became WR1:
+  │     Golden Tate                '10 Rd2 #60      Y1: 227 yds      Peak: 1331 yds / 99 rec / 4 TDs (3x WR1)
+  │     Steve Smith                '1 Rd3 #74       Y1: 154 yds      Peak: 1110 yds / 88 rec / 7 TDs (8x WR1)
+  │     Eric Decker                '10 Rd3 #87      Y1: 106 yds      Peak: 1064 yds / 85 rec / 13 TDs (3x WR1)
+  │     D.J. Chark                 '18 Rd2 #61      Y1: 174 yds      Peak: 1008 yds / 73 rec / 8 TDs (1x WR1)
+  │  🟡 Became WR2:
+  │     Marquise Goodwin           '13 Rd3 #78      Y1: 283 yds      Peak: 962 yds / 56 rec / 2 TDs
+  │     Van Jefferson              '20 Rd2 #57      Y1: 220 yds      Peak: 802 yds / 50 rec / 6 TDs
+  │     Todd Pinkston              '0 Rd2 #36       Y1: 181 yds      Peak: 798 yds / 60 rec / 7 TDs
+  │     Mohamed Sanu               '12 Rd3 #83      Y1: 154 yds      Peak: 790 yds / 56 rec / 5 TDs
+  │     Bernard Berrian            '4 Rd3 #78       Y1: 225 yds      Peak: 775 yds / 51 rec / 6 TDs
+  │     ... and 7 more
+  │  🟠 Became WR3:
+  │     Damian Williams            '10 Rd3 #77      Y1: 219 yds      Peak: 592 yds / 45 rec / 5 TDs
+  │     Bryan Edwards              '20 Rd3 #81      Y1: 193 yds      Peak: 571 yds / 34 rec / 3 TDs
+  │     Leonard Hankerson          '11 Rd3 #79      Y1: 163 yds      Peak: 543 yds / 38 rec / 3 TDs
+  │     Taywan Taylor              '17 Rd3 #72      Y1: 231 yds      Peak: 466 yds / 37 rec / 1 TDs
+  │     ... and 20 more
+  │  ❌ Depth/Out:
+  │     Tyrone Calico              '3 Rd2 #60       Y1: 297 yds      Peak: 297 yds / 18 rec / 4 TDs
+  │     Bethel Johnson             '3 Rd2 #45       Y1: 209 yds      Peak: 209 yds / 16 rec / 2 TDs
+  │     Teyo Johnson               '3 Rd2 #63       Y1: 128 yds      Peak: 128 yds / 14 rec / 1 TDs
+  │     Courtney Roby              '5 Rd3 #68       Y1: 289 yds      Peak: 289 yds / 21 rec / 1 TDs
+  │     Chad Jackson               '6 Rd2 #36       Y1: 152 yds      Peak: 152 yds / 13 rec / 3 TDs
+  │     ... and 7 more
+  └─
+
+  ┌─ WR | Rd 2-3 | Rookie Rec Yards 301-500  (n=37)
+  │  WR1: 12(32%) | WR2: 14(38%) | WR3: 11(30%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became WR1:
+  │     Alshon Jeffery             '12 Rd2 #45      Y1: 367 yds      Peak: 1421 yds / 89 rec / 7 TDs (2x WR1)
+  │     Emmanuel Sanders           '10 Rd3 #82      Y1: 376 yds      Peak: 1404 yds / 101 rec / 9 TDs (3x WR1)
+  │     Davante Adams              '14 Rd2 #53      Y1: 446 yds      Peak: 1386 yds / 111 rec / 13 TDs (6x WR1)
+  │     Sidney Rice                '7 Rd2 #44       Y1: 396 yds      Peak: 1312 yds / 84 rec / 8 TDs (1x WR1)
+  │     Nico Collins               '21 Rd3 #89      Y1: 446 yds      Peak: 1297 yds / 80 rec / 8 TDs (3x WR1)
+  │     Randall Cobb               '11 Rd2 #64      Y1: 375 yds      Peak: 1287 yds / 91 rec / 12 TDs (1x WR1)
+  │     Laveranues Coles           '0 Rd3 #78       Y1: 370 yds      Peak: 1264 yds / 89 rec / 5 TDs (3x WR1)
+  │     Jordy Nelson               '8 Rd2 #36       Y1: 366 yds      Peak: 1263 yds / 68 rec / 15 TDs (4x WR1)
+  │     Chad Johnson               '1 Rd2 #36       Y1: 329 yds      Peak: 1166 yds / 69 rec / 5 TDs (7x WR1)
+  │     Harry Douglas              '8 Rd3 #84       Y1: 320 yds      Peak: 1067 yds / 85 rec / 2 TDs (1x WR1)
+  │     Kenny Golladay             '17 Rd3 #96      Y1: 477 yds      Peak: 1063 yds / 70 rec / 5 TDs (2x WR1)
+  │     Nate Burleson              '3 Rd3 #71       Y1: 455 yds      Peak: 1006 yds / 68 rec / 9 TDs (1x WR1)
+  │  🟡 Became WR2:
+  │     Quincy Morgan              '1 Rd2 #33       Y1: 432 yds      Peak: 964 yds / 56 rec / 7 TDs
+  │     Laurent Robinson           '7 Rd3 #75       Y1: 437 yds      Peak: 858 yds / 54 rec / 11 TDs
+  │     Marqise Lee                '14 Rd2 #39      Y1: 422 yds      Peak: 851 yds / 63 rec / 3 TDs
+  │     Devin Funchess             '15 Rd2 #41      Y1: 473 yds      Peak: 840 yds / 63 rec / 8 TDs
+  │     Deion Branch               '2 Rd2 #65       Y1: 489 yds      Peak: 803 yds / 57 rec / 3 TDs
+  │     ... and 9 more
+  │  🟠 Became WR3:
+  │     Dante Pettis               '18 Rd2 #44      Y1: 467 yds      Peak: 467 yds / 27 rec / 5 TDs
+  │     Rondale Moore              '21 Rd2 #49      Y1: 435 yds      Peak: 435 yds / 54 rec / 1 TDs
+  │     Andre' Davis               '2 Rd2 #47       Y1: 420 yds      Peak: 420 yds / 37 rec / 6 TDs
+  │     Arrelious Benn             '10 Rd2 #39      Y1: 395 yds      Peak: 395 yds / 25 rec / 2 TDs
+  │     ... and 7 more
+  └─
+
+  ┌─ WR | Rd 2-3 | Rookie Rec Yards 501-750  (n=30)
+  │  WR1: 14(47%) | WR2: 11(37%) | WR3: 5(17%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became WR1:
+  │     Allen Robinson             '14 Rd2 #61      Y1: 548 yds      Peak: 1400 yds / 80 rec / 14 TDs (3x WR1)
+  │     Chris Godwin               '17 Rd3 #84      Y1: 525 yds      Peak: 1333 yds / 86 rec / 9 TDs (4x WR1)
+  │     Greg Jennings              '6 Rd2 #52       Y1: 632 yds      Peak: 1292 yds / 80 rec / 9 TDs (3x WR1)
+  │     Robert Woods               '13 Rd2 #41      Y1: 587 yds      Peak: 1219 yds / 86 rec / 6 TDs (2x WR1)
+  │     Diontae Johnson            '19 Rd3 #66      Y1: 680 yds      Peak: 1161 yds / 107 rec / 8 TDs (1x WR1)
+  │     Courtland Sutton           '18 Rd2 #40      Y1: 704 yds      Peak: 1112 yds / 72 rec / 6 TDs (3x WR1)
+  │     Christian Kirk             '18 Rd2 #47      Y1: 590 yds      Peak: 1108 yds / 84 rec / 8 TDs (1x WR1)
+  │     Michael Gallup             '18 Rd3 #81      Y1: 507 yds      Peak: 1107 yds / 66 rec / 6 TDs (1x WR1)
+  │     Michael Pittman            '20 Rd2 #34      Y1: 503 yds      Peak: 1082 yds / 88 rec / 6 TDs (2x WR1)
+  │     Darrell Jackson            '0 Rd3 #80       Y1: 713 yds      Peak: 1081 yds / 70 rec / 8 TDs (3x WR1)
+  │     Tyler Lockett              '15 Rd3 #69      Y1: 664 yds      Peak: 1057 yds / 82 rec / 8 TDs (4x WR1)
+  │     Tyler Boyd                 '16 Rd2 #55      Y1: 603 yds      Peak: 1028 yds / 76 rec / 7 TDs (2x WR1)
+  │     Antonio Bryant             '2 Rd2 #63       Y1: 733 yds      Peak: 1009 yds / 69 rec / 4 TDs (2x WR1)
+  │     John Brown                 '14 Rd3 #91      Y1: 696 yds      Peak: 1003 yds / 65 rec / 7 TDs (2x WR1)
+  │  🟡 Became WR2:
+  │     Reggie Brown               '5 Rd2 #35       Y1: 571 yds      Peak: 836 yds / 47 rec / 8 TDs
+  │     Terrance Williams          '13 Rd3 #74      Y1: 736 yds      Peak: 736 yds / 44 rec / 5 TDs
+  │     Greg Little                '11 Rd2 #59      Y1: 709 yds      Peak: 709 yds / 61 rec / 2 TDs
+  │     Mecole Hardman             '19 Rd2 #56      Y1: 538 yds      Peak: 693 yds / 59 rec / 2 TDs
+  │     Donnie Avery               '8 Rd2 #33       Y1: 684 yds      Peak: 684 yds / 54 rec / 3 TDs
+  │     ... and 6 more
+  │  🟠 Became WR3:
+  │     Mohamed Massaquoi          '9 Rd2 #50       Y1: 624 yds      Peak: 624 yds / 34 rec / 3 TDs
+  │     Dorial Green-Beckham       '15 Rd2 #40      Y1: 549 yds      Peak: 549 yds / 32 rec / 4 TDs
+  │     Aaron Dobson               '13 Rd2 #59      Y1: 519 yds      Peak: 519 yds / 37 rec / 4 TDs
+  │     Snoop Minnis               '1 Rd3 #77       Y1: 511 yds      Peak: 511 yds / 33 rec / 1 TDs
+  │     ... and 1 more
+  └─
+
+  ┌─ WR | Rd 2-3 | Rookie Rec Yards 750+  (n=20)
+  │  WR1: 16(80%) | WR2: 4(20%) | WR3: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became WR1:
+  │     JuJu Smith-Schuster        '17 Rd2 #62      Y1: 917 yds      Peak: 1426 yds / 111 rec / 7 TDs (1x WR1)
+  │     Deebo Samuel               '19 Rd2 #36      Y1: 802 yds      Peak: 1405 yds / 77 rec / 6 TDs (1x WR1)
+  │     Anquan Boldin              '3 Rd2 #54       Y1: 1377 yds     Peak: 1377 yds / 101 rec / 8 TDs (7x WR1)
+  │     D.K. Metcalf               '19 Rd2 #64      Y1: 900 yds      Peak: 1303 yds / 83 rec / 10 TDs (3x WR1)
+  │     Mike Wallace               '9 Rd3 #84       Y1: 756 yds      Peak: 1257 yds / 60 rec / 10 TDs (3x WR1)
+  │     DeSean Jackson             '8 Rd2 #49       Y1: 912 yds      Peak: 1167 yds / 63 rec / 9 TDs (4x WR1)
+  │     Cooper Kupp                '17 Rd3 #69      Y1: 869 yds      Peak: 1161 yds / 94 rec / 10 TDs (2x WR1)
+  │     Jarvis Landry              '14 Rd2 #63      Y1: 758 yds      Peak: 1157 yds / 110 rec / 4 TDs (3x WR1)
+  │     Michael Thomas             '16 Rd2 #47      Y1: 1137 yds     Peak: 1137 yds / 92 rec / 9 TDs (4x WR1)
+  │     Torrey Smith               '11 Rd2 #58      Y1: 841 yds      Peak: 1128 yds / 65 rec / 4 TDs (1x WR1)
+  │     Chris Chambers             '1 Rd2 #52       Y1: 883 yds      Peak: 1118 yds / 82 rec / 11 TDs (1x WR1)
+  │     Terry McLaurin             '19 Rd3 #76      Y1: 919 yds      Peak: 1118 yds / 87 rec / 4 TDs (5x WR1)
+  │     Tee Higgins                '20 Rd2 #33      Y1: 908 yds      Peak: 1091 yds / 74 rec / 6 TDs (2x WR1)
+  │     T.Y. Hilton                '12 Rd3 #92      Y1: 861 yds      Peak: 1083 yds / 82 rec / 5 TDs (5x WR1)
+  │     A.J. Brown                 '19 Rd2 #51      Y1: 1051 yds     Peak: 1051 yds / 52 rec / 8 TDs (6x WR1)
+  │     Keenan Allen               '13 Rd3 #76      Y1: 1046 yds     Peak: 1046 yds / 71 rec / 8 TDs (6x WR1)
+  │  🟡 Became WR2:
+  │     Eddie Royal                '8 Rd2 #42       Y1: 980 yds      Peak: 980 yds / 91 rec / 5 TDs
+  │     Chase Claypool             '20 Rd2 #49      Y1: 873 yds      Peak: 873 yds / 62 rec / 9 TDs
+  │     Jordan Matthews            '14 Rd2 #42      Y1: 872 yds      Peak: 872 yds / 67 rec / 8 TDs
+  │     Keary Colbert              '4 Rd2 #62       Y1: 754 yds      Peak: 754 yds / 47 rec / 5 TDs
+  └─
+
+  ┌─ WR | Rd 4+ | Rookie Rec Yards 0-100  (n=214)
+  │  WR1: 5(2%) | WR2: 13(6%) | WR3: 32(15%) | Depth/Out: 164(77%)
+  │
+  │  ✅ Became WR1:
+  │     Pierre Garcon              '8 Rd6 #205      Y1: 23 yds       Peak: 1346 yds / 113 rec / 5 TDs (2x WR1)
+  │     Darren Waller              '15 Rd6 #204     Y1: 18 yds       Peak: 1145 yds / 90 rec / 3 TDs (2x WR1)
+  │     Jerricho Cotchery          '4 Rd4 #108      Y1: 60 yds       Peak: 1129 yds / 82 rec / 2 TDs (1x WR1)
+  │     Delanie Walker             '6 Rd6 #175      Y1: 30 yds       Peak: 1088 yds / 94 rec / 6 TDs (1x WR1)
+  │     Steve Breaston             '7 Rd5 #142      Y1: 92 yds       Peak: 1003 yds / 77 rec / 3 TDs (1x WR1)
+  │  🟡 Became WR2:
+  │     Cecil Shorts               '11 Rd4 #114     Y1: 30 yds       Peak: 979 yds / 55 rec / 7 TDs
+  │     Jauan Jennings             '20 Rd7 #217     Y1: 0 yds        Peak: 975 yds / 77 rec / 6 TDs
+  │     Shaun McDonald             '3 Rd4 #106      Y1: 62 yds       Peak: 943 yds / 79 rec / 6 TDs
+  │     David Givens               '2 Rd7 #253      Y1: 92 yds       Peak: 872 yds / 56 rec / 3 TDs
+  │     Quincy Enunwa              '14 Rd6 #209     Y1: 0 yds        Peak: 857 yds / 58 rec / 4 TDs
+  │     ... and 8 more
+  │  🟠 Became WR3:
+  │     Auden Tate                 '18 Rd7 #253     Y1: 35 yds       Peak: 575 yds / 40 rec / 1 TDs
+  │     Ryan Grant                 '14 Rd5 #142     Y1: 68 yds       Peak: 573 yds / 45 rec / 4 TDs
+  │     Noah Brown                 '17 Rd7 #239     Y1: 33 yds       Peak: 555 yds / 43 rec / 3 TDs
+  │     Doug Gabriel               '3 Rd5 #167      Y1: 17 yds       Peak: 551 yds / 33 rec / 2 TDs
+  │     ... and 28 more
+  │  ❌ Depth/Out:
+  │     Mareno Philyaw             '0 Rd6 #172      Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  │     Gari Scott                 '0 Rd4 #99       Y1: 0 yds        Peak: 26 yds / 2 rec / 0 TDs
+  │     James Williams             '0 Rd6 #175      Y1: 99 yds       Peak: 99 yds / 8 rec / 0 TDs
+  │     Alex Bannister             '1 Rd5 #140      Y1: 50 yds       Peak: 50 yds / 4 rec / 0 TDs
+  │     Eddie Berlin               '1 Rd5 #159      Y1: 28 yds       Peak: 28 yds / 2 rec / 0 TDs
+  │     ... and 159 more
+  └─
+
+  ┌─ WR | Rd 4+ | Rookie Rec Yards 101-300  (n=51)
+  │  WR1: 3(6%) | WR2: 8(16%) | WR3: 11(22%) | Depth/Out: 29(57%)
+  │
+  │  ✅ Became WR1:
+  │     Brandon Lloyd              '3 Rd4 #124      Y1: 212 yds      Peak: 1448 yds / 77 rec / 11 TDs (1x WR1)
+  │     Antonio Brown              '10 Rd6 #195     Y1: 167 yds      Peak: 1108 yds / 69 rec / 2 TDs (7x WR1)
+  │     Marvin Jones               '12 Rd5 #166     Y1: 201 yds      Peak: 1101 yds / 61 rec / 9 TDs (1x WR1)
+  │  🟡 Became WR2:
+  │     Travis Benjamin            '12 Rd4 #100     Y1: 298 yds      Peak: 966 yds / 68 rec / 5 TDs
+  │     Riley Cooper               '10 Rd5 #159     Y1: 116 yds      Peak: 835 yds / 47 rec / 8 TDs
+  │     Mack Hollins               '17 Rd4 #118     Y1: 226 yds      Peak: 690 yds / 57 rec / 4 TDs
+  │     Ernest Wilford             '4 Rd4 #120      Y1: 271 yds      Peak: 681 yds / 41 rec / 7 TDs
+  │     Rishard Matthews           '12 Rd7 #227     Y1: 151 yds      Peak: 662 yds / 43 rec / 4 TDs
+  │     ... and 3 more
+  │  🟠 Became WR3:
+  │     J.J. Nelson                '15 Rd5 #159     Y1: 299 yds      Peak: 568 yds / 34 rec / 6 TDs
+  │     Samie Parker               '4 Rd4 #105      Y1: 137 yds      Peak: 533 yds / 36 rec / 3 TDs
+  │     Charles Lee                '0 Rd7 #242      Y1: 134 yds      Peak: 432 yds / 33 rec / 2 TDs
+  │     Keke Coutee                '18 Rd4 #103     Y1: 287 yds      Peak: 400 yds / 33 rec / 3 TDs
+  │     ... and 7 more
+  │  ❌ Depth/Out:
+  │     Danny Farmer               '0 Rd4 #103      Y1: 268 yds      Peak: 268 yds / 19 rec / 0 TDs
+  │     Windrell Hayes             '0 Rd5 #143      Y1: 126 yds      Peak: 126 yds / 6 rec / 0 TDs
+  │     Reggie Germany             '1 Rd7 #214      Y1: 203 yds      Peak: 203 yds / 12 rec / 0 TDs
+  │     Andre King                 '1 Rd7 #245      Y1: 149 yds      Peak: 149 yds / 11 rec / 0 TDs
+  │     Ron Johnson                '2 Rd4 #123      Y1: 114 yds      Peak: 114 yds / 10 rec / 1 TDs
+  │     ... and 24 more
+  └─
+
+  ┌─ WR | Rd 4+ | Rookie Rec Yards 301-500  (n=19)
+  │  WR1: 1(5%) | WR2: 7(37%) | WR3: 11(58%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became WR1:
+  │     Brandon Marshall           '6 Rd4 #119      Y1: 309 yds      Peak: 1325 yds / 102 rec / 7 TDs (8x WR1)
+  │  🟡 Became WR2:
+  │     Donovan Peoples-Jones      '20 Rd6 #187     Y1: 304 yds      Peak: 839 yds / 61 rec / 3 TDs
+  │     Jeremy Kerley              '11 Rd5 #153     Y1: 314 yds      Peak: 827 yds / 56 rec / 2 TDs
+  │     Mike Thomas                '9 Rd4 #107      Y1: 453 yds      Peak: 820 yds / 66 rec / 4 TDs
+  │     Justin Gage                '3 Rd5 #143      Y1: 338 yds      Peak: 750 yds / 55 rec / 2 TDs
+  │     Dede Westbrook             '17 Rd4 #110     Y1: 339 yds      Peak: 717 yds / 66 rec / 5 TDs
+  │     ... and 2 more
+  │  🟠 Became WR3:
+  │     Ace Sanders                '13 Rd4 #101     Y1: 484 yds      Peak: 484 yds / 51 rec / 1 TDs
+  │     Jacoby Ford                '10 Rd4 #108     Y1: 470 yds      Peak: 470 yds / 25 rec / 2 TDs
+  │     Trent Taylor               '17 Rd5 #177     Y1: 430 yds      Peak: 430 yds / 43 rec / 2 TDs
+  │     Malcolm Mitchell           '16 Rd4 #112     Y1: 401 yds      Peak: 401 yds / 32 rec / 4 TDs
+  │     ... and 7 more
+  └─
+
+  ┌─ WR | Rd 4+ | Rookie Rec Yards 501-750  (n=18)
+  │  WR1: 4(22%) | WR2: 11(61%) | WR3: 3(17%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became WR1:
+  │     Brian Hartline             '9 Rd4 #108      Y1: 506 yds      Peak: 1083 yds / 74 rec / 1 TDs (2x WR1)
+  │     Darnell Mooney             '20 Rd5 #173     Y1: 631 yds      Peak: 1055 yds / 81 rec / 4 TDs (1x WR1)
+  │     Hunter Renfrow             '19 Rd5 #149     Y1: 605 yds      Peak: 1038 yds / 103 rec / 9 TDs (1x WR1)
+  │     Stefon Diggs               '15 Rd5 #146     Y1: 720 yds      Peak: 1021 yds / 102 rec / 9 TDs (7x WR1)
+  │  🟡 Became WR2:
+  │     Johnny Knox                '9 Rd5 #140      Y1: 527 yds      Peak: 960 yds / 51 rec / 5 TDs
+  │     Gabriel Davis              '20 Rd4 #128     Y1: 599 yds      Peak: 836 yds / 48 rec / 7 TDs
+  │     Martavis Bryant            '14 Rd4 #118     Y1: 549 yds      Peak: 765 yds / 50 rec / 6 TDs
+  │     Darius Slayton             '19 Rd5 #171     Y1: 740 yds      Peak: 740 yds / 48 rec / 8 TDs
+  │     Chris Givens               '12 Rd4 #96      Y1: 698 yds      Peak: 698 yds / 42 rec / 3 TDs
+  │     ... and 6 more
+  │  🟠 Became WR3:
+  │     Antonio Callaway           '18 Rd4 #105     Y1: 586 yds      Peak: 586 yds / 43 rec / 5 TDs
+  │     Tajae Sharpe               '16 Rd5 #140     Y1: 522 yds      Peak: 522 yds / 41 rec / 2 TDs
+  │     David Gettis               '10 Rd6 #198     Y1: 508 yds      Peak: 508 yds / 37 rec / 3 TDs
+  └─
+
+  ┌─ WR | Rd 4+ | Rookie Rec Yards 750+  (n=3)
+  │  WR1: 2(67%) | WR2: 1(33%) | WR3: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became WR1:
+  │     Amon-Ra St. Brown          '21 Rd4 #112     Y1: 912 yds      Peak: 1161 yds / 106 rec / 6 TDs (4x WR1)
+  │     Marques Colston            '6 Rd7 #252      Y1: 1038 yds     Peak: 1038 yds / 70 rec / 8 TDs (6x WR1)
+  │  🟡 Became WR2:
+  │     Mike Williams              '10 Rd4 #101     Y1: 964 yds      Peak: 964 yds / 65 rec / 11 TDs
+  └─
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  RB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ┌─ RB | Rd 1 | Rookie Rush Yards 0-100  (n=7)
+  │  RB1: 5(71%) | RB2: 0(0%) | RB3: 1(14%) | Depth/Out: 1(14%)
+  │
+  │  ✅ Became RB1:
+  │     Larry Johnson              '3 Rd1 #27       Y1: 85 yds       Peak: 1750 yds / 20 TDs (2x RB1)
+  │     Deuce McAllister           '1 Rd1 #23       Y1: 91 yds       Peak: 1388 yds / 13 TDs (4x RB1)
+  │     Willis McGahee             '3 Rd1 #23       Y1: 0 yds        Peak: 1128 yds / 13 TDs (4x RB1)
+  │     Travis Etienne             '21 Rd1 #25      Y1: 0 yds        Peak: 1125 yds / 5 TDs (3x RB1)
+  │     Rashard Mendenhall         '8 Rd1 #23       Y1: 58 yds       Peak: 1108 yds / 7 TDs (2x RB1)
+  │  🟠 Became RB3:
+  │     Trung Canidate             '0 Rd1 #31       Y1: 6 yds        Peak: 441 yds / 6 TDs
+  │  ❌ Depth/Out:
+  │     Chris Perry                '4 Rd1 #26       Y1: 1 yds        Peak: 1 yds / 0 TDs
+  └─
+
+  ┌─ RB | Rd 1 | Rookie Rush Yards 101-350  (n=5)
+  │  RB1: 3(60%) | RB2: 2(40%) | RB3: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     Shaun Alexander            '0 Rd1 #19       Y1: 313 yds      Peak: 1318 yds / 14 TDs (5x RB1)
+  │     Cedric Benson              '5 Rd1 #4        Y1: 272 yds      Peak: 1251 yds / 6 TDs (3x RB1)
+  │     C.J. Spiller               '10 Rd1 #9       Y1: 283 yds      Peak: 1244 yds / 6 TDs (1x RB1)
+  │  🟡 Became RB2:
+  │     Felix Jones                '8 Rd1 #22       Y1: 266 yds      Peak: 800 yds / 1 TDs
+  │     Donald Brown               '9 Rd1 #27       Y1: 281 yds      Peak: 645 yds / 5 TDs
+  └─
+
+  ┌─ RB | Rd 1 | Rookie Rush Yards 351-600  (n=10)
+  │  RB1: 6(60%) | RB2: 2(20%) | RB3: 2(20%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     DeAngelo Williams          '6 Rd1 #27       Y1: 501 yds      Peak: 1518 yds / 18 TDs (2x RB1)
+  │     Thomas Jones               '0 Rd1 #7        Y1: 373 yds      Peak: 1335 yds / 9 TDs (5x RB1)
+  │     Darren McFadden            '8 Rd1 #4        Y1: 499 yds      Peak: 1157 yds / 7 TDs (2x RB1)
+  │     Christian McCaffrey        '17 Rd1 #8       Y1: 435 yds      Peak: 1098 yds / 7 TDs (5x RB1)
+  │     Reggie Bush                '6 Rd1 #2        Y1: 558 yds      Peak: 1086 yds / 6 TDs (2x RB1)
+  │     Mark Ingram                '11 Rd1 #28      Y1: 492 yds      Peak: 1043 yds / 6 TDs (3x RB1)
+  │  🟡 Became RB2:
+  │     T.J. Duckett               '2 Rd1 #18       Y1: 507 yds      Peak: 779 yds / 11 TDs
+  │     Rashaad Penny              '18 Rd1 #27      Y1: 419 yds      Peak: 749 yds / 6 TDs
+  │  🟠 Became RB3:
+  │     Jahvid Best                '10 Rd1 #30      Y1: 563 yds      Peak: 563 yds / 4 TDs
+  │     David Wilson               '12 Rd1 #32      Y1: 358 yds      Peak: 358 yds / 4 TDs
+  └─
+
+  ┌─ RB | Rd 1 | Rookie Rush Yards 601-900  (n=10)
+  │  RB1: 6(60%) | RB2: 4(40%) | RB3: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     Michael Bennett            '1 Rd1 #27       Y1: 682 yds      Peak: 1296 yds / 5 TDs (1x RB1)
+  │     Jonathan Stewart           '8 Rd1 #13       Y1: 835 yds      Peak: 1133 yds / 10 TDs (1x RB1)
+  │     Melvin Gordon              '15 Rd1 #15      Y1: 641 yds      Peak: 1105 yds / 8 TDs (1x RB1)
+  │     Ryan Mathews               '10 Rd1 #12      Y1: 675 yds      Peak: 1091 yds / 6 TDs (2x RB1)
+  │     Beanie Wells               '9 Rd1 #31       Y1: 793 yds      Peak: 1047 yds / 10 TDs (1x RB1)
+  │     Steven Jackson             '4 Rd1 #24       Y1: 673 yds      Peak: 1046 yds / 8 TDs (8x RB1)
+  │  🟡 Became RB2:
+  │     William Green              '2 Rd1 #16       Y1: 887 yds      Peak: 887 yds / 6 TDs
+  │     Clyde Edwards-Helaire      '20 Rd1 #32      Y1: 803 yds      Peak: 803 yds / 4 TDs
+  │     Ron Dayne                  '0 Rd1 #11       Y1: 770 yds      Peak: 770 yds / 5 TDs
+  │     Laurence Maroney           '6 Rd1 #21       Y1: 745 yds      Peak: 745 yds / 6 TDs
+  └─
+
+  ┌─ RB | Rd 1 | Rookie Rush Yards 900+  (n=18)
+  │  RB1: 16(89%) | RB2: 2(11%) | RB3: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     Ezekiel Elliott            '16 Rd1 #4       Y1: 1631 yds     Peak: 1631 yds / 15 TDs (4x RB1)
+  │     Doug Martin                '12 Rd1 #31      Y1: 1454 yds     Peak: 1454 yds / 11 TDs (2x RB1)
+  │     Jamal Lewis                '0 Rd1 #5        Y1: 1364 yds     Peak: 1364 yds / 6 TDs (7x RB1)
+  │     Adrian Peterson            '7 Rd1 #7        Y1: 1341 yds     Peak: 1341 yds / 12 TDs (8x RB1)
+  │     Saquon Barkley             '18 Rd1 #2       Y1: 1307 yds     Peak: 1307 yds / 11 TDs (5x RB1)
+  │     LaDainian Tomlinson        '1 Rd1 #5        Y1: 1236 yds     Peak: 1236 yds / 10 TDs (8x RB1)
+  │     Chris Johnson              '8 Rd1 #24       Y1: 1228 yds     Peak: 1228 yds / 9 TDs (6x RB1)
+  │     Cadillac Williams          '5 Rd1 #5        Y1: 1178 yds     Peak: 1178 yds / 6 TDs (1x RB1)
+  │     Josh Jacobs                '19 Rd1 #24      Y1: 1150 yds     Peak: 1150 yds / 7 TDs (4x RB1)
+  │     Kevin Jones                '4 Rd1 #30       Y1: 1133 yds     Peak: 1133 yds / 5 TDs (1x RB1)
+  │     Marshawn Lynch             '7 Rd1 #12       Y1: 1115 yds     Peak: 1115 yds / 7 TDs (6x RB1)
+  │     Todd Gurley                '15 Rd1 #10      Y1: 1106 yds     Peak: 1106 yds / 10 TDs (3x RB1)
+  │     Joseph Addai               '6 Rd1 #30       Y1: 1081 yds     Peak: 1081 yds / 7 TDs (2x RB1)
+  │     Leonard Fournette          '17 Rd1 #4       Y1: 1040 yds     Peak: 1040 yds / 9 TDs (2x RB1)
+  │     Knowshon Moreno            '9 Rd1 #12       Y1: 947 yds      Peak: 1038 yds / 10 TDs (1x RB1)
+  │     Ronnie Brown               '5 Rd1 #2        Y1: 907 yds      Peak: 1005 yds / 5 TDs (1x RB1)
+  │  🟡 Became RB2:
+  │     Trent Richardson           '12 Rd1 #3       Y1: 950 yds      Peak: 950 yds / 11 TDs
+  │     Sony Michel                '18 Rd1 #31      Y1: 931 yds      Peak: 931 yds / 6 TDs
+  └─
+
+  ┌─ RB | Rd 2-3 | Rookie Rush Yards 0-100  (n=25)
+  │  RB1: 1(4%) | RB2: 5(20%) | RB3: 3(12%) | Depth/Out: 16(64%)
+  │
+  │  ✅ Became RB1:
+  │     Reuben Droughns            '0 Rd3 #81       Y1: 0 yds        Peak: 1240 yds / 6 TDs (2x RB1)
+  │  🟡 Became RB2:
+  │     Ben Tate                   '10 Rd2 #58      Y1: 0 yds        Peak: 942 yds / 4 TDs
+  │     Damien Harris              '19 Rd3 #87      Y1: 12 yds       Peak: 929 yds / 15 TDs
+  │     DeShaun Foster             '2 Rd2 #34       Y1: 0 yds        Peak: 882 yds / 2 TDs
+  │     Mikel Leshoure             '11 Rd2 #57      Y1: 0 yds        Peak: 798 yds / 9 TDs
+  │     Ronald Jones               '18 Rd2 #38      Y1: 44 yds       Peak: 724 yds / 6 TDs
+  │  🟠 Became RB3:
+  │     Christine Michael          '13 Rd2 #62      Y1: 79 yds       Peak: 583 yds / 7 TDs
+  │     Alex Green                 '11 Rd3 #96      Y1: 11 yds       Peak: 464 yds / 0 TDs
+  │     Shane Vereen               '11 Rd2 #56      Y1: 57 yds       Peak: 391 yds / 2 TDs
+  │  ❌ Depth/Out:
+  │     Doug Chapman               '0 Rd3 #88       Y1: 0 yds        Peak: 195 yds / 0 TDs
+  │     Heath Evans                '1 Rd3 #82       Y1: 11 yds       Peak: 11 yds / 0 TDs
+  │     B.J. Askew                 '3 Rd3 #85       Y1: 9 yds        Peak: 9 yds / 0 TDs
+  │     Musa Smith                 '3 Rd3 #77       Y1: 31 yds       Peak: 31 yds / 2 TDs
+  │     Travis Wilson              '4 Rd3 #78       Y1: 0 yds        Peak: 0 yds / 0 TDs
+  │     ... and 11 more
+  └─
+
+  ┌─ RB | Rd 2-3 | Rookie Rush Yards 101-350  (n=31)
+  │  RB1: 8(26%) | RB2: 7(23%) | RB3: 8(26%) | Depth/Out: 8(26%)
+  │
+  │  ✅ Became RB1:
+  │     Brian Westbrook            '2 Rd3 #91       Y1: 193 yds      Peak: 1217 yds / 7 TDs (2x RB1)
+  │     Ladell Betts               '2 Rd2 #56       Y1: 307 yds      Peak: 1154 yds / 4 TDs (1x RB1)
+  │     LenDale White              '6 Rd2 #45       Y1: 244 yds      Peak: 1108 yds / 7 TDs (1x RB1)
+  │     Carlos Hyde                '14 Rd2 #57      Y1: 333 yds      Peak: 1070 yds / 6 TDs (1x RB1)
+  │     Chris Brown                '3 Rd3 #93       Y1: 221 yds      Peak: 1067 yds / 6 TDs (1x RB1)
+  │     James Conner               '17 Rd3 #105     Y1: 144 yds      Peak: 1040 yds / 7 TDs (2x RB1)
+  │     Lamont Jordan              '1 Rd2 #49       Y1: 292 yds      Peak: 1025 yds / 9 TDs (1x RB1)
+  │     Justin Fargas              '3 Rd3 #96       Y1: 203 yds      Peak: 1009 yds / 4 TDs (1x RB1)
+  │  🟡 Became RB2:
+  │     D'Onta Foreman             '17 Rd3 #89      Y1: 327 yds      Peak: 914 yds / 5 TDs
+  │     Ronnie Hillman             '12 Rd3 #67      Y1: 330 yds      Peak: 863 yds / 7 TDs
+  │     Kenyan Drake               '16 Rd3 #73      Y1: 179 yds      Peak: 817 yds / 8 TDs
+  │     AJ Dillon                  '20 Rd2 #62      Y1: 242 yds      Peak: 803 yds / 5 TDs
+  │     Brandon Jackson            '7 Rd2 #63       Y1: 267 yds      Peak: 703 yds / 3 TDs
+  │     ... and 2 more
+  │  🟠 Became RB3:
+  │     Greg Jones                 '4 Rd2 #55       Y1: 162 yds      Peak: 575 yds / 4 TDs
+  │     Charles Sims               '14 Rd3 #69      Y1: 185 yds      Peak: 529 yds / 0 TDs
+  │     Knile Davis                '13 Rd3 #96      Y1: 242 yds      Peak: 463 yds / 6 TDs
+  │     Vernand Morency            '5 Rd3 #73       Y1: 184 yds      Peak: 434 yds / 2 TDs
+  │     ... and 4 more
+  │  ❌ Depth/Out:
+  │     Lamar Gordon               '2 Rd3 #84       Y1: 228 yds      Peak: 228 yds / 1 TDs
+  │     Lorenzo Booker             '7 Rd3 #71       Y1: 125 yds      Peak: 125 yds / 0 TDs
+  │     Chris Henry                '7 Rd2 #50       Y1: 119 yds      Peak: 119 yds / 2 TDs
+  │     Glen Coffee                '9 Rd3 #74       Y1: 226 yds      Peak: 226 yds / 1 TDs
+  │     LaMichael James            '12 Rd2 #61      Y1: 125 yds      Peak: 125 yds / 0 TDs
+  │     ... and 3 more
+  └─
+
+  ┌─ RB | Rd 2-3 | Rookie Rush Yards 351-600  (n=26)
+  │  RB1: 10(38%) | RB2: 3(12%) | RB3: 13(50%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     Ray Rice                   '8 Rd2 #55       Y1: 454 yds      Peak: 1339 yds / 7 TDs (4x RB1)
+  │     Stevan Ridley              '11 Rd3 #73      Y1: 441 yds      Peak: 1263 yds / 12 TDs (1x RB1)
+  │     David Johnson              '15 Rd3 #86      Y1: 581 yds      Peak: 1239 yds / 16 TDs (1x RB1)
+  │     Dalvin Cook                '17 Rd2 #41      Y1: 354 yds      Peak: 1135 yds / 13 TDs (4x RB1)
+  │     Jamaal Charles             '8 Rd3 #73       Y1: 357 yds      Peak: 1120 yds / 7 TDs (5x RB1)
+  │     Derrick Henry              '16 Rd2 #45      Y1: 490 yds      Peak: 1059 yds / 12 TDs (7x RB1)
+  │     Shonn Greene               '9 Rd3 #65       Y1: 541 yds      Peak: 1054 yds / 6 TDs (2x RB1)
+  │     D'Andre Swift              '20 Rd2 #35      Y1: 521 yds      Peak: 1049 yds / 5 TDs (2x RB1)
+  │     Tatum Bell                 '4 Rd2 #41       Y1: 396 yds      Peak: 1025 yds / 2 TDs (1x RB1)
+  │     Kevan Barlow               '1 Rd3 #80       Y1: 512 yds      Peak: 1024 yds / 6 TDs (1x RB1)
+  │  🟡 Became RB2:
+  │     Zack Moss                  '20 Rd3 #86      Y1: 481 yds      Peak: 794 yds / 5 TDs
+  │     Alexander Mattison         '19 Rd3 #102     Y1: 462 yds      Peak: 700 yds / 0 TDs
+  │     Tevin Coleman              '15 Rd3 #73      Y1: 392 yds      Peak: 628 yds / 5 TDs
+  │  🟠 Became RB3:
+  │     Ameer Abdullah             '15 Rd2 #54      Y1: 597 yds      Peak: 597 yds / 2 TDs
+  │     Daniel Thomas              '11 Rd2 #62      Y1: 581 yds      Peak: 581 yds / 0 TDs
+  │     Bishop Sankey              '14 Rd2 #54      Y1: 569 yds      Peak: 569 yds / 2 TDs
+  │     Montee Ball                '13 Rd2 #58      Y1: 559 yds      Peak: 559 yds / 4 TDs
+  │     ... and 9 more
+  └─
+
+  ┌─ RB | Rd 2-3 | Rookie Rush Yards 601-900  (n=18)
+  │  RB1: 8(44%) | RB2: 8(44%) | RB3: 2(11%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     Frank Gore                 '5 Rd3 #65       Y1: 608 yds      Peak: 1695 yds / 8 TDs (9x RB1)
+  │     Travis Henry               '1 Rd2 #58       Y1: 729 yds      Peak: 1438 yds / 13 TDs (3x RB1)
+  │     Le'Veon Bell               '13 Rd2 #48      Y1: 860 yds      Peak: 1361 yds / 8 TDs (3x RB1)
+  │     Miles Sanders              '19 Rd2 #53      Y1: 818 yds      Peak: 1269 yds / 11 TDs (1x RB1)
+  │     DeMarco Murray             '11 Rd3 #71      Y1: 897 yds      Peak: 1121 yds / 9 TDs (3x RB1)
+  │     Julius Jones               '4 Rd2 #43       Y1: 819 yds      Peak: 1084 yds / 4 TDs (1x RB1)
+  │     LeSean McCoy               '9 Rd2 #53       Y1: 637 yds      Peak: 1080 yds / 7 TDs (6x RB1)
+  │     David Montgomery           '19 Rd3 #73      Y1: 889 yds      Peak: 1070 yds / 8 TDs (2x RB1)
+  │  🟡 Became RB2:
+  │     J.K. Dobbins               '20 Rd2 #55      Y1: 805 yds      Peak: 805 yds / 9 TDs
+  │     Cam Akers                  '20 Rd2 #52      Y1: 625 yds      Peak: 786 yds / 7 TDs
+  │     Devin Singletary           '19 Rd3 #74      Y1: 775 yds      Peak: 775 yds / 2 TDs
+  │     Tre Mason                  '14 Rd3 #75      Y1: 765 yds      Peak: 765 yds / 4 TDs
+  │     T.J. Yeldon                '15 Rd2 #36      Y1: 740 yds      Peak: 740 yds / 2 TDs
+  │     ... and 3 more
+  │  🟠 Became RB3:
+  │     Kerryon Johnson            '18 Rd2 #43      Y1: 641 yds      Peak: 641 yds / 3 TDs
+  │     Jerious Norwood            '6 Rd3 #79       Y1: 633 yds      Peak: 633 yds / 2 TDs
+  └─
+
+  ┌─ RB | Rd 2-3 | Rookie Rush Yards 900+  (n=12)
+  │  RB1: 11(92%) | RB2: 1(8%) | RB3: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     Clinton Portis             '2 Rd2 #51       Y1: 1508 yds     Peak: 1508 yds / 15 TDs (6x RB1)
+  │     Nick Chubb                 '18 Rd2 #35      Y1: 996 yds      Peak: 1494 yds / 8 TDs (4x RB1)
+  │     Maurice Jones-Drew         '6 Rd2 #60       Y1: 941 yds      Peak: 1391 yds / 15 TDs (3x RB1)
+  │     Kareem Hunt                '17 Rd3 #86      Y1: 1327 yds     Peak: 1327 yds / 8 TDs (1x RB1)
+  │     Steve Slaton               '8 Rd3 #89       Y1: 1282 yds     Peak: 1282 yds / 9 TDs (1x RB1)
+  │     Matt Forte                 '8 Rd2 #44       Y1: 1231 yds     Peak: 1231 yds / 8 TDs (5x RB1)
+  │     Javonte Williams           '21 Rd2 #35      Y1: 903 yds      Peak: 1201 yds / 11 TDs (1x RB1)
+  │     Anthony Thomas             '1 Rd2 #38       Y1: 1183 yds     Peak: 1183 yds / 7 TDs (2x RB1)
+  │     Eddie Lacy                 '13 Rd2 #61      Y1: 1178 yds     Peak: 1178 yds / 11 TDs (2x RB1)
+  │     Jonathan Taylor            '20 Rd2 #41      Y1: 1169 yds     Peak: 1169 yds / 11 TDs (4x RB1)
+  │     Jeremy Hill                '14 Rd2 #55      Y1: 1124 yds     Peak: 1124 yds / 9 TDs (1x RB1)
+  │  🟡 Became RB2:
+  │     Kevin Smith                '8 Rd3 #64       Y1: 975 yds      Peak: 975 yds / 8 TDs
+  └─
+
+  ┌─ RB | Rd 4+ | Rookie Rush Yards 0-100  (n=167)
+  │  RB1: 3(2%) | RB2: 9(5%) | RB3: 17(10%) | Depth/Out: 138(83%)
+  │
+  │  ✅ Became RB1:
+  │     Rudi Johnson               '1 Rd4 #100      Y1: 0 yds        Peak: 1457 yds / 12 TDs (3x RB1)
+  │     Justin Forsett             '8 Rd7 #233      Y1: 0 yds        Peak: 1266 yds / 8 TDs (1x RB1)
+  │     Brandon Jacobs             '5 Rd4 #110      Y1: 99 yds       Peak: 1011 yds / 4 TDs (2x RB1)
+  │  🟡 Became RB2:
+  │     Spencer Ware               '13 Rd6 #194     Y1: 10 yds       Peak: 921 yds / 3 TDs
+  │     LeRon McClain              '7 Rd4 #137      Y1: 18 yds       Peak: 907 yds / 10 TDs
+  │     Jerome Harrison            '6 Rd5 #145      Y1: 60 yds       Peak: 862 yds / 5 TDs
+  │     Ryan Torain                '8 Rd5 #139      Y1: 69 yds       Peak: 742 yds / 4 TDs
+  │     Bilal Powell               '11 Rd4 #126     Y1: 21 yds       Peak: 697 yds / 1 TDs
+  │     ... and 4 more
+  │  🟠 Became RB3:
+  │     Mike Gillislee             '13 Rd5 #164     Y1: 21 yds       Peak: 577 yds / 8 TDs
+  │     Derrick Blaylock           '1 Rd5 #150      Y1: 0 yds        Peak: 539 yds / 8 TDs
+  │     Mike Goodson               '9 Rd4 #111      Y1: 49 yds       Peak: 452 yds / 3 TDs
+  │     Kerwynn Williams           '13 Rd7 #230     Y1: 0 yds        Peak: 426 yds / 1 TDs
+  │     ... and 13 more
+  │  ❌ Depth/Out:
+  │     Deon Dyer                  '0 Rd4 #117      Y1: 0 yds        Peak: 0 yds / 0 TDs
+  │     Mondriel Fulcher           '0 Rd7 #227      Y1: 0 yds        Peak: 0 yds / 0 TDs
+  │     Mike Green                 '0 Rd7 #213      Y1: 0 yds        Peak: 0 yds / 0 TDs
+  │     Curtis Keaton              '0 Rd4 #97       Y1: 24 yds       Peak: 24 yds / 0 TDs
+  │     Rondell Mealey             '0 Rd7 #252      Y1: 0 yds        Peak: 37 yds / 0 TDs
+  │     ... and 133 more
+  └─
+
+  ┌─ RB | Rd 4+ | Rookie Rush Yards 101-350  (n=57)
+  │  RB1: 8(14%) | RB2: 6(11%) | RB3: 19(33%) | Depth/Out: 24(42%)
+  │
+  │  ✅ Became RB1:
+  │     Michael Turner             '4 Rd5 #154      Y1: 104 yds      Peak: 1699 yds / 17 TDs (3x RB1)
+  │     Jay Ajayi                  '15 Rd5 #149     Y1: 187 yds      Peak: 1272 yds / 8 TDs (1x RB1)
+  │     Ahmad Bradshaw             '7 Rd7 #250      Y1: 190 yds      Peak: 1235 yds / 8 TDs (2x RB1)
+  │     Chester Taylor             '2 Rd6 #207      Y1: 122 yds      Peak: 1214 yds / 6 TDs (1x RB1)
+  │     Peyton Hillis              '8 Rd7 #227      Y1: 343 yds      Peak: 1177 yds / 11 TDs (1x RB1)
+  │     Chris Carson               '17 Rd7 #249     Y1: 208 yds      Peak: 1151 yds / 9 TDs (2x RB1)
+  │     Lamar Miller               '12 Rd4 #97      Y1: 250 yds      Peak: 1099 yds / 8 TDs (2x RB1)
+  │     Devonta Freeman            '14 Rd4 #103     Y1: 248 yds      Peak: 1056 yds / 11 TDs (2x RB1)
+  │  🟡 Became RB2:
+  │     Alex Collins               '16 Rd5 #171     Y1: 125 yds      Peak: 973 yds / 6 TDs
+  │     Dion Lewis                 '11 Rd5 #149     Y1: 102 yds      Peak: 896 yds / 6 TDs
+  │     Lee Suggs                  '3 Rd4 #115      Y1: 289 yds      Peak: 744 yds / 2 TDs
+  │     Rashad Jennings            '9 Rd7 #250      Y1: 202 yds      Peak: 733 yds / 6 TDs
+  │     Sammy Morris               '0 Rd5 #156      Y1: 324 yds      Peak: 727 yds / 7 TDs
+  │     ... and 1 more
+  │  🟠 Became RB3:
+  │     James Starks               '10 Rd6 #193     Y1: 101 yds      Peak: 578 yds / 1 TDs
+  │     Anthony Dixon              '10 Rd6 #173     Y1: 237 yds      Peak: 432 yds / 2 TDs
+  │     Najeh Davenport            '2 Rd4 #135      Y1: 184 yds      Peak: 420 yds / 2 TDs
+  │     Adrian Peterson            '2 Rd6 #199      Y1: 101 yds      Peak: 391 yds / 2 TDs
+  │     ... and 15 more
+  │  ❌ Depth/Out:
+  │     Frank Moreau               '0 Rd4 #115      Y1: 121 yds      Peak: 121 yds / 3 TDs
+  │     Chad Morton                '0 Rd5 #166      Y1: 136 yds      Peak: 136 yds / 0 TDs
+  │     Terrelle Smith             '0 Rd4 #96       Y1: 131 yds      Peak: 131 yds / 0 TDs
+  │     Justin Griffith            '3 Rd4 #121      Y1: 168 yds      Peak: 168 yds / 0 TDs
+  │     LaBrandon Toefield         '3 Rd4 #132      Y1: 212 yds      Peak: 212 yds / 2 TDs
+  │     ... and 19 more
+  └─
+
+  ┌─ RB | Rd 4+ | Rookie Rush Yards 351-600  (n=27)
+  │  RB1: 4(15%) | RB2: 5(19%) | RB3: 18(67%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     Marlon Mack                '17 Rd4 #143     Y1: 358 yds      Peak: 1091 yds / 8 TDs (1x RB1)
+  │     Aaron Jones                '17 Rd5 #182     Y1: 448 yds      Peak: 1084 yds / 16 TDs (4x RB1)
+  │     Jamaal Williams            '17 Rd4 #134     Y1: 556 yds      Peak: 1066 yds / 17 TDs (1x RB1)
+  │     Tony Pollard               '19 Rd4 #128     Y1: 455 yds      Peak: 1007 yds / 9 TDs (4x RB1)
+  │  🟡 Became RB2:
+  │     Khalil Herbert             '21 Rd6 #217     Y1: 433 yds      Peak: 731 yds / 4 TDs
+  │     Alfred Blue                '14 Rd6 #181     Y1: 528 yds      Peak: 698 yds / 2 TDs
+  │     Wayne Gallman              '17 Rd4 #140     Y1: 476 yds      Peak: 682 yds / 6 TDs
+  │     Mewelde Moore              '4 Rd4 #119      Y1: 379 yds      Peak: 662 yds / 1 TDs
+  │     Marion Barber              '5 Rd4 #109      Y1: 538 yds      Peak: 654 yds / 14 TDs
+  │  🟠 Became RB3:
+  │     Correll Buckhalter         '1 Rd4 #121      Y1: 586 yds      Peak: 586 yds / 2 TDs
+  │     Onterrio Smith             '3 Rd4 #105      Y1: 579 yds      Peak: 579 yds / 5 TDs
+  │     Jeremy Langford            '15 Rd4 #106     Y1: 537 yds      Peak: 537 yds / 6 TDs
+  │     Jonathan Wells             '2 Rd4 #99       Y1: 529 yds      Peak: 529 yds / 3 TDs
+  │     ... and 14 more
+  └─
+
+  ┌─ RB | Rd 4+ | Rookie Rush Yards 601-900  (n=10)
+  │  RB1: 2(20%) | RB2: 8(80%) | RB3: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     Chuba Hubbard              '21 Rd4 #126     Y1: 612 yds      Peak: 1195 yds / 10 TDs (1x RB1)
+  │     Rhamondre Stevenson        '21 Rd4 #120     Y1: 606 yds      Peak: 1040 yds / 5 TDs (1x RB1)
+  │  🟡 Became RB2:
+  │     Vick Ballard               '12 Rd5 #170     Y1: 814 yds      Peak: 814 yds / 2 TDs
+  │     Andre Williams             '14 Rd4 #113     Y1: 721 yds      Peak: 721 yds / 7 TDs
+  │     Andre Ellington            '13 Rd6 #187     Y1: 652 yds      Peak: 660 yds / 3 TDs
+  │     Leon Washington            '6 Rd4 #117      Y1: 650 yds      Peak: 650 yds / 4 TDs
+  │     Roy Helu                   '11 Rd4 #105     Y1: 640 yds      Peak: 640 yds / 2 TDs
+  │     ... and 3 more
+  └─
+
+  ┌─ RB | Rd 4+ | Rookie Rush Yards 900+  (n=5)
+  │  RB1: 3(60%) | RB2: 2(40%) | RB3: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became RB1:
+  │     Alfred Morris              '12 Rd6 #173     Y1: 1613 yds     Peak: 1613 yds / 13 TDs (3x RB1)
+  │     Jordan Howard              '16 Rd5 #150     Y1: 1313 yds     Peak: 1313 yds / 6 TDs (2x RB1)
+  │     Domanick Williams          '3 Rd4 #101      Y1: 1031 yds     Peak: 1031 yds / 8 TDs (2x RB1)
+  │  🟡 Became RB2:
+  │     Zac Stacy                  '13 Rd5 #160     Y1: 973 yds      Peak: 973 yds / 7 TDs
+  │     Elijah Mitchell            '21 Rd6 #194     Y1: 963 yds      Peak: 963 yds / 5 TDs
+  └─
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  TE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ┌─ TE | Rd 1 | Rookie Rec Yards 0-75  (n=2)
+  │  TE1: 2(100%) | TE2: 0(0%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became TE1:
+  │     Kellen Winslow             '4 Rd1 #6        Y1: 50 yds       Peak: 875 yds / 89 rec / 3 TDs (5x TE1)
+  │     Benjamin Watson            '4 Rd1 #32       Y1: 16 yds       Peak: 763 yds / 68 rec / 3 TDs (2x TE1)
+  └─
+
+  ┌─ TE | Rd 1 | Rookie Rec Yards 76-200  (n=4)
+  │  TE1: 1(25%) | TE2: 2(50%) | Depth/Out: 1(25%)
+  │
+  │  ✅ Became TE1:
+  │     Marcedes Lewis             '6 Rd1 #28       Y1: 126 yds      Peak: 700 yds / 58 rec / 10 TDs (1x TE1)
+  │  🟡 Became TE2:
+  │     Hayden Hurst               '18 Rd1 #25      Y1: 163 yds      Peak: 571 yds / 56 rec / 6 TDs
+  │     Daniel Graham              '2 Rd1 #21       Y1: 150 yds      Peak: 409 yds / 38 rec / 4 TDs
+  │  ❌ Depth/Out:
+  │     Anthony Becht              '0 Rd1 #27       Y1: 144 yds      Peak: 144 yds / 16 rec / 2 TDs
+  └─
+
+  ┌─ TE | Rd 1 | Rookie Rec Yards 201-400  (n=10)
+  │  TE1: 8(80%) | TE2: 2(20%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became TE1:
+  │     Vernon Davis               '6 Rd1 #6        Y1: 265 yds      Peak: 965 yds / 78 rec / 13 TDs (4x TE1)
+  │     David Njoku                '17 Rd1 #29      Y1: 386 yds      Peak: 882 yds / 81 rec / 6 TDs (1x TE1)
+  │     Dallas Clark               '3 Rd1 #24       Y1: 340 yds      Peak: 848 yds / 77 rec / 6 TDs (2x TE1)
+  │     Greg Olsen                 '7 Rd1 #31       Y1: 391 yds      Peak: 843 yds / 69 rec / 5 TDs (5x TE1)
+  │     Todd Heap                  '1 Rd1 #31       Y1: 206 yds      Peak: 836 yds / 68 rec / 6 TDs (3x TE1)
+  │     T.J. Hockenson             '19 Rd1 #8       Y1: 367 yds      Peak: 723 yds / 67 rec / 6 TDs (3x TE1)
+  │     Brandon Pettigrew          '9 Rd1 #20       Y1: 352 yds      Peak: 722 yds / 71 rec / 4 TDs (2x TE1)
+  │     Eric Ebron                 '14 Rd1 #10      Y1: 248 yds      Peak: 711 yds / 61 rec / 1 TDs (2x TE1)
+  │  🟡 Became TE2:
+  │     Jerramy Stevens            '2 Rd1 #28       Y1: 252 yds      Peak: 554 yds / 45 rec / 5 TDs
+  │     Bubba Franks               '0 Rd1 #14       Y1: 363 yds      Peak: 442 yds / 54 rec / 7 TDs
+  └─
+
+  ┌─ TE | Rd 1 | Rookie Rec Yards 400+  (n=10)
+  │  TE1: 7(70%) | TE2: 3(30%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became TE1:
+  │     Kyle Pitts                 '21 Rd1 #4       Y1: 1026 yds     Peak: 1026 yds / 68 rec / 1 TDs (2x TE1)
+  │     Jeremy Shockey             '2 Rd1 #14       Y1: 894 yds      Peak: 894 yds / 74 rec / 2 TDs (2x TE1)
+  │     Dustin Keller              '8 Rd1 #30       Y1: 535 yds      Peak: 815 yds / 65 rec / 5 TDs (1x TE1)
+  │     Heath Miller               '5 Rd1 #30       Y1: 459 yds      Peak: 789 yds / 76 rec / 6 TDs (3x TE1)
+  │     Matt Jones                 '5 Rd1 #21       Y1: 432 yds      Peak: 750 yds / 64 rec / 2 TDs (1x TE1)
+  │     Jermaine Gresham           '10 Rd1 #21      Y1: 471 yds      Peak: 737 yds / 64 rec / 5 TDs (1x TE1)
+  │     Evan Engram                '17 Rd1 #23      Y1: 722 yds      Peak: 722 yds / 64 rec / 6 TDs (3x TE1)
+  │  🟡 Became TE2:
+  │     Noah Fant                  '19 Rd1 #20      Y1: 562 yds      Peak: 562 yds / 40 rec / 3 TDs
+  │     Tyler Eifert               '13 Rd1 #21      Y1: 445 yds      Peak: 445 yds / 39 rec / 2 TDs
+  │     O.J. Howard                '17 Rd1 #19      Y1: 432 yds      Peak: 432 yds / 26 rec / 6 TDs
+  └─
+
+  ┌─ TE | Rd 2-3 | Rookie Rec Yards 0-75  (n=33)
+  │  TE1: 4(12%) | TE2: 3(9%) | Depth/Out: 26(79%)
+  │
+  │  ✅ Became TE1:
+  │     Jared Cook                 '9 Rd3 #89       Y1: 74 yds       Peak: 896 yds / 68 rec / 6 TDs (2x TE1)
+  │     Travis Kelce               '13 Rd3 #63      Y1: 0 yds        Peak: 862 yds / 67 rec / 5 TDs (12x TE1)
+  │     Fred Davis                 '8 Rd2 #48       Y1: 27 yds       Peak: 796 yds / 59 rec / 3 TDs (1x TE1)
+  │     Jermichael Finley          '8 Rd3 #91       Y1: 74 yds       Peak: 767 yds / 55 rec / 8 TDs (1x TE1)
+  │  🟡 Became TE2:
+  │     Visanthe Shiancoe          '3 Rd3 #91       Y1: 56 yds       Peak: 596 yds / 42 rec / 7 TDs
+  │     C.J. Fiedorowicz           '14 Rd3 #65      Y1: 28 yds       Peak: 559 yds / 54 rec / 4 TDs
+  │     Chris Baker                '2 Rd3 #88       Y1: 14 yds       Peak: 411 yds / 41 rec / 3 TDs
+  │  ❌ Depth/Out:
+  │     Sean Brewer                '1 Rd3 #66       Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  │     Shad Meier                 '1 Rd3 #90       Y1: 31 yds       Peak: 31 yds / 3 rec / 0 TDs
+  │     Bennie Joppru              '3 Rd2 #41       Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  │     Mike Seidman               '3 Rd3 #76       Y1: 35 yds       Peak: 35 yds / 5 rec / 0 TDs
+  │     Ben Hartsock               '4 Rd3 #68       Y1: 33 yds       Peak: 33 yds / 4 rec / 0 TDs
+  │     ... and 21 more
+  └─
+
+  ┌─ TE | Rd 2-3 | Rookie Rec Yards 76-200  (n=14)
+  │  TE1: 1(7%) | TE2: 7(50%) | Depth/Out: 6(43%)
+  │
+  │  ✅ Became TE1:
+  │     Jonnu Smith                '17 Rd3 #100     Y1: 157 yds      Peak: 884 yds / 88 rec / 8 TDs (1x TE1)
+  │  🟡 Became TE2:
+  │     Vance McDonald             '13 Rd2 #55      Y1: 119 yds      Peak: 610 yds / 50 rec / 4 TDs
+  │     Erron Kinney               '0 Rd3 #68       Y1: 197 yds      Peak: 543 yds / 55 rec / 2 TDs
+  │     Ed Dickson                 '10 Rd3 #70      Y1: 152 yds      Peak: 528 yds / 54 rec / 5 TDs
+  │     Anthony Fasano             '6 Rd2 #53       Y1: 126 yds      Peak: 454 yds / 34 rec / 7 TDs
+  │     Rob Housler                '11 Rd3 #69      Y1: 133 yds      Peak: 417 yds / 45 rec / 0 TDs
+  │     ... and 2 more
+  │  ❌ Depth/Out:
+  │     Leonard Pope               '6 Rd3 #72       Y1: 161 yds      Peak: 161 yds / 16 rec / 0 TDs
+  │     David Thomas               '6 Rd3 #86       Y1: 159 yds      Peak: 159 yds / 11 rec / 1 TDs
+  │     Gavin Escobar              '13 Rd2 #47      Y1: 134 yds      Peak: 134 yds / 9 rec / 2 TDs
+  │     Adam Shaheen               '17 Rd2 #45      Y1: 127 yds      Peak: 127 yds / 12 rec / 3 TDs
+  │     Adam Trautman              '20 Rd3 #105     Y1: 171 yds      Peak: 171 yds / 15 rec / 1 TDs
+  │     ... and 1 more
+  └─
+
+  ┌─ TE | Rd 2-3 | Rookie Rec Yards 201-400  (n=27)
+  │  TE1: 11(41%) | TE2: 8(30%) | Depth/Out: 8(30%)
+  │
+  │  ✅ Became TE1:
+  │     Jimmy Graham               '10 Rd3 #95      Y1: 356 yds      Peak: 1310 yds / 99 rec / 11 TDs (5x TE1)
+  │     Jason Witten               '3 Rd3 #69       Y1: 347 yds      Peak: 980 yds / 87 rec / 6 TDs (12x TE1)
+  │     Kyle Rudolph               '11 Rd2 #43      Y1: 249 yds      Peak: 840 yds / 83 rec / 7 TDs (1x TE1)
+  │     Dallas Goedert             '18 Rd2 #49      Y1: 334 yds      Peak: 830 yds / 56 rec / 4 TDs (2x TE1)
+  │     Austin Hooper              '16 Rd3 #81      Y1: 271 yds      Peak: 787 yds / 75 rec / 6 TDs (1x TE1)
+  │     Alge Crumpler              '1 Rd2 #35       Y1: 330 yds      Peak: 774 yds / 48 rec / 6 TDs (3x TE1)
+  │     Chris Cooley               '4 Rd3 #81       Y1: 314 yds      Peak: 774 yds / 71 rec / 7 TDs (5x TE1)
+  │     Coby Fleener               '12 Rd2 #34      Y1: 281 yds      Peak: 774 yds / 51 rec / 8 TDs (1x TE1)
+  │     Martellus Bennett          '8 Rd2 #61       Y1: 283 yds      Peak: 759 yds / 65 rec / 5 TDs (3x TE1)
+  │     Cole Kmet                  '20 Rd2 #43      Y1: 243 yds      Peak: 719 yds / 73 rec / 6 TDs (1x TE1)
+  │     Mike Gesicki               '18 Rd2 #42      Y1: 202 yds      Peak: 703 yds / 53 rec / 6 TDs (2x TE1)
+  │  🟡 Became TE2:
+  │     L.J. Smith                 '3 Rd2 #61       Y1: 320 yds      Peak: 682 yds / 61 rec / 3 TDs
+  │     Dawson Knox                '19 Rd3 #96      Y1: 388 yds      Peak: 587 yds / 49 rec / 9 TDs
+  │     Tony Scheffler             '6 Rd2 #61       Y1: 286 yds      Peak: 549 yds / 49 rec / 5 TDs
+  │     Ben Troupe                 '4 Rd2 #40       Y1: 329 yds      Peak: 530 yds / 55 rec / 4 TDs
+  │     Lance Kendricks            '11 Rd2 #47      Y1: 352 yds      Peak: 519 yds / 42 rec / 4 TDs
+  │     ... and 3 more
+  │  ❌ Depth/Out:
+  │     Matt Schobel               '2 Rd3 #67       Y1: 212 yds      Peak: 212 yds / 27 rec / 2 TDs
+  │     Alex Smith                 '5 Rd3 #71       Y1: 367 yds      Peak: 367 yds / 41 rec / 2 TDs
+  │     Joe Klopfenstein           '6 Rd2 #46       Y1: 226 yds      Peak: 226 yds / 20 rec / 1 TDs
+  │     Jace Amaro                 '14 Rd2 #49      Y1: 345 yds      Peak: 345 yds / 38 rec / 2 TDs
+  │     Austin Seferian-Jenkins    '14 Rd2 #38      Y1: 221 yds      Peak: 221 yds / 21 rec / 2 TDs
+  │     ... and 3 more
+  └─
+
+  ┌─ TE | Rd 2-3 | Rookie Rec Yards 400+  (n=11)
+  │  TE1: 7(64%) | TE2: 4(36%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became TE1:
+  │     Rob Gronkowski             '10 Rd2 #42      Y1: 546 yds      Peak: 1327 yds / 90 rec / 17 TDs (6x TE1)
+  │     Jordan Reed                '13 Rd3 #85      Y1: 499 yds      Peak: 952 yds / 87 rec / 11 TDs (1x TE1)
+  │     Mark Andrews               '18 Rd3 #86      Y1: 552 yds      Peak: 852 yds / 64 rec / 10 TDs (4x TE1)
+  │     Zach Miller                '7 Rd2 #38       Y1: 444 yds      Peak: 778 yds / 56 rec / 1 TDs (2x TE1)
+  │     Hunter Henry               '16 Rd2 #35      Y1: 478 yds      Peak: 768 yds / 60 rec / 7 TDs (1x TE1)
+  │     Pat Freiermuth             '21 Rd2 #55      Y1: 497 yds      Peak: 732 yds / 63 rec / 2 TDs (1x TE1)
+  │     Zach Ertz                  '13 Rd2 #35      Y1: 469 yds      Peak: 702 yds / 58 rec / 3 TDs (7x TE1)
+  │  🟡 Became TE2:
+  │     John Carlson               '8 Rd2 #38       Y1: 627 yds      Peak: 627 yds / 55 rec / 5 TDs
+  │     Tony Moeaki                '10 Rd3 #93      Y1: 556 yds      Peak: 556 yds / 47 rec / 3 TDs
+  │     Dwayne Allen               '12 Rd3 #64      Y1: 521 yds      Peak: 521 yds / 45 rec / 3 TDs
+  │     Doug Jolley                '2 Rd2 #55       Y1: 409 yds      Peak: 409 yds / 32 rec / 2 TDs
+  └─
+
+  ┌─ TE | Rd 4+ | Rookie Rec Yards 0-75  (n=103)
+  │  TE1: 4(4%) | TE2: 9(9%) | Depth/Out: 90(87%)
+  │
+  │  ✅ Became TE1:
+  │     Gary Barnidge              '8 Rd5 #141      Y1: 0 yds        Peak: 1043 yds / 79 rec / 9 TDs (1x TE1)
+  │     Jordan Cameron             '11 Rd4 #102     Y1: 33 yds       Peak: 917 yds / 80 rec / 7 TDs (1x TE1)
+  │     Julius Thomas              '11 Rd4 #129     Y1: 5 yds        Peak: 788 yds / 65 rec / 12 TDs (1x TE1)
+  │     Dennis Pitta               '10 Rd4 #114     Y1: 1 yds        Peak: 729 yds / 86 rec / 2 TDs (1x TE1)
+  │  🟡 Became TE2:
+  │     Jacob Tamme                '8 Rd4 #127      Y1: 12 yds       Peak: 631 yds / 67 rec / 4 TDs
+  │     Scott Chandler             '7 Rd4 #129      Y1: 0 yds        Peak: 571 yds / 43 rec / 6 TDs
+  │     Garrett Graham             '10 Rd4 #118     Y1: 0 yds        Peak: 545 yds / 49 rec / 5 TDs
+  │     Joel Dreessen              '5 Rd6 #198      Y1: 41 yds       Peak: 518 yds / 36 rec / 4 TDs
+  │     Noah Gray                  '21 Rd5 #162     Y1: 36 yds       Peak: 437 yds / 40 rec / 5 TDs
+  │     ... and 4 more
+  │  ❌ Depth/Out:
+  │     Dave Stachelski            '0 Rd5 #141      Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  │     Jay Tant                   '0 Rd5 #164      Y1: 4 yds        Peak: 4 yds / 1 rec / 0 TDs
+  │     James Whalen               '0 Rd5 #157      Y1: 0 yds        Peak: 152 yds / 17 rec / 0 TDs
+  │     Austin Wheatley            '0 Rd5 #158      Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  │     Jabari Holloway            '1 Rd4 #119      Y1: 0 yds        Peak: 73 yds / 7 rec / 0 TDs
+  │     ... and 85 more
+  └─
+
+  ┌─ TE | Rd 4+ | Rookie Rec Yards 76-200  (n=27)
+  │  TE1: 2(7%) | TE2: 5(19%) | Depth/Out: 20(74%)
+  │
+  │  ✅ Became TE1:
+  │     Dalton Schultz             '18 Rd4 #137     Y1: 116 yds      Peak: 808 yds / 78 rec / 8 TDs (2x TE1)
+  │     Tyler Higbee               '16 Rd4 #110     Y1: 85 yds       Peak: 734 yds / 69 rec / 3 TDs (1x TE1)
+  │  🟡 Became TE2:
+  │     Tyler Conklin              '18 Rd5 #157     Y1: 77 yds       Peak: 593 yds / 61 rec / 3 TDs
+  │     Donald Lee                 '3 Rd5 #156      Y1: 110 yds      Peak: 575 yds / 48 rec / 6 TDs
+  │     Kevin Boss                 '7 Rd5 #153      Y1: 118 yds      Peak: 567 yds / 42 rec / 5 TDs
+  │     Will Dissly                '18 Rd4 #120     Y1: 156 yds      Peak: 481 yds / 50 rec / 2 TDs
+  │     Foster Moreau              '19 Rd4 #137     Y1: 174 yds      Peak: 420 yds / 33 rec / 2 TDs
+  │  ❌ Depth/Out:
+  │     Terry Jones                '2 Rd5 #155      Y1: 106 yds      Peak: 106 yds / 11 rec / 1 TDs
+  │     Aaron Walker               '3 Rd5 #161      Y1: 116 yds      Peak: 116 yds / 8 rec / 1 TDs
+  │     George Wrighster           '3 Rd4 #104      Y1: 150 yds      Peak: 150 yds / 13 rec / 2 TDs
+  │     Courtney Anderson          '4 Rd7 #245      Y1: 175 yds      Peak: 175 yds / 13 rec / 1 TDs
+  │     Tim Euhus                  '4 Rd4 #109      Y1: 98 yds       Peak: 98 yds / 11 rec / 2 TDs
+  │     ... and 15 more
+  └─
+
+  ┌─ TE | Rd 4+ | Rookie Rec Yards 201-400  (n=7)
+  │  TE1: 1(14%) | TE2: 1(14%) | Depth/Out: 5(71%)
+  │
+  │  ✅ Became TE1:
+  │     Owen Daniels               '6 Rd4 #98       Y1: 350 yds      Peak: 768 yds / 63 rec / 3 TDs (3x TE1)
+  │  🟡 Became TE2:
+  │     Bo Scaife                  '5 Rd6 #179      Y1: 273 yds      Peak: 421 yds / 46 rec / 1 TDs
+  │  ❌ Depth/Out:
+  │     Andrew Quarless            '10 Rd5 #154     Y1: 238 yds      Peak: 238 yds / 21 rec / 1 TDs
+  │     Ian Thomas                 '18 Rd4 #101     Y1: 333 yds      Peak: 333 yds / 36 rec / 2 TDs
+  │     Jordan Thomas              '18 Rd6 #211     Y1: 215 yds      Peak: 215 yds / 20 rec / 4 TDs
+  │     Kaden Smith                '19 Rd6 #176     Y1: 268 yds      Peak: 268 yds / 31 rec / 3 TDs
+  │     Harrison Bryant            '20 Rd4 #115     Y1: 238 yds      Peak: 238 yds / 24 rec / 3 TDs
+  └─
+
+  ┌─ TE | Rd 4+ | Rookie Rec Yards 400+  (n=5)
+  │  TE1: 3(60%) | TE2: 2(40%) | Depth/Out: 0(0%)
+  │
+  │  ✅ Became TE1:
+  │     George Kittle              '17 Rd5 #146     Y1: 515 yds      Peak: 1377 yds / 88 rec / 5 TDs (6x TE1)
+  │     Aaron Hernandez            '10 Rd4 #113     Y1: 563 yds      Peak: 910 yds / 79 rec / 7 TDs (1x TE1)
+  │     Randy McMichael            '2 Rd4 #114      Y1: 485 yds      Peak: 791 yds / 73 rec / 4 TDs (1x TE1)
+  │  🟡 Became TE2:
+  │     Chris Herndon              '18 Rd4 #107     Y1: 502 yds      Peak: 502 yds / 39 rec / 4 TDs
+  │     Mychal Rivera              '13 Rd6 #184     Y1: 407 yds      Peak: 407 yds / 38 rec / 4 TDs
+  └─
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  QB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ┌─ QB | Rd 1 | Rookie Pass Yards Sat (0)  (n=3)
+  │  QB1: 2(67%) | QB2: 1(33%) | Backup/Out: 0(0%)
+  │
+  │  ✅ Became QB1:
+  │     Jordan Love                '20 Rd1 #26      Y1: 0 yds           Peak: 4159 yds / 32 TDs (1x QB1)
+  │     Carson Palmer              '3 Rd1 #1        Y1: 0 yds           Peak: 4036 yds / 28 TDs (4x QB1)
+  │  🟡 Became QB2:
+  │     Jason Campbell             '5 Rd1 #25       Y1: 0 yds           Peak: 3618 yds / 20 TDs
+  └─
+
+  ┌─ QB | Rd 1 | Rookie Pass Yards 1-1000  (n=15)
+  │  QB1: 4(27%) | QB2: 4(27%) | Backup/Out: 7(47%)
+  │
+  │  ✅ Became QB1:
+  │     Patrick Mahomes            '17 Rd1 #10      Y1: 284 yds         Peak: 5097 yds / 50 TDs (6x QB1)
+  │     Alex Smith                 '5 Rd1 #1        Y1: 875 yds         Peak: 4042 yds / 26 TDs (1x QB1)
+  │     Aaron Rodgers              '5 Rd1 #24       Y1: 65 yds          Peak: 4038 yds / 28 TDs (10x QB1)
+  │     Philip Rivers              '4 Rd1 #4        Y1: 33 yds          Peak: 4004 yds / 34 TDs (10x QB1)
+  │  🟡 Became QB2:
+  │     Rex Grossman               '3 Rd1 #22       Y1: 437 yds         Peak: 3197 yds / 23 TDs
+  │     Chad Pennington            '0 Rd1 #18       Y1: 67 yds          Peak: 3120 yds / 22 TDs
+  │     J.P. Losman                '4 Rd1 #22       Y1: 32 yds          Peak: 3050 yds / 19 TDs
+  │     Michael Vick               '1 Rd1 #1        Y1: 785 yds         Peak: 3018 yds / 21 TDs
+  │  ❌ Backup/Out:
+  │     Brady Quinn                '7 Rd1 #22       Y1: 45 yds          Peak: 45 yds / 0 TDs
+  │     JaMarcus Russell           '7 Rd1 #1        Y1: 373 yds         Peak: 373 yds / 2 TDs
+  │     Tim Tebow                  '10 Rd1 #25      Y1: 654 yds         Peak: 654 yds / 5 TDs
+  │     Jake Locker                '11 Rd1 #8       Y1: 542 yds         Peak: 542 yds / 4 TDs
+  │     Johnny Manziel             '14 Rd1 #22      Y1: 175 yds         Peak: 175 yds / 0 TDs
+  │     ... and 2 more
+  └─
+
+  ┌─ QB | Rd 1 | Rookie Pass Yards 1001-2500  (n=22)
+  │  QB1: 9(41%) | QB2: 3(14%) | Backup/Out: 10(45%)
+  │
+  │  ✅ Became QB1:
+  │     Matthew Stafford           '9 Rd1 #1        Y1: 2267 yds        Peak: 5100 yds / 41 TDs (7x QB1)
+  │     Jared Goff                 '16 Rd1 #1       Y1: 1089 yds        Peak: 4688 yds / 32 TDs (5x QB1)
+  │     Tua Tagovailoa             '20 Rd1 #5       Y1: 1814 yds        Peak: 4624 yds / 29 TDs (1x QB1)
+  │     Josh Allen                 '18 Rd1 #7       Y1: 2044 yds        Peak: 4544 yds / 37 TDs (4x QB1)
+  │     Jay Cutler                 '6 Rd1 #11       Y1: 1001 yds        Peak: 4525 yds / 25 TDs (1x QB1)
+  │     Lamar Jackson              '18 Rd1 #32      Y1: 1201 yds        Peak: 4172 yds / 41 TDs (1x QB1)
+  │     Deshaun Watson             '17 Rd1 #12      Y1: 1699 yds        Peak: 4165 yds / 26 TDs (2x QB1)
+  │     Josh Freeman               '9 Rd1 #17       Y1: 1857 yds        Peak: 4065 yds / 27 TDs (1x QB1)
+  │     Eli Manning                '4 Rd1 #1        Y1: 1043 yds        Peak: 4021 yds / 27 TDs (6x QB1)
+  │  🟡 Became QB2:
+  │     Mark Sanchez               '9 Rd1 #5        Y1: 2444 yds        Peak: 3291 yds / 17 TDs
+  │     Mitchell Trubisky          '17 Rd1 #2       Y1: 2193 yds        Peak: 3223 yds / 24 TDs
+  │     Joey Harrington            '2 Rd1 #3        Y1: 2294 yds        Peak: 3047 yds / 19 TDs
+  │  ❌ Backup/Out:
+  │     Patrick Ramsey             '2 Rd1 #32       Y1: 1539 yds        Peak: 1539 yds / 9 TDs
+  │     Kyle Boller                '3 Rd1 #19       Y1: 1260 yds        Peak: 1260 yds / 7 TDs
+  │     Vince Young                '6 Rd1 #3        Y1: 2199 yds        Peak: 2199 yds / 12 TDs
+  │     Blaine Gabbert             '11 Rd1 #10      Y1: 2214 yds        Peak: 2214 yds / 12 TDs
+  │     Christian Ponder           '11 Rd1 #12      Y1: 1853 yds        Peak: 1853 yds / 13 TDs
+  │     ... and 5 more
+  └─
+
+  ┌─ QB | Rd 1 | Rookie Pass Yards 2501-3500  (n=15)
+  │  QB1: 6(40%) | QB2: 6(40%) | Backup/Out: 3(20%)
+  │
+  │  ✅ Became QB1:
+  │     Joe Burrow                 '20 Rd1 #1       Y1: 2688 yds        Peak: 4611 yds / 34 TDs (3x QB1)
+  │     Blake Bortles              '14 Rd1 #3       Y1: 2908 yds        Peak: 4428 yds / 35 TDs (1x QB1)
+  │     Ben Roethlisberger         '4 Rd1 #11       Y1: 2621 yds        Peak: 4328 yds / 26 TDs (5x QB1)
+  │     Sam Darnold                '18 Rd1 #3       Y1: 2865 yds        Peak: 4319 yds / 35 TDs (2x QB1)
+  │     Matt Ryan                  '8 Rd1 #3        Y1: 3440 yds        Peak: 4177 yds / 29 TDs (8x QB1)
+  │     Ryan Tannehill             '12 Rd1 #8       Y1: 3294 yds        Peak: 4045 yds / 27 TDs (1x QB1)
+  │  🟡 Became QB2:
+  │     Teddy Bridgewater          '14 Rd1 #32      Y1: 2919 yds        Peak: 3733 yds / 15 TDs
+  │     Joe Flacco                 '8 Rd1 #18       Y1: 2971 yds        Peak: 3613 yds / 21 TDs
+  │     David Carr                 '2 Rd1 #1        Y1: 2592 yds        Peak: 3539 yds / 16 TDs
+  │     Marcus Mariota             '15 Rd1 #2       Y1: 2818 yds        Peak: 3426 yds / 26 TDs
+  │     Robert Griffin             '12 Rd1 #2       Y1: 3200 yds        Peak: 3200 yds / 20 TDs
+  │     ... and 1 more
+  │  ❌ Backup/Out:
+  │     Byron Leftwich             '3 Rd1 #7        Y1: 2819 yds        Peak: 2819 yds / 14 TDs
+  │     Matt Leinart               '6 Rd1 #10       Y1: 2542 yds        Peak: 2542 yds / 11 TDs
+  │     Brandon Weeden             '12 Rd1 #22      Y1: 3385 yds        Peak: 3385 yds / 14 TDs
+  └─
+
+  ┌─ QB | Rd 1 | Rookie Pass Yards 3500+  (n=10)
+  │  QB1: 6(60%) | QB2: 4(40%) | Backup/Out: 0(0%)
+  │
+  │  ✅ Became QB1:
+  │     Andrew Luck                '12 Rd1 #1       Y1: 4374 yds        Peak: 4761 yds / 40 TDs (3x QB1)
+  │     Justin Herbert             '20 Rd1 #6       Y1: 4336 yds        Peak: 4336 yds / 31 TDs (3x QB1)
+  │     Trevor Lawrence            '21 Rd1 #1       Y1: 3641 yds        Peak: 4113 yds / 25 TDs (2x QB1)
+  │     Jameis Winston             '15 Rd1 #1       Y1: 4042 yds        Peak: 4090 yds / 28 TDs (2x QB1)
+  │     Baker Mayfield             '18 Rd1 #1       Y1: 3725 yds        Peak: 4044 yds / 28 TDs (2x QB1)
+  │     Carson Wentz               '16 Rd1 #2       Y1: 3782 yds        Peak: 4039 yds / 27 TDs (1x QB1)
+  │  🟡 Became QB2:
+  │     Cam Newton                 '11 Rd1 #1       Y1: 4051 yds        Peak: 4051 yds / 21 TDs
+  │     Mac Jones                  '21 Rd1 #15      Y1: 3801 yds        Peak: 3801 yds / 22 TDs
+  │     Kyler Murray               '19 Rd1 #1       Y1: 3722 yds        Peak: 3722 yds / 20 TDs
+  │     Sam Bradford               '10 Rd1 #1       Y1: 3512 yds        Peak: 3512 yds / 18 TDs
+  └─
+
+  ┌─ QB | Rd 2-3 | Rookie Pass Yards Sat (0)  (n=14)
+  │  QB1: 0(0%) | QB2: 0(0%) | Backup/Out: 14(100%)
+  │
+  │  ❌ Backup/Out:
+  │     Chris Simms                '3 Rd3 #97       Y1: 0 yds           Peak: 467 yds / 1 TDs
+  │     Andrew Walter              '5 Rd3 #69       Y1: 0 yds           Peak: 1677 yds / 3 TDs
+  │     Kellen Clemens             '6 Rd2 #49       Y1: 0 yds           Peak: 0 yds / 0 TDs
+  │     Charlie Whitehurst         '6 Rd3 #81       Y1: 0 yds           Peak: 0 yds / 0 TDs
+  │     Kevin Kolb                 '7 Rd2 #36       Y1: 0 yds           Peak: 0 yds / 0 TDs
+  │     ... and 9 more
+  └─
+
+  ┌─ QB | Rd 2-3 | Rookie Pass Yards 1-1000  (n=17)
+  │  QB1: 2(12%) | QB2: 4(24%) | Backup/Out: 11(65%)
+  │
+  │  ✅ Became QB1:
+  │     Matt Schaub                '4 Rd3 #90       Y1: 329 yds         Peak: 4770 yds / 29 TDs (1x QB1)
+  │     Drew Brees                 '1 Rd2 #32       Y1: 221 yds         Peak: 4424 yds / 26 TDs (11x QB1)
+  │  🟡 Became QB2:
+  │     Jimmy Garoppolo            '14 Rd2 #62      Y1: 182 yds         Peak: 3978 yds / 27 TDs
+  │     Jacoby Brissett            '16 Rd3 #91      Y1: 400 yds         Peak: 3366 yds / 23 TDs
+  │     Chad Henne                 '8 Rd2 #57       Y1: 67 yds          Peak: 3298 yds / 15 TDs
+  │     Colin Kaepernick           '11 Rd2 #36      Y1: 35 yds          Peak: 3197 yds / 21 TDs
+  │  ❌ Backup/Out:
+  │     Chris Redman               '0 Rd3 #75       Y1: 19 yds          Peak: 19 yds / 0 TDs
+  │     Marques Tuiasosopo         '1 Rd2 #59       Y1: 34 yds          Peak: 34 yds / 0 TDs
+  │     Josh McCown                '2 Rd3 #81       Y1: 66 yds          Peak: 66 yds / 0 TDs
+  │     Dave Ragone                '3 Rd3 #88       Y1: 135 yds         Peak: 135 yds / 0 TDs
+  │     Brodie Croyle              '6 Rd3 #85       Y1: 23 yds          Peak: 23 yds / 0 TDs
+  │     ... and 6 more
+  └─
+
+  ┌─ QB | Rd 2-3 | Rookie Pass Yards 1001-2500  (n=10)
+  │  QB1: 0(0%) | QB2: 2(20%) | Backup/Out: 8(80%)
+  │
+  │  🟡 Became QB2:
+  │     Quincy Carter              '1 Rd2 #53       Y1: 1072 yds        Peak: 3302 yds / 17 TDs
+  │     Jalen Hurts                '20 Rd2 #53      Y1: 1061 yds        Peak: 3144 yds / 16 TDs
+  │  ❌ Backup/Out:
+  │     Charlie Frye               '5 Rd3 #67       Y1: 1002 yds        Peak: 1002 yds / 4 TDs
+  │     Trent Edwards              '7 Rd3 #92       Y1: 1630 yds        Peak: 1630 yds / 7 TDs
+  │     Jimmy Clausen              '10 Rd2 #48      Y1: 1558 yds        Peak: 1558 yds / 3 TDs
+  │     Colt McCoy                 '10 Rd3 #85      Y1: 1576 yds        Peak: 1576 yds / 6 TDs
+  │     Nick Foles                 '12 Rd3 #88      Y1: 1699 yds        Peak: 1699 yds / 6 TDs
+  │     ... and 3 more
+  └─
+
+  ┌─ QB | Rd 2-3 | Rookie Pass Yards 2501-3500  (n=7)
+  │  QB1: 4(57%) | QB2: 1(14%) | Backup/Out: 2(29%)
+  │
+  │  ✅ Became QB1:
+  │     Andy Dalton                '11 Rd2 #35      Y1: 3398 yds        Peak: 4293 yds / 33 TDs (1x QB1)
+  │     Geno Smith                 '13 Rd2 #39      Y1: 3046 yds        Peak: 4282 yds / 30 TDs (1x QB1)
+  │     Derek Carr                 '14 Rd2 #36      Y1: 3270 yds        Peak: 4103 yds / 27 TDs (1x QB1)
+  │     Russell Wilson             '12 Rd3 #75      Y1: 3118 yds        Peak: 4024 yds / 34 TDs (3x QB1)
+  │  🟡 Became QB2:
+  │     Davis Mills                '21 Rd3 #67      Y1: 2664 yds        Peak: 3118 yds / 17 TDs
+  │  ❌ Backup/Out:
+  │     Mike Glennon               '13 Rd3 #73      Y1: 2608 yds        Peak: 2608 yds / 19 TDs
+  │     DeShone Kizer              '17 Rd2 #52      Y1: 2894 yds        Peak: 2894 yds / 11 TDs
+  └─
+
+  ┌─ QB | Rd 4+ | Rookie Pass Yards Sat (0)  (n=70)
+  │  QB1: 0(0%) | QB2: 2(3%) | Backup/Out: 68(97%)
+  │
+  │  🟡 Became QB2:
+  │     Marc Bulger                '0 Rd6 #168      Y1: 0 yds           Peak: 3845 yds / 22 TDs
+  │     Derek Anderson             '5 Rd6 #213      Y1: 0 yds           Peak: 3786 yds / 29 TDs
+  │  ❌ Backup/Out:
+  │     Joe Hamilton               '0 Rd7 #234      Y1: 0 yds           Peak: 0 yds / 0 TDs
+  │     Jarious Jackson            '0 Rd7 #214      Y1: 0 yds           Peak: 0 yds / 0 TDs
+  │     Tee Martin                 '0 Rd5 #163      Y1: 0 yds           Peak: 0 yds / 0 TDs
+  │     Jesse Palmer               '1 Rd4 #125      Y1: 0 yds           Peak: 30 yds / 0 TDs
+  │     Sage Rosenfels             '1 Rd4 #109      Y1: 0 yds           Peak: 0 yds / 0 TDs
+  │     ... and 63 more
+  └─
+
+  ┌─ QB | Rd 4+ | Rookie Pass Yards 1-1000  (n=34)
+  │  QB1: 2(6%) | QB2: 3(9%) | Backup/Out: 29(85%)
+  │
+  │  ✅ Became QB1:
+  │     Kirk Cousins               '12 Rd4 #102     Y1: 466 yds         Peak: 4166 yds / 29 TDs (7x QB1)
+  │     Tom Brady                  '0 Rd6 #199      Y1: 6 yds           Peak: 4110 yds / 26 TDs (13x QB1)
+  │  🟡 Became QB2:
+  │     Ryan Fitzpatrick           '5 Rd7 #250      Y1: 777 yds         Peak: 3832 yds / 24 TDs
+  │     David Garrard              '2 Rd4 #108      Y1: 231 yds         Peak: 3620 yds / 15 TDs
+  │     Tyrod Taylor               '11 Rd6 #180     Y1: 18 yds          Peak: 3035 yds / 20 TDs
+  │  ❌ Backup/Out:
+  │     Spergon Wynn               '0 Rd6 #183      Y1: 167 yds         Peak: 167 yds / 0 TDs
+  │     Mike McMahon               '1 Rd5 #149      Y1: 671 yds         Peak: 671 yds / 3 TDs
+  │     Rohan Davey                '2 Rd4 #117      Y1: 3 yds           Peak: 3 yds / 0 TDs
+  │     Randy Fasani               '2 Rd5 #137      Y1: 171 yds         Peak: 171 yds / 0 TDs
+  │     Craig Krenzel              '4 Rd5 #148      Y1: 718 yds         Peak: 718 yds / 3 TDs
+  │     ... and 24 more
+  └─
+
+  ┌─ QB | Rd 4+ | Rookie Pass Yards 1001-2500  (n=3)
+  │  QB1: 0(0%) | QB2: 1(33%) | Backup/Out: 2(67%)
+  │
+  │  🟡 Became QB2:
+  │     Kyle Orton                 '5 Rd4 #106      Y1: 1869 yds        Peak: 3802 yds / 21 TDs
+  │  ❌ Backup/Out:
+  │     Bruce Gradkowski           '6 Rd6 #194      Y1: 1661 yds        Peak: 1661 yds / 9 TDs
+  │     Zach Mettenberger          '14 Rd6 #178     Y1: 1412 yds        Peak: 1412 yds / 8 TDs
+  └─
+
+  ┌─ QB | Rd 4+ | Rookie Pass Yards 2501-3500  (n=2)
+  │  QB1: 0(0%) | QB2: 1(50%) | Backup/Out: 1(50%)
+  │
+  │  🟡 Became QB2:
+  │     Gardner Minshew            '19 Rd6 #178     Y1: 3271 yds        Peak: 3271 yds / 21 TDs
+  │  ❌ Backup/Out:
+  │     Chris Weinke               '1 Rd4 #106      Y1: 2931 yds        Peak: 2931 yds / 11 TDs
+  └─
+
+  ┌─ QB | Rd 4+ | Rookie Pass Yards 3500+  (n=1)
+  │  QB1: 1(100%) | QB2: 0(0%) | Backup/Out: 0(0%)
+  │
+  │  ✅ Became QB1:
+  │     Dak Prescott               '16 Rd4 #135     Y1: 3667 yds        Peak: 4902 yds / 30 TDs (4x QB1)
+  └─
+
+
+====================================================================================================
+SECTION 2: BIGGEST SURPRISES — LATE BLOOMERS & UNEXPECTED BUSTS
+====================================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🏆 LATE-ROUND GOLD: Rd 4+ picks who became WR1
+     Brandon Lloyd              '3 Rd4 #124      Y1: 212 yds      Peak: 1448 yds / 77 rec / 11 TDs (1x WR1)
+     Pierre Garcon              '8 Rd6 #205      Y1: 23 yds       Peak: 1346 yds / 113 rec / 5 TDs (2x WR1)
+     Brandon Marshall           '6 Rd4 #119      Y1: 309 yds      Peak: 1325 yds / 102 rec / 7 TDs (8x WR1)
+     Amon-Ra St. Brown          '21 Rd4 #112     Y1: 912 yds      Peak: 1161 yds / 106 rec / 6 TDs (4x WR1)
+     Darren Waller              '15 Rd6 #204     Y1: 18 yds       Peak: 1145 yds / 90 rec / 3 TDs (2x WR1)
+     Jerricho Cotchery          '4 Rd4 #108      Y1: 60 yds       Peak: 1129 yds / 82 rec / 2 TDs (1x WR1)
+     Antonio Brown              '10 Rd6 #195     Y1: 167 yds      Peak: 1108 yds / 69 rec / 2 TDs (7x WR1)
+     Marvin Jones               '12 Rd5 #166     Y1: 201 yds      Peak: 1101 yds / 61 rec / 9 TDs (1x WR1)
+     Delanie Walker             '6 Rd6 #175      Y1: 30 yds       Peak: 1088 yds / 94 rec / 6 TDs (1x WR1)
+     Brian Hartline             '9 Rd4 #108      Y1: 506 yds      Peak: 1083 yds / 74 rec / 1 TDs (2x WR1)
+     Darnell Mooney             '20 Rd5 #173     Y1: 631 yds      Peak: 1055 yds / 81 rec / 4 TDs (1x WR1)
+     Marques Colston            '6 Rd7 #252      Y1: 1038 yds     Peak: 1038 yds / 70 rec / 8 TDs (6x WR1)
+     Hunter Renfrow             '19 Rd5 #149     Y1: 605 yds      Peak: 1038 yds / 103 rec / 9 TDs (1x WR1)
+     Stefon Diggs               '15 Rd5 #146     Y1: 720 yds      Peak: 1021 yds / 102 rec / 9 TDs (7x WR1)
+     Steve Breaston             '7 Rd5 #142      Y1: 92 yds       Peak: 1003 yds / 77 rec / 3 TDs (1x WR1)
+
+  🐌 SLOW STARTERS → WR1: Rookie Rec Yards ≤200 but peaked at WR1
+     Pierre Garcon              '8 Rd6 #205      Y1: 23 yds       Peak: 1346 yds / 113 rec / 5 TDs (2x WR1)  → Y2: 765 rec yards
+     Steve Smith                '7 Rd2 #51       Y1: 63 yds       Peak: 1220 yds / 107 rec / 7 TDs (1x WR1)  → Y2: 574 rec yards
+     Mike Williams              '17 Rd1 #7       Y1: 95 yds       Peak: 1146 yds / 76 rec / 9 TDs (1x WR1)  → Y2: 664 rec yards
+     Darren Waller              '15 Rd6 #204     Y1: 18 yds       Peak: 1145 yds / 90 rec / 3 TDs (2x WR1)  → Y2: 85 rec yards
+     Jerricho Cotchery          '4 Rd4 #108      Y1: 60 yds       Peak: 1129 yds / 82 rec / 2 TDs (1x WR1)  → Y2: 251 rec yards
+     Steve Smith                '1 Rd3 #74       Y1: 154 yds      Peak: 1110 yds / 88 rec / 7 TDs (8x WR1)  → Y2: 872 rec yards
+     Kevin Curtis               '3 Rd3 #74       Y1: 13 yds       Peak: 1110 yds / 77 rec / 6 TDs (1x WR1)  → Y2: 421 rec yards
+     Antonio Brown              '10 Rd6 #195     Y1: 167 yds      Peak: 1108 yds / 69 rec / 2 TDs (7x WR1)  → Y2: 1108 rec yards
+     Santana Moss               '1 Rd1 #16       Y1: 40 yds       Peak: 1105 yds / 74 rec / 10 TDs (4x WR1)  → Y2: 433 rec yards
+     Vincent Jackson            '5 Rd2 #61       Y1: 59 yds       Peak: 1098 yds / 59 rec / 7 TDs (6x WR1)  → Y2: 453 rec yards
+     Delanie Walker             '6 Rd6 #175      Y1: 30 yds       Peak: 1088 yds / 94 rec / 6 TDs (1x WR1)  → Y2: 174 rec yards
+     Eric Decker                '10 Rd3 #87      Y1: 106 yds      Peak: 1064 yds / 85 rec / 13 TDs (3x WR1)  → Y2: 612 rec yards
+     D.J. Chark                 '18 Rd2 #61      Y1: 174 yds      Peak: 1008 yds / 73 rec / 8 TDs (1x WR1)  → Y2: 1008 rec yards
+     Steve Breaston             '7 Rd5 #142      Y1: 92 yds       Peak: 1003 yds / 77 rec / 3 TDs (1x WR1)  → Y2: 1003 rec yards
+
+  💀 FIRST-ROUND BUSTS: Rd 1 picks who peaked at Depth/Out
+     Charles Rogers             '3 Rd1 #2        Y1: 243 yds      Peak: 243 yds / 22 rec / 3 TDs
+     Kevin White                '15 Rd1 #7       Y1: 0 yds        Peak: 187 yds / 19 rec / 0 TDs
+     R. Jay Soward              '0 Rd1 #29       Y1: 154 yds      Peak: 154 yds / 14 rec / 1 TDs
+     A.J. Jenkins               '12 Rd1 #30      Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+     Rashaun Woods              '4 Rd1 #31       Y1: 160 yds      Peak: 160 yds / 7 rec / 1 TDs
+
+  📉 HOT START, BAD ENDING: Rookie Rec Yards >500 but peaked at Depth/Out
+     (none)
+
+  👑 SUSTAINABILITY KINGS: Most WR1 seasons
+     11x WR1  —  Mike Evans                 '14 Rd1 #7       Y1: 1051 yds     Peak: 1051 yds / 68 rec / 12 TDs (11x WR1)
+      9x WR1  —  Larry Fitzgerald           '4 Rd1 #3        Y1: 780 yds      Peak: 1409 yds / 103 rec / 10 TDs (9x WR1)
+      8x WR1  —  Brandon Marshall           '6 Rd4 #119      Y1: 309 yds      Peak: 1325 yds / 102 rec / 7 TDs (8x WR1)
+      8x WR1  —  Steve Smith                '1 Rd3 #74       Y1: 154 yds      Peak: 1110 yds / 88 rec / 7 TDs (8x WR1)
+      8x WR1  —  Reggie Wayne               '1 Rd1 #30       Y1: 345 yds      Peak: 1210 yds / 77 rec / 12 TDs (8x WR1)
+      7x WR1  —  Julio Jones                '11 Rd1 #6       Y1: 959 yds      Peak: 1198 yds / 79 rec / 10 TDs (7x WR1)
+      7x WR1  —  Anquan Boldin              '3 Rd2 #54       Y1: 1377 yds     Peak: 1377 yds / 101 rec / 8 TDs (7x WR1)
+      7x WR1  —  Antonio Brown              '10 Rd6 #195     Y1: 167 yds      Peak: 1108 yds / 69 rec / 2 TDs (7x WR1)
+      7x WR1  —  Calvin Johnson             '7 Rd1 #2        Y1: 756 yds      Peak: 1331 yds / 78 rec / 12 TDs (7x WR1)
+      7x WR1  —  DeAndre Hopkins            '13 Rd1 #27      Y1: 802 yds      Peak: 1210 yds / 76 rec / 6 TDs (7x WR1)
+      7x WR1  —  Stefon Diggs               '15 Rd5 #146     Y1: 720 yds      Peak: 1021 yds / 102 rec / 9 TDs (7x WR1)
+      7x WR1  —  Andre Johnson              '3 Rd1 #3        Y1: 976 yds      Peak: 1142 yds / 79 rec / 6 TDs (7x WR1)
+      7x WR1  —  Amari Cooper               '15 Rd1 #4       Y1: 1070 yds     Peak: 1070 yds / 72 rec / 6 TDs (7x WR1)
+      7x WR1  —  Chad Johnson               '1 Rd2 #36       Y1: 329 yds      Peak: 1166 yds / 69 rec / 5 TDs (7x WR1)
+      6x WR1  —  Vincent Jackson            '5 Rd2 #61       Y1: 59 yds       Peak: 1098 yds / 59 rec / 7 TDs (6x WR1)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  RB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🏆 LATE-ROUND GOLD: Rd 4+ picks who became RB1
+     Michael Turner             '4 Rd5 #154      Y1: 104 yds      Peak: 1699 yds / 17 TDs (3x RB1)
+     Alfred Morris              '12 Rd6 #173     Y1: 1613 yds     Peak: 1613 yds / 13 TDs (3x RB1)
+     Rudi Johnson               '1 Rd4 #100      Y1: 0 yds        Peak: 1457 yds / 12 TDs (3x RB1)
+     Jordan Howard              '16 Rd5 #150     Y1: 1313 yds     Peak: 1313 yds / 6 TDs (2x RB1)
+     Jay Ajayi                  '15 Rd5 #149     Y1: 187 yds      Peak: 1272 yds / 8 TDs (1x RB1)
+     Justin Forsett             '8 Rd7 #233      Y1: 0 yds        Peak: 1266 yds / 8 TDs (1x RB1)
+     Ahmad Bradshaw             '7 Rd7 #250      Y1: 190 yds      Peak: 1235 yds / 8 TDs (2x RB1)
+     Chester Taylor             '2 Rd6 #207      Y1: 122 yds      Peak: 1214 yds / 6 TDs (1x RB1)
+     Chuba Hubbard              '21 Rd4 #126     Y1: 612 yds      Peak: 1195 yds / 10 TDs (1x RB1)
+     Peyton Hillis              '8 Rd7 #227      Y1: 343 yds      Peak: 1177 yds / 11 TDs (1x RB1)
+     Chris Carson               '17 Rd7 #249     Y1: 208 yds      Peak: 1151 yds / 9 TDs (2x RB1)
+     Lamar Miller               '12 Rd4 #97      Y1: 250 yds      Peak: 1099 yds / 8 TDs (2x RB1)
+     Marlon Mack                '17 Rd4 #143     Y1: 358 yds      Peak: 1091 yds / 8 TDs (1x RB1)
+     Aaron Jones                '17 Rd5 #182     Y1: 448 yds      Peak: 1084 yds / 16 TDs (4x RB1)
+     Jamaal Williams            '17 Rd4 #134     Y1: 556 yds      Peak: 1066 yds / 17 TDs (1x RB1)
+     Devonta Freeman            '14 Rd4 #103     Y1: 248 yds      Peak: 1056 yds / 11 TDs (2x RB1)
+     Rhamondre Stevenson        '21 Rd4 #120     Y1: 606 yds      Peak: 1040 yds / 5 TDs (1x RB1)
+     Domanick Williams          '3 Rd4 #101      Y1: 1031 yds     Peak: 1031 yds / 8 TDs (2x RB1)
+     Brandon Jacobs             '5 Rd4 #110      Y1: 99 yds       Peak: 1011 yds / 4 TDs (2x RB1)
+     Tony Pollard               '19 Rd4 #128     Y1: 455 yds      Peak: 1007 yds / 9 TDs (4x RB1)
+
+  🐌 SLOW STARTERS → RB1: Rookie Rush Yards ≤200 but peaked at RB1
+     Larry Johnson              '3 Rd1 #27       Y1: 85 yds       Peak: 1750 yds / 20 TDs (2x RB1)  → Y2: 581 rush yards
+     Michael Turner             '4 Rd5 #154      Y1: 104 yds      Peak: 1699 yds / 17 TDs (3x RB1)  → Y2: 335 rush yards
+     Rudi Johnson               '1 Rd4 #100      Y1: 0 yds        Peak: 1457 yds / 12 TDs (3x RB1)  → Y2: 67 rush yards
+     Deuce McAllister           '1 Rd1 #23       Y1: 91 yds       Peak: 1388 yds / 13 TDs (4x RB1)  → Y2: 1388 rush yards
+     Jay Ajayi                  '15 Rd5 #149     Y1: 187 yds      Peak: 1272 yds / 8 TDs (1x RB1)  → Y2: 1272 rush yards
+     Justin Forsett             '8 Rd7 #233      Y1: 0 yds        Peak: 1266 yds / 8 TDs (1x RB1)  → Y2: 619 rush yards
+     Reuben Droughns            '0 Rd3 #81       Y1: 0 yds        Peak: 1240 yds / 6 TDs (2x RB1)  → Y2: 72 rush yards
+     Ahmad Bradshaw             '7 Rd7 #250      Y1: 190 yds      Peak: 1235 yds / 8 TDs (2x RB1)  → Y2: 355 rush yards
+     Brian Westbrook            '2 Rd3 #91       Y1: 193 yds      Peak: 1217 yds / 7 TDs (2x RB1)  → Y2: 605 rush yards
+     Chester Taylor             '2 Rd6 #207      Y1: 122 yds      Peak: 1214 yds / 6 TDs (1x RB1)  → Y2: 276 rush yards
+     Willis McGahee             '3 Rd1 #23       Y1: 0 yds        Peak: 1128 yds / 13 TDs (4x RB1)  → Y2: 1128 rush yards
+     Travis Etienne             '21 Rd1 #25      Y1: 0 yds        Peak: 1125 yds / 5 TDs (3x RB1)  → Y2: 1125 rush yards
+     Rashard Mendenhall         '8 Rd1 #23       Y1: 58 yds       Peak: 1108 yds / 7 TDs (2x RB1)  → Y2: 1108 rush yards
+     James Conner               '17 Rd3 #105     Y1: 144 yds      Peak: 1040 yds / 7 TDs (2x RB1)  → Y2: 973 rush yards
+     Brandon Jacobs             '5 Rd4 #110      Y1: 99 yds       Peak: 1011 yds / 4 TDs (2x RB1)  → Y2: 423 rush yards
+
+  💀 FIRST-ROUND BUSTS: Rd 1 picks who peaked at Depth/Out
+     Chris Perry                '4 Rd1 #26       Y1: 1 yds        Peak: 1 yds / 0 TDs
+
+  📉 HOT START, BAD ENDING: Rookie Rush Yards >500 but peaked at Depth/Out
+     (none)
+
+  👑 SUSTAINABILITY KINGS: Most RB1 seasons
+      9x RB1  —  Frank Gore                 '5 Rd3 #65       Y1: 608 yds      Peak: 1695 yds / 8 TDs (9x RB1)
+      8x RB1  —  Steven Jackson             '4 Rd1 #24       Y1: 673 yds      Peak: 1046 yds / 8 TDs (8x RB1)
+      8x RB1  —  Adrian Peterson            '7 Rd1 #7        Y1: 1341 yds     Peak: 1341 yds / 12 TDs (8x RB1)
+      8x RB1  —  LaDainian Tomlinson        '1 Rd1 #5        Y1: 1236 yds     Peak: 1236 yds / 10 TDs (8x RB1)
+      7x RB1  —  Derrick Henry              '16 Rd2 #45      Y1: 490 yds      Peak: 1059 yds / 12 TDs (7x RB1)
+      7x RB1  —  Jamal Lewis                '0 Rd1 #5        Y1: 1364 yds     Peak: 1364 yds / 6 TDs (7x RB1)
+      6x RB1  —  LeSean McCoy               '9 Rd2 #53       Y1: 637 yds      Peak: 1080 yds / 7 TDs (6x RB1)
+      6x RB1  —  Chris Johnson              '8 Rd1 #24       Y1: 1228 yds     Peak: 1228 yds / 9 TDs (6x RB1)
+      6x RB1  —  Marshawn Lynch             '7 Rd1 #12       Y1: 1115 yds     Peak: 1115 yds / 7 TDs (6x RB1)
+      6x RB1  —  Clinton Portis             '2 Rd2 #51       Y1: 1508 yds     Peak: 1508 yds / 15 TDs (6x RB1)
+      5x RB1  —  Shaun Alexander            '0 Rd1 #19       Y1: 313 yds      Peak: 1318 yds / 14 TDs (5x RB1)
+      5x RB1  —  Matt Forte                 '8 Rd2 #44       Y1: 1231 yds     Peak: 1231 yds / 8 TDs (5x RB1)
+      5x RB1  —  Jamaal Charles             '8 Rd3 #73       Y1: 357 yds      Peak: 1120 yds / 7 TDs (5x RB1)
+      5x RB1  —  Saquon Barkley             '18 Rd1 #2       Y1: 1307 yds     Peak: 1307 yds / 11 TDs (5x RB1)
+      5x RB1  —  Christian McCaffrey        '17 Rd1 #8       Y1: 435 yds      Peak: 1098 yds / 7 TDs (5x RB1)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  TE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🏆 LATE-ROUND GOLD: Rd 4+ picks who became TE1
+     George Kittle              '17 Rd5 #146     Y1: 515 yds      Peak: 1377 yds / 88 rec / 5 TDs (6x TE1)
+     Gary Barnidge              '8 Rd5 #141      Y1: 0 yds        Peak: 1043 yds / 79 rec / 9 TDs (1x TE1)
+     Jordan Cameron             '11 Rd4 #102     Y1: 33 yds       Peak: 917 yds / 80 rec / 7 TDs (1x TE1)
+     Aaron Hernandez            '10 Rd4 #113     Y1: 563 yds      Peak: 910 yds / 79 rec / 7 TDs (1x TE1)
+     Dalton Schultz             '18 Rd4 #137     Y1: 116 yds      Peak: 808 yds / 78 rec / 8 TDs (2x TE1)
+     Randy McMichael            '2 Rd4 #114      Y1: 485 yds      Peak: 791 yds / 73 rec / 4 TDs (1x TE1)
+     Julius Thomas              '11 Rd4 #129     Y1: 5 yds        Peak: 788 yds / 65 rec / 12 TDs (1x TE1)
+     Owen Daniels               '6 Rd4 #98       Y1: 350 yds      Peak: 768 yds / 63 rec / 3 TDs (3x TE1)
+     Tyler Higbee               '16 Rd4 #110     Y1: 85 yds       Peak: 734 yds / 69 rec / 3 TDs (1x TE1)
+     Dennis Pitta               '10 Rd4 #114     Y1: 1 yds        Peak: 729 yds / 86 rec / 2 TDs (1x TE1)
+
+  🐌 SLOW STARTERS → TE1: Rookie Rec Yards ≤75 but peaked at TE1
+     Gary Barnidge              '8 Rd5 #141      Y1: 0 yds        Peak: 1043 yds / 79 rec / 9 TDs (1x TE1)  → Y2: 242 rec yards
+     Jordan Cameron             '11 Rd4 #102     Y1: 33 yds       Peak: 917 yds / 80 rec / 7 TDs (1x TE1)  → Y2: 226 rec yards
+     Jared Cook                 '9 Rd3 #89       Y1: 74 yds       Peak: 896 yds / 68 rec / 6 TDs (2x TE1)  → Y2: 361 rec yards
+     Kellen Winslow             '4 Rd1 #6        Y1: 50 yds       Peak: 875 yds / 89 rec / 3 TDs (5x TE1)  → Y2: 0 rec yards
+     Travis Kelce               '13 Rd3 #63      Y1: 0 yds        Peak: 862 yds / 67 rec / 5 TDs (12x TE1)  → Y2: 862 rec yards
+     Fred Davis                 '8 Rd2 #48       Y1: 27 yds       Peak: 796 yds / 59 rec / 3 TDs (1x TE1)  → Y2: 509 rec yards
+     Julius Thomas              '11 Rd4 #129     Y1: 5 yds        Peak: 788 yds / 65 rec / 12 TDs (1x TE1)  → Y2: 0 rec yards
+     Jermichael Finley          '8 Rd3 #91       Y1: 74 yds       Peak: 767 yds / 55 rec / 8 TDs (1x TE1)  → Y2: 676 rec yards
+     Benjamin Watson            '4 Rd1 #32       Y1: 16 yds       Peak: 763 yds / 68 rec / 3 TDs (2x TE1)  → Y2: 441 rec yards
+     Dennis Pitta               '10 Rd4 #114     Y1: 1 yds        Peak: 729 yds / 86 rec / 2 TDs (1x TE1)  → Y2: 405 rec yards
+
+  💀 FIRST-ROUND BUSTS: Rd 1 picks who peaked at Depth/Out
+     Anthony Becht              '0 Rd1 #27       Y1: 144 yds      Peak: 144 yds / 16 rec / 2 TDs
+
+  📉 HOT START, BAD ENDING: Rookie Rec Yards >300 but peaked at Depth/Out
+     Alex Smith                 '5 Rd3 #71       Y1: 367 yds      Peak: 367 yds / 41 rec / 2 TDs
+     Jace Amaro                 '14 Rd2 #49      Y1: 345 yds      Peak: 345 yds / 38 rec / 2 TDs
+     Ian Thomas                 '18 Rd4 #101     Y1: 333 yds      Peak: 333 yds / 36 rec / 2 TDs
+     Clive Walford              '15 Rd3 #68      Y1: 329 yds      Peak: 329 yds / 28 rec / 3 TDs
+     Irv Smith                  '19 Rd2 #50      Y1: 311 yds      Peak: 311 yds / 36 rec / 2 TDs
+
+  👑 SUSTAINABILITY KINGS: Most TE1 seasons
+     12x TE1  —  Jason Witten               '3 Rd3 #69       Y1: 347 yds      Peak: 980 yds / 87 rec / 6 TDs (12x TE1)
+     12x TE1  —  Travis Kelce               '13 Rd3 #63      Y1: 0 yds        Peak: 862 yds / 67 rec / 5 TDs (12x TE1)
+      7x TE1  —  Zach Ertz                  '13 Rd2 #35      Y1: 469 yds      Peak: 702 yds / 58 rec / 3 TDs (7x TE1)
+      6x TE1  —  Rob Gronkowski             '10 Rd2 #42      Y1: 546 yds      Peak: 1327 yds / 90 rec / 17 TDs (6x TE1)
+      6x TE1  —  George Kittle              '17 Rd5 #146     Y1: 515 yds      Peak: 1377 yds / 88 rec / 5 TDs (6x TE1)
+      5x TE1  —  Greg Olsen                 '7 Rd1 #31       Y1: 391 yds      Peak: 843 yds / 69 rec / 5 TDs (5x TE1)
+      5x TE1  —  Chris Cooley               '4 Rd3 #81       Y1: 314 yds      Peak: 774 yds / 71 rec / 7 TDs (5x TE1)
+      5x TE1  —  Kellen Winslow             '4 Rd1 #6        Y1: 50 yds       Peak: 875 yds / 89 rec / 3 TDs (5x TE1)
+      5x TE1  —  Jimmy Graham               '10 Rd3 #95      Y1: 356 yds      Peak: 1310 yds / 99 rec / 11 TDs (5x TE1)
+      4x TE1  —  Mark Andrews               '18 Rd3 #86      Y1: 552 yds      Peak: 852 yds / 64 rec / 10 TDs (4x TE1)
+      4x TE1  —  Vernon Davis               '6 Rd1 #6        Y1: 265 yds      Peak: 965 yds / 78 rec / 13 TDs (4x TE1)
+      3x TE1  —  T.J. Hockenson             '19 Rd1 #8       Y1: 367 yds      Peak: 723 yds / 67 rec / 6 TDs (3x TE1)
+      3x TE1  —  Evan Engram                '17 Rd1 #23      Y1: 722 yds      Peak: 722 yds / 64 rec / 6 TDs (3x TE1)
+      3x TE1  —  Todd Heap                  '1 Rd1 #31       Y1: 206 yds      Peak: 836 yds / 68 rec / 6 TDs (3x TE1)
+      3x TE1  —  Martellus Bennett          '8 Rd2 #61       Y1: 283 yds      Peak: 759 yds / 65 rec / 5 TDs (3x TE1)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  QB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🏆 LATE-ROUND GOLD: Rd 4+ picks who became QB1
+     Dak Prescott               '16 Rd4 #135     Y1: 3667 yds        Peak: 4902 yds / 30 TDs (4x QB1)
+     Kirk Cousins               '12 Rd4 #102     Y1: 466 yds         Peak: 4166 yds / 29 TDs (7x QB1)
+     Tom Brady                  '0 Rd6 #199      Y1: 6 yds           Peak: 4110 yds / 26 TDs (13x QB1)
+
+  🐌 SLOW STARTERS → QB1: Rookie Pass Yards ≤500 but peaked at QB1
+     Patrick Mahomes            '17 Rd1 #10      Y1: 284 yds         Peak: 5097 yds / 50 TDs (6x QB1)  → Y2: 5097 pass yards
+     Matt Schaub                '4 Rd3 #90       Y1: 329 yds         Peak: 4770 yds / 29 TDs (1x QB1)  → Y2: 495 pass yards
+     Drew Brees                 '1 Rd2 #32       Y1: 221 yds         Peak: 4424 yds / 26 TDs (11x QB1)  → Y2: 3284 pass yards
+     Kirk Cousins               '12 Rd4 #102     Y1: 466 yds         Peak: 4166 yds / 29 TDs (7x QB1)  → Y2: 854 pass yards
+     Jordan Love                '20 Rd1 #26      Y1: 0 yds           Peak: 4159 yds / 32 TDs (1x QB1)  → Y2: 411 pass yards
+     Tom Brady                  '0 Rd6 #199      Y1: 6 yds           Peak: 4110 yds / 26 TDs (13x QB1)  → Y2: 2843 pass yards
+     Aaron Rodgers              '5 Rd1 #24       Y1: 65 yds          Peak: 4038 yds / 28 TDs (10x QB1)  → Y2: 46 pass yards
+     Carson Palmer              '3 Rd1 #1        Y1: 0 yds           Peak: 4036 yds / 28 TDs (4x QB1)  → Y2: 2897 pass yards
+     Philip Rivers              '4 Rd1 #4        Y1: 33 yds          Peak: 4004 yds / 34 TDs (10x QB1)  → Y2: 115 pass yards
+
+  💀 FIRST-ROUND BUSTS: Rd 1 picks who peaked at Backup/Out
+     JaMarcus Russell           '7 Rd1 #1        Y1: 373 yds         Peak: 373 yds / 2 TDs
+     Zach Wilson                '21 Rd1 #2       Y1: 2334 yds        Peak: 2334 yds / 9 TDs
+     Trey Lance                 '21 Rd1 #3       Y1: 603 yds         Peak: 603 yds / 5 TDs
+     Vince Young                '6 Rd1 #3        Y1: 2199 yds        Peak: 2199 yds / 12 TDs
+     Byron Leftwich             '3 Rd1 #7        Y1: 2819 yds        Peak: 2819 yds / 14 TDs
+     Jake Locker                '11 Rd1 #8       Y1: 542 yds         Peak: 542 yds / 4 TDs
+     Matt Leinart               '6 Rd1 #10       Y1: 2542 yds        Peak: 2542 yds / 11 TDs
+     Blaine Gabbert             '11 Rd1 #10      Y1: 2214 yds        Peak: 2214 yds / 12 TDs
+     Josh Rosen                 '18 Rd1 #10      Y1: 2278 yds        Peak: 2278 yds / 11 TDs
+     Justin Fields              '21 Rd1 #11      Y1: 1870 yds        Peak: 1870 yds / 7 TDs
+     Christian Ponder           '11 Rd1 #12      Y1: 1853 yds        Peak: 1853 yds / 13 TDs
+     Dwayne Haskins             '19 Rd1 #15      Y1: 1365 yds        Peak: 1365 yds / 7 TDs
+     E.J. Manuel                '13 Rd1 #16      Y1: 1972 yds        Peak: 1972 yds / 11 TDs
+     Kyle Boller                '3 Rd1 #19       Y1: 1260 yds        Peak: 1260 yds / 7 TDs
+     Brandon Weeden             '12 Rd1 #22      Y1: 3385 yds        Peak: 3385 yds / 14 TDs
+     Johnny Manziel             '14 Rd1 #22      Y1: 175 yds         Peak: 175 yds / 0 TDs
+     Brady Quinn                '7 Rd1 #22       Y1: 45 yds          Peak: 45 yds / 0 TDs
+     Tim Tebow                  '10 Rd1 #25      Y1: 654 yds         Peak: 654 yds / 5 TDs
+     Paxton Lynch               '16 Rd1 #26      Y1: 497 yds         Peak: 497 yds / 2 TDs
+     Patrick Ramsey             '2 Rd1 #32       Y1: 1539 yds        Peak: 1539 yds / 9 TDs
+
+  📉 HOT START, BAD ENDING: Rookie Pass Yards >2000 but peaked at Backup/Out
+     Brandon Weeden             '12 Rd1 #22      Y1: 3385 yds        Peak: 3385 yds / 14 TDs
+     Chris Weinke               '1 Rd4 #106      Y1: 2931 yds        Peak: 2931 yds / 11 TDs
+     DeShone Kizer              '17 Rd2 #52      Y1: 2894 yds        Peak: 2894 yds / 11 TDs
+     Byron Leftwich             '3 Rd1 #7        Y1: 2819 yds        Peak: 2819 yds / 14 TDs
+     Mike Glennon               '13 Rd3 #73      Y1: 2608 yds        Peak: 2608 yds / 19 TDs
+     Matt Leinart               '6 Rd1 #10       Y1: 2542 yds        Peak: 2542 yds / 11 TDs
+     Zach Wilson                '21 Rd1 #2       Y1: 2334 yds        Peak: 2334 yds / 9 TDs
+     Josh Rosen                 '18 Rd1 #10      Y1: 2278 yds        Peak: 2278 yds / 11 TDs
+     Blaine Gabbert             '11 Rd1 #10      Y1: 2214 yds        Peak: 2214 yds / 12 TDs
+     Vince Young                '6 Rd1 #3        Y1: 2199 yds        Peak: 2199 yds / 12 TDs
+
+  👑 SUSTAINABILITY KINGS: Most QB1 seasons
+     13x QB1  —  Tom Brady                  '0 Rd6 #199      Y1: 6 yds           Peak: 4110 yds / 26 TDs (13x QB1)
+     11x QB1  —  Drew Brees                 '1 Rd2 #32       Y1: 221 yds         Peak: 4424 yds / 26 TDs (11x QB1)
+     10x QB1  —  Philip Rivers              '4 Rd1 #4        Y1: 33 yds          Peak: 4004 yds / 34 TDs (10x QB1)
+     10x QB1  —  Aaron Rodgers              '5 Rd1 #24       Y1: 65 yds          Peak: 4038 yds / 28 TDs (10x QB1)
+      8x QB1  —  Matt Ryan                  '8 Rd1 #3        Y1: 3440 yds        Peak: 4177 yds / 29 TDs (8x QB1)
+      7x QB1  —  Matthew Stafford           '9 Rd1 #1        Y1: 2267 yds        Peak: 5100 yds / 41 TDs (7x QB1)
+      7x QB1  —  Kirk Cousins               '12 Rd4 #102     Y1: 466 yds         Peak: 4166 yds / 29 TDs (7x QB1)
+      6x QB1  —  Eli Manning                '4 Rd1 #1        Y1: 1043 yds        Peak: 4021 yds / 27 TDs (6x QB1)
+      6x QB1  —  Patrick Mahomes            '17 Rd1 #10      Y1: 284 yds         Peak: 5097 yds / 50 TDs (6x QB1)
+      5x QB1  —  Ben Roethlisberger         '4 Rd1 #11       Y1: 2621 yds        Peak: 4328 yds / 26 TDs (5x QB1)
+      5x QB1  —  Jared Goff                 '16 Rd1 #1       Y1: 1089 yds        Peak: 4688 yds / 32 TDs (5x QB1)
+      4x QB1  —  Josh Allen                 '18 Rd1 #7       Y1: 2044 yds        Peak: 4544 yds / 37 TDs (4x QB1)
+      4x QB1  —  Carson Palmer              '3 Rd1 #1        Y1: 0 yds           Peak: 4036 yds / 28 TDs (4x QB1)
+      4x QB1  —  Dak Prescott               '16 Rd4 #135     Y1: 3667 yds        Peak: 4902 yds / 30 TDs (4x QB1)
+      3x QB1  —  Justin Herbert             '20 Rd1 #6       Y1: 4336 yds        Peak: 4336 yds / 31 TDs (3x QB1)
+
+
+====================================================================================================
+SECTION 3: YEAR-1 → YEAR-2 TRAJECTORIES — BREAKOUTS & COLLAPSES
+====================================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🚀 YEAR-2 BREAKOUTS: Biggest Y1→Y2 jump (min Y2 > 500 rec yards)
+     Alshon Jeffery             '12 Rd2 # 45  Y1:   367 → Y2:  1421  (+1054)  Peak: WR1
+     Brandon Marshall           '6 Rd4 #119  Y1:   309 → Y2:  1325  (+1016)  Peak: WR1
+     Cecil Shorts               '11 Rd4 #114  Y1:    30 → Y2:   979  (+949)  Peak: WR2
+     Antonio Brown              '10 Rd6 #195  Y1:   167 → Y2:  1108  (+941)  Peak: WR1
+     Steve Breaston             '7 Rd5 #142  Y1:    92 → Y2:  1003  (+911)  Peak: WR1
+     Allen Robinson             '14 Rd2 # 61  Y1:   548 → Y2:  1400  (+852)  Peak: WR1
+     Chad Johnson               '1 Rd2 # 36  Y1:   329 → Y2:  1166  (+837)  Peak: WR1
+     D.J. Chark                 '18 Rd2 # 61  Y1:   174 → Y2:  1008  (+834)  Peak: WR1
+     Mario Manningham           '8 Rd3 # 95  Y1:    26 → Y2:   822  (+796)  Peak: WR2
+     Pierre Garcon              '8 Rd6 #205  Y1:    23 → Y2:   765  (+742)  Peak: WR1
+     Plaxico Burress            '0 Rd1 #  8  Y1:   273 → Y2:  1008  (+735)  Peak: WR1
+     Steve Smith                '1 Rd3 # 74  Y1:   154 → Y2:   872  (+718)  Peak: WR1
+     Earl Bennett               '8 Rd3 # 70  Y1:     0 → Y2:   717  (+717)  Peak: WR2
+     Koren Robinson             '1 Rd1 #  9  Y1:   536 → Y2:  1240  (+704)  Peak: WR1
+     K.J. Osborn                '20 Rd5 #176  Y1:     0 → Y2:   655  (+655)  Peak: WR2
+     Larry Fitzgerald           '4 Rd1 #  3  Y1:   780 → Y2:  1409  (+629)  Peak: WR1
+     Michael Gallup             '18 Rd3 # 81  Y1:   507 → Y2:  1107  (+600)  Peak: WR1
+     Brandin Cooks              '14 Rd1 # 20  Y1:   550 → Y2:  1138  (+588)  Peak: WR1
+     Kenny Golladay             '17 Rd3 # 96  Y1:   477 → Y2:  1063  (+586)  Peak: WR1
+     Van Jefferson              '20 Rd2 # 57  Y1:   220 → Y2:   802  (+582)  Peak: WR2
+
+  📉 YEAR-2 COLLAPSES: Biggest Y1→Y2 drop (min Y1 > 500 rec yards)
+     Kelvin Benjamin            '14 Rd1 # 28  Y1:  1008 → Y2:     0  (-1008)  Peak: WR1
+     Michael Clayton            '4 Rd1 # 15  Y1:  1193 → Y2:   372  (-821)  Peak: WR1
+     Anquan Boldin              '3 Rd2 # 54  Y1:  1377 → Y2:   623  (-754)  Peak: WR1
+     Eddie Royal                '8 Rd2 # 42  Y1:   980 → Y2:   345  (-635)  Peak: WR2
+     Jordan Shipley             '10 Rd3 # 84  Y1:   600 → Y2:    14  (-586)  Peak: WR2
+     Sylvester Morris           '0 Rd1 # 21  Y1:   566 → Y2:     0  (-566)  Peak: WR3
+     Tajae Sharpe               '16 Rd5 #140  Y1:   522 → Y2:     0  (-522)  Peak: WR3
+     David Gettis               '10 Rd6 #198  Y1:   508 → Y2:     0  (-508)  Peak: WR3
+     Snoop Minnis               '1 Rd3 # 77  Y1:   511 → Y2:     4  (-507)  Peak: WR3
+     Antonio Callaway           '18 Rd4 #105  Y1:   586 → Y2:    89  (-497)  Peak: WR3
+     Aaron Dobson               '13 Rd2 # 59  Y1:   519 → Y2:    38  (-481)  Peak: WR3
+     Keary Colbert              '4 Rd2 # 62  Y1:   754 → Y2:   282  (-472)  Peak: WR2
+     Justin Blackmon            '12 Rd1 #  5  Y1:   865 → Y2:   415  (-450)  Peak: WR2
+     Deebo Samuel               '19 Rd2 # 36  Y1:   802 → Y2:   391  (-411)  Peak: WR1
+     James Jones                '7 Rd3 # 78  Y1:   676 → Y2:   274  (-402)  Peak: WR2
+     Jerry Jeudy                '20 Rd1 # 15  Y1:   856 → Y2:   467  (-389)  Peak: WR1
+     Tyler Boyd                 '16 Rd2 # 55  Y1:   603 → Y2:   225  (-378)  Peak: WR1
+     Cooper Kupp                '17 Rd3 # 69  Y1:   869 → Y2:   566  (-303)  Peak: WR1
+     Keenan Allen               '13 Rd3 # 76  Y1:  1046 → Y2:   783  (-263)  Peak: WR1
+     Titus Young                '11 Rd2 # 44  Y1:   616 → Y2:   383  (-233)  Peak: WR2
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  RB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🚀 YEAR-2 BREAKOUTS: Biggest Y1→Y2 jump (min Y2 > 500 rush yards)
+     Deuce McAllister           '1 Rd1 # 23  Y1:    91 → Y2:  1388  (+1297)  Peak: RB1
+     Willis McGahee             '3 Rd1 # 23  Y1:     0 → Y2:  1128  (+1128)  Peak: RB1
+     Frank Gore                 '5 Rd3 # 65  Y1:   608 → Y2:  1695  (+1087)  Peak: RB1
+     Jay Ajayi                  '15 Rd5 #149  Y1:   187 → Y2:  1272  (+1085)  Peak: RB1
+     Rashard Mendenhall         '8 Rd1 # 23  Y1:    58 → Y2:  1108  (+1050)  Peak: RB1
+     Shaun Alexander            '0 Rd1 # 19  Y1:   313 → Y2:  1318  (+1005)  Peak: RB1
+     Chris Carson               '17 Rd7 #249  Y1:   208 → Y2:  1151  (+943)  Peak: RB1
+     Ben Tate                   '10 Rd2 # 58  Y1:     0 → Y2:   942  (+942)  Peak: RB2
+     LeRon McClain              '7 Rd4 #137  Y1:    18 → Y2:   907  (+889)  Peak: RB2
+     Ray Rice                   '8 Rd2 # 55  Y1:   454 → Y2:  1339  (+885)  Peak: RB1
+     LenDale White              '6 Rd2 # 45  Y1:   244 → Y2:  1108  (+864)  Peak: RB1
+     Alex Collins               '16 Rd5 #171  Y1:   125 → Y2:   973  (+848)  Peak: RB2
+     Chris Brown                '3 Rd3 # 93  Y1:   221 → Y2:  1067  (+846)  Peak: RB1
+     James Conner               '17 Rd3 #105  Y1:   144 → Y2:   973  (+829)  Peak: RB1
+     Stevan Ridley              '11 Rd3 # 73  Y1:   441 → Y2:  1263  (+822)  Peak: RB1
+     Devonta Freeman            '14 Rd4 #103  Y1:   248 → Y2:  1056  (+808)  Peak: RB1
+     Mikel Leshoure             '11 Rd2 # 57  Y1:     0 → Y2:   798  (+798)  Peak: RB2
+     Chris Johnson              '8 Rd1 # 24  Y1:  1228 → Y2:  2006  (+778)  Peak: RB1
+     Jamaal Charles             '8 Rd3 # 73  Y1:   357 → Y2:  1120  (+763)  Peak: RB1
+     Travis Henry               '1 Rd2 # 58  Y1:   729 → Y2:  1438  (+709)  Peak: RB1
+
+  📉 YEAR-2 COLLAPSES: Biggest Y1→Y2 drop (min Y1 > 500 rush yards)
+     Jamal Lewis                '0 Rd1 #  5  Y1:  1364 → Y2:     0  (-1364)  Peak: RB1
+     Doug Martin                '12 Rd1 # 31  Y1:  1454 → Y2:   456  (-998)  Peak: RB1
+     Steve Slaton               '8 Rd3 # 89  Y1:  1282 → Y2:   437  (-845)  Peak: RB1
+     J.K. Dobbins               '20 Rd2 # 55  Y1:   805 → Y2:     0  (-805)  Peak: RB2
+     Vick Ballard               '12 Rd5 #170  Y1:   814 → Y2:    63  (-751)  Peak: RB2
+     Zac Stacy                  '13 Rd5 #160  Y1:   973 → Y2:   293  (-680)  Peak: RB2
+     Ezekiel Elliott            '16 Rd1 #  4  Y1:  1631 → Y2:   983  (-648)  Peak: RB1
+     Roy Helu                   '11 Rd4 #105  Y1:   640 → Y2:     2  (-638)  Peak: RB2
+     Cam Akers                  '20 Rd2 # 52  Y1:   625 → Y2:     3  (-622)  Peak: RB2
+     Leonard Fournette          '17 Rd1 #  4  Y1:  1040 → Y2:   439  (-601)  Peak: RB1
+     Correll Buckhalter         '1 Rd4 #121  Y1:   586 → Y2:     0  (-586)  Peak: RB3
+     Samaje Perine              '17 Rd4 #114  Y1:   603 → Y2:    32  (-571)  Peak: RB2
+     Tre Mason                  '14 Rd3 # 75  Y1:   765 → Y2:   207  (-558)  Peak: RB2
+     Karlos Williams            '15 Rd5 #155  Y1:   517 → Y2:     0  (-517)  Peak: RB3
+     Jonathan Wells             '2 Rd4 # 99  Y1:   529 → Y2:    14  (-515)  Peak: RB3
+     Kareem Hunt                '17 Rd3 # 86  Y1:  1327 → Y2:   824  (-503)  Peak: RB1
+     James Jackson              '1 Rd3 # 65  Y1:   554 → Y2:    54  (-500)  Peak: RB3
+     Travis Prentice            '0 Rd3 # 63  Y1:   512 → Y2:    13  (-499)  Peak: RB3
+     Ameer Abdullah             '15 Rd2 # 54  Y1:   597 → Y2:   101  (-496)  Peak: RB3
+     Javorius Allen             '15 Rd4 #125  Y1:   514 → Y2:    34  (-480)  Peak: RB3
+
+
+====================================================================================================
+SECTION 4: HISTORICAL COMP PROFILES
+Show all players matching a specific profile → what happened
+====================================================================================================
+
+  ╔═ Rd 1 WR, 700+ rookie rec yds  (n=29)  Hit rate: 100%
+  ║  WR1: 27(93%) | WR2: 2(7%) | WR3: 0(0%) | Depth/Out: 0(0%)
+  ║
+  ║  ✅ [WR1       ]  Ja'Marr Chase              '21 Rd1 #5       Y1: 1455 yds     Peak: 1455 yds / 81 rec / 13 TDs (5x WR1)
+  ║  ✅ [WR1       ]  Larry Fitzgerald           '4 Rd1 #3        Y1: 780 yds      Peak: 1409 yds / 103 rec / 10 TDs (9x WR1)
+  ║  ✅ [WR1       ]  Justin Jefferson           '20 Rd1 #22      Y1: 1400 yds     Peak: 1400 yds / 88 rec / 7 TDs (6x WR1)
+  ║  ✅ [WR1       ]  Calvin Ridley              '18 Rd1 #26      Y1: 821 yds      Peak: 1374 yds / 90 rec / 9 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Calvin Johnson             '7 Rd1 #2        Y1: 756 yds      Peak: 1331 yds / 78 rec / 12 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Jeremy Maclin              '9 Rd1 #19       Y1: 762 yds      Peak: 1318 yds / 85 rec / 10 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Roy Williams               '4 Rd1 #7        Y1: 817 yds      Peak: 1310 yds / 82 rec / 7 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Odell Beckham, Jr.         '14 Rd1 #12      Y1: 1305 yds     Peak: 1305 yds / 91 rec / 12 TDs (5x WR1)
+  ║  ✅ [WR1       ]  Lee Evans                  '4 Rd1 #13       Y1: 843 yds      Peak: 1291 yds / 82 rec / 8 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Santonio Holmes            '6 Rd1 #25       Y1: 824 yds      Peak: 1248 yds / 79 rec / 5 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Jerry Jeudy                '20 Rd1 #15      Y1: 856 yds      Peak: 1229 yds / 90 rec / 4 TDs (1x WR1)
+  ║  ✅ [WR1       ]  DeAndre Hopkins            '13 Rd1 #27      Y1: 802 yds      Peak: 1210 yds / 76 rec / 6 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Julio Jones                '11 Rd1 #6       Y1: 959 yds      Peak: 1198 yds / 79 rec / 10 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Michael Clayton            '4 Rd1 #15       Y1: 1193 yds     Peak: 1193 yds / 80 rec / 7 TDs (1x WR1)
+  ║  ✅ [WR1       ]  D.J. Moore                 '18 Rd1 #24      Y1: 788 yds      Peak: 1175 yds / 87 rec / 4 TDs (4x WR1)
+  ║  ✅ [WR1       ]  Andre Johnson              '3 Rd1 #3        Y1: 976 yds      Peak: 1142 yds / 79 rec / 6 TDs (7x WR1)
+  ║  ✅ [WR1       ]  CeeDee Lamb                '20 Rd1 #17      Y1: 935 yds      Peak: 1102 yds / 79 rec / 6 TDs (5x WR1)
+  ║  ✅ [WR1       ]  Amari Cooper               '15 Rd1 #4       Y1: 1070 yds     Peak: 1070 yds / 72 rec / 6 TDs (7x WR1)
+  ║  ✅ [WR1       ]  A.J. Green                 '11 Rd1 #4       Y1: 1057 yds     Peak: 1057 yds / 65 rec / 7 TDs (6x WR1)
+  ║  ✅ [WR1       ]  Hakeem Nicks               '9 Rd1 #29       Y1: 790 yds      Peak: 1052 yds / 79 rec / 11 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Mike Evans                 '14 Rd1 #7       Y1: 1051 yds     Peak: 1051 yds / 68 rec / 12 TDs (11x WR1)
+  ║  ✅ [WR1       ]  Sammy Watkins              '14 Rd1 #4       Y1: 982 yds      Peak: 1047 yds / 60 rec / 9 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Dwayne Bowe                '7 Rd1 #23       Y1: 995 yds      Peak: 1022 yds / 86 rec / 7 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Brandon Aiyuk              '20 Rd1 #25      Y1: 748 yds      Peak: 1015 yds / 78 rec / 8 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Kelvin Benjamin            '14 Rd1 #28      Y1: 1008 yds     Peak: 1008 yds / 73 rec / 9 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Rod Gardner                '1 Rd1 #15       Y1: 741 yds      Peak: 1006 yds / 71 rec / 8 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Kenny Britt                '9 Rd1 #30       Y1: 701 yds      Peak: 1002 yds / 68 rec / 5 TDs (1x WR1)
+  ║  🟡 [WR2       ]  Justin Blackmon            '12 Rd1 #5       Y1: 865 yds      Peak: 865 yds / 64 rec / 5 TDs
+  ║  🟡 [WR2       ]  Percy Harvin               '9 Rd1 #22       Y1: 790 yds      Peak: 790 yds / 60 rec / 6 TDs
+  ╚═
+
+  ╔═ Rd 1 WR, under 300 rookie rec yds  (n=23)  Hit rate: 48%
+  ║  WR1: 4(17%) | WR2: 7(30%) | WR3: 7(30%) | Depth/Out: 5(22%)
+  ║
+  ║  ✅ [WR1       ]  Demaryius Thomas           '10 Rd1 #22      Y1: 283 yds      Peak: 1434 yds / 94 rec / 10 TDs (5x WR1)
+  ║  ✅ [WR1       ]  Mike Williams              '17 Rd1 #7       Y1: 95 yds       Peak: 1146 yds / 76 rec / 9 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Santana Moss               '1 Rd1 #16       Y1: 40 yds       Peak: 1105 yds / 74 rec / 10 TDs (4x WR1)
+  ║  ✅ [WR1       ]  Plaxico Burress            '0 Rd1 #8        Y1: 273 yds      Peak: 1008 yds / 66 rec / 6 TDs (4x WR1)
+  ║  🟡 [WR2       ]  Darrius Heyward-Bey        '9 Rd1 #7        Y1: 124 yds      Peak: 975 yds / 64 rec / 4 TDs
+  ║  🟡 [WR2       ]  Travis Taylor              '0 Rd1 #10       Y1: 276 yds      Peak: 869 yds / 61 rec / 6 TDs
+  ║  🟡 [WR2       ]  Michael Jenkins            '4 Rd1 #29       Y1: 119 yds      Peak: 777 yds / 50 rec / 3 TDs
+  ║  🟡 [WR2       ]  Nelson Agholor             '15 Rd1 #20      Y1: 283 yds      Peak: 768 yds / 62 rec / 8 TDs
+  ║  🟡 [WR2       ]  Robert Meachem             '7 Rd1 #27       Y1: 0 yds        Peak: 722 yds / 45 rec / 9 TDs
+  ║  🟡 [WR2       ]  Breshad Perriman           '15 Rd1 #26      Y1: 0 yds        Peak: 645 yds / 36 rec / 6 TDs
+  ║  🟡 [WR2       ]  Reggie Williams            '4 Rd1 #9        Y1: 268 yds      Peak: 615 yds / 53 rec / 4 TDs
+  ║  🟠 [WR3       ]  Phillip Dorsett            '15 Rd1 #29      Y1: 225 yds      Peak: 528 yds / 33 rec / 2 TDs
+  ║  🟠 [WR3       ]  John Ross                  '17 Rd1 #9       Y1: 0 yds        Peak: 506 yds / 28 rec / 3 TDs
+  ║  🟠 [WR3       ]  Josh Doctson               '16 Rd1 #22      Y1: 66 yds       Peak: 502 yds / 35 rec / 6 TDs
+  ║  🟠 [WR3       ]  Freddie Mitchell           '1 Rd1 #25       Y1: 283 yds      Peak: 498 yds / 35 rec / 2 TDs
+  ║  🟠 [WR3       ]  Jon Baldwin                '11 Rd1 #26      Y1: 254 yds      Peak: 325 yds / 20 rec / 1 TDs
+  ║  🟠 [WR3       ]  N'Keal Harry               '19 Rd1 #32      Y1: 105 yds      Peak: 309 yds / 33 rec / 2 TDs
+  ║  🟠 [WR3       ]  Laquon Treadwell           '16 Rd1 #23      Y1: 15 yds       Peak: 302 yds / 35 rec / 1 TDs
+  ║  ❌ [Depth/Out ]  Charles Rogers             '3 Rd1 #2        Y1: 243 yds      Peak: 243 yds / 22 rec / 3 TDs
+  ║  ❌ [Depth/Out ]  Kevin White                '15 Rd1 #7       Y1: 0 yds        Peak: 187 yds / 19 rec / 0 TDs
+  ║  ❌ [Depth/Out ]  Rashaun Woods              '4 Rd1 #31       Y1: 160 yds      Peak: 160 yds / 7 rec / 1 TDs
+  ║  ❌ [Depth/Out ]  R. Jay Soward              '0 Rd1 #29       Y1: 154 yds      Peak: 154 yds / 14 rec / 1 TDs
+  ║  ❌ [Depth/Out ]  A.J. Jenkins               '12 Rd1 #30      Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  ╚═
+
+  ╔═ Rd 2-3 WR, 500+ rookie rec yds  (n=50)  Hit rate: 90%
+  ║  WR1: 30(60%) | WR2: 15(30%) | WR3: 5(10%) | Depth/Out: 0(0%)
+  ║
+  ║  ✅ [WR1       ]  JuJu Smith-Schuster        '17 Rd2 #62      Y1: 917 yds      Peak: 1426 yds / 111 rec / 7 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Deebo Samuel               '19 Rd2 #36      Y1: 802 yds      Peak: 1405 yds / 77 rec / 6 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Allen Robinson             '14 Rd2 #61      Y1: 548 yds      Peak: 1400 yds / 80 rec / 14 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Anquan Boldin              '3 Rd2 #54       Y1: 1377 yds     Peak: 1377 yds / 101 rec / 8 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Chris Godwin               '17 Rd3 #84      Y1: 525 yds      Peak: 1333 yds / 86 rec / 9 TDs (4x WR1)
+  ║  ✅ [WR1       ]  D.K. Metcalf               '19 Rd2 #64      Y1: 900 yds      Peak: 1303 yds / 83 rec / 10 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Greg Jennings              '6 Rd2 #52       Y1: 632 yds      Peak: 1292 yds / 80 rec / 9 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Mike Wallace               '9 Rd3 #84       Y1: 756 yds      Peak: 1257 yds / 60 rec / 10 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Robert Woods               '13 Rd2 #41      Y1: 587 yds      Peak: 1219 yds / 86 rec / 6 TDs (2x WR1)
+  ║  ✅ [WR1       ]  DeSean Jackson             '8 Rd2 #49       Y1: 912 yds      Peak: 1167 yds / 63 rec / 9 TDs (4x WR1)
+  ║  ✅ [WR1       ]  Cooper Kupp                '17 Rd3 #69      Y1: 869 yds      Peak: 1161 yds / 94 rec / 10 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Diontae Johnson            '19 Rd3 #66      Y1: 680 yds      Peak: 1161 yds / 107 rec / 8 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Jarvis Landry              '14 Rd2 #63      Y1: 758 yds      Peak: 1157 yds / 110 rec / 4 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Michael Thomas             '16 Rd2 #47      Y1: 1137 yds     Peak: 1137 yds / 92 rec / 9 TDs (4x WR1)
+  ║  ✅ [WR1       ]  Torrey Smith               '11 Rd2 #58      Y1: 841 yds      Peak: 1128 yds / 65 rec / 4 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Terry McLaurin             '19 Rd3 #76      Y1: 919 yds      Peak: 1118 yds / 87 rec / 4 TDs (5x WR1)
+  ║  ✅ [WR1       ]  Chris Chambers             '1 Rd2 #52       Y1: 883 yds      Peak: 1118 yds / 82 rec / 11 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Courtland Sutton           '18 Rd2 #40      Y1: 704 yds      Peak: 1112 yds / 72 rec / 6 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Christian Kirk             '18 Rd2 #47      Y1: 590 yds      Peak: 1108 yds / 84 rec / 8 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Michael Gallup             '18 Rd3 #81      Y1: 507 yds      Peak: 1107 yds / 66 rec / 6 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Tee Higgins                '20 Rd2 #33      Y1: 908 yds      Peak: 1091 yds / 74 rec / 6 TDs (2x WR1)
+  ║  ✅ [WR1       ]  T.Y. Hilton                '12 Rd3 #92      Y1: 861 yds      Peak: 1083 yds / 82 rec / 5 TDs (5x WR1)
+  ║  ✅ [WR1       ]  Michael Pittman            '20 Rd2 #34      Y1: 503 yds      Peak: 1082 yds / 88 rec / 6 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Darrell Jackson            '0 Rd3 #80       Y1: 713 yds      Peak: 1081 yds / 70 rec / 8 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Tyler Lockett              '15 Rd3 #69      Y1: 664 yds      Peak: 1057 yds / 82 rec / 8 TDs (4x WR1)
+  ║  ✅ [WR1       ]  A.J. Brown                 '19 Rd2 #51      Y1: 1051 yds     Peak: 1051 yds / 52 rec / 8 TDs (6x WR1)
+  ║  ✅ [WR1       ]  Keenan Allen               '13 Rd3 #76      Y1: 1046 yds     Peak: 1046 yds / 71 rec / 8 TDs (6x WR1)
+  ║  ✅ [WR1       ]  Tyler Boyd                 '16 Rd2 #55      Y1: 603 yds      Peak: 1028 yds / 76 rec / 7 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Antonio Bryant             '2 Rd2 #63       Y1: 733 yds      Peak: 1009 yds / 69 rec / 4 TDs (2x WR1)
+  ║  ✅ [WR1       ]  John Brown                 '14 Rd3 #91      Y1: 696 yds      Peak: 1003 yds / 65 rec / 7 TDs (2x WR1)
+  ║  🟡 [WR2       ]  Eddie Royal                '8 Rd2 #42       Y1: 980 yds      Peak: 980 yds / 91 rec / 5 TDs
+  ║  🟡 [WR2       ]  Chase Claypool             '20 Rd2 #49      Y1: 873 yds      Peak: 873 yds / 62 rec / 9 TDs
+  ║  🟡 [WR2       ]  Jordan Matthews            '14 Rd2 #42      Y1: 872 yds      Peak: 872 yds / 67 rec / 8 TDs
+  ║  🟡 [WR2       ]  Reggie Brown               '5 Rd2 #35       Y1: 571 yds      Peak: 836 yds / 47 rec / 8 TDs
+  ║  🟡 [WR2       ]  Keary Colbert              '4 Rd2 #62       Y1: 754 yds      Peak: 754 yds / 47 rec / 5 TDs
+  ║  🟡 [WR2       ]  Terrance Williams          '13 Rd3 #74      Y1: 736 yds      Peak: 736 yds / 44 rec / 5 TDs
+  ║  🟡 [WR2       ]  Greg Little                '11 Rd2 #59      Y1: 709 yds      Peak: 709 yds / 61 rec / 2 TDs
+  ║  🟡 [WR2       ]  Mecole Hardman             '19 Rd2 #56      Y1: 538 yds      Peak: 693 yds / 59 rec / 2 TDs
+  ║  🟡 [WR2       ]  Donnie Avery               '8 Rd2 #33       Y1: 684 yds      Peak: 684 yds / 54 rec / 3 TDs
+  ║  🟡 [WR2       ]  Sterling Shepard           '16 Rd2 #40      Y1: 683 yds      Peak: 683 yds / 65 rec / 8 TDs
+  ║  🟡 [WR2       ]  James Jones                '7 Rd3 #78       Y1: 676 yds      Peak: 676 yds / 47 rec / 2 TDs
+  ║  🟡 [WR2       ]  Elijah Moore               '21 Rd2 #34      Y1: 538 yds      Peak: 640 yds / 59 rec / 2 TDs
+  ║  🟠 [WR3       ]  Mohamed Massaquoi          '9 Rd2 #50       Y1: 624 yds      Peak: 624 yds / 34 rec / 3 TDs
+  ║  🟡 [WR2       ]  Titus Young                '11 Rd2 #44      Y1: 616 yds      Peak: 616 yds / 50 rec / 6 TDs
+  ║  🟡 [WR2       ]  Jordan Shipley             '10 Rd3 #84      Y1: 600 yds      Peak: 600 yds / 52 rec / 3 TDs
+  ║  🟡 [WR2       ]  Laviska Shenault Jr.       '20 Rd2 #42      Y1: 600 yds      Peak: 600 yds / 58 rec / 5 TDs
+  ║  🟠 [WR3       ]  Dorial Green-Beckham       '15 Rd2 #40      Y1: 549 yds      Peak: 549 yds / 32 rec / 4 TDs
+  ║  🟠 [WR3       ]  Aaron Dobson               '13 Rd2 #59      Y1: 519 yds      Peak: 519 yds / 37 rec / 4 TDs
+  ║  🟠 [WR3       ]  Snoop Minnis               '1 Rd3 #77       Y1: 511 yds      Peak: 511 yds / 33 rec / 1 TDs
+  ║  🟠 [WR3       ]  Josh Reed                  '2 Rd2 #36       Y1: 509 yds      Peak: 509 yds / 37 rec / 2 TDs
+  ╚═
+
+  ╔═ Rd 4+ WR, 500+ rookie rec yds  (n=21)  Hit rate: 86%
+  ║  WR1: 6(29%) | WR2: 12(57%) | WR3: 3(14%) | Depth/Out: 0(0%)
+  ║
+  ║  ✅ [WR1       ]  Amon-Ra St. Brown          '21 Rd4 #112     Y1: 912 yds      Peak: 1161 yds / 106 rec / 6 TDs (4x WR1)
+  ║  ✅ [WR1       ]  Brian Hartline             '9 Rd4 #108      Y1: 506 yds      Peak: 1083 yds / 74 rec / 1 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Darnell Mooney             '20 Rd5 #173     Y1: 631 yds      Peak: 1055 yds / 81 rec / 4 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Hunter Renfrow             '19 Rd5 #149     Y1: 605 yds      Peak: 1038 yds / 103 rec / 9 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Marques Colston            '6 Rd7 #252      Y1: 1038 yds     Peak: 1038 yds / 70 rec / 8 TDs (6x WR1)
+  ║  ✅ [WR1       ]  Stefon Diggs               '15 Rd5 #146     Y1: 720 yds      Peak: 1021 yds / 102 rec / 9 TDs (7x WR1)
+  ║  🟡 [WR2       ]  Mike Williams              '10 Rd4 #101     Y1: 964 yds      Peak: 964 yds / 65 rec / 11 TDs
+  ║  🟡 [WR2       ]  Johnny Knox                '9 Rd5 #140      Y1: 527 yds      Peak: 960 yds / 51 rec / 5 TDs
+  ║  🟡 [WR2       ]  Gabriel Davis              '20 Rd4 #128     Y1: 599 yds      Peak: 836 yds / 48 rec / 7 TDs
+  ║  🟡 [WR2       ]  Martavis Bryant            '14 Rd4 #118     Y1: 549 yds      Peak: 765 yds / 50 rec / 6 TDs
+  ║  🟡 [WR2       ]  Darius Slayton             '19 Rd5 #171     Y1: 740 yds      Peak: 740 yds / 48 rec / 8 TDs
+  ║  🟡 [WR2       ]  Chris Givens               '12 Rd4 #96      Y1: 698 yds      Peak: 698 yds / 42 rec / 3 TDs
+  ║  🟡 [WR2       ]  Marquez Valdes-Scantling   '18 Rd5 #174     Y1: 581 yds      Peak: 690 yds / 33 rec / 6 TDs
+  ║  🟡 [WR2       ]  Austin Collie              '9 Rd4 #127      Y1: 676 yds      Peak: 676 yds / 60 rec / 7 TDs
+  ║  🟡 [WR2       ]  Kenny Stills               '13 Rd5 #144     Y1: 641 yds      Peak: 641 yds / 32 rec / 5 TDs
+  ║  🟡 [WR2       ]  Denarius Moore             '11 Rd5 #148     Y1: 618 yds      Peak: 618 yds / 33 rec / 5 TDs
+  ║  🟡 [WR2       ]  Louis Murphy               '9 Rd4 #124      Y1: 521 yds      Peak: 609 yds / 41 rec / 2 TDs
+  ║  🟡 [WR2       ]  Jamison Crowder            '15 Rd4 #105     Y1: 604 yds      Peak: 604 yds / 59 rec / 2 TDs
+  ║  🟠 [WR3       ]  Antonio Callaway           '18 Rd4 #105     Y1: 586 yds      Peak: 586 yds / 43 rec / 5 TDs
+  ║  🟠 [WR3       ]  Tajae Sharpe               '16 Rd5 #140     Y1: 522 yds      Peak: 522 yds / 41 rec / 2 TDs
+  ║  🟠 [WR3       ]  David Gettis               '10 Rd6 #198     Y1: 508 yds      Peak: 508 yds / 37 rec / 3 TDs
+  ╚═
+
+  ╔═ Rd 1 RB, 900+ rookie rush yds  (n=18)  Hit rate: 100%
+  ║  RB1: 16(89%) | RB2: 2(11%) | RB3: 0(0%) | Depth/Out: 0(0%)
+  ║
+  ║  ✅ [RB1       ]  Ezekiel Elliott            '16 Rd1 #4       Y1: 1631 yds     Peak: 1631 yds / 15 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Doug Martin                '12 Rd1 #31      Y1: 1454 yds     Peak: 1454 yds / 11 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Jamal Lewis                '0 Rd1 #5        Y1: 1364 yds     Peak: 1364 yds / 6 TDs (7x RB1)
+  ║  ✅ [RB1       ]  Adrian Peterson            '7 Rd1 #7        Y1: 1341 yds     Peak: 1341 yds / 12 TDs (8x RB1)
+  ║  ✅ [RB1       ]  Saquon Barkley             '18 Rd1 #2       Y1: 1307 yds     Peak: 1307 yds / 11 TDs (5x RB1)
+  ║  ✅ [RB1       ]  LaDainian Tomlinson        '1 Rd1 #5        Y1: 1236 yds     Peak: 1236 yds / 10 TDs (8x RB1)
+  ║  ✅ [RB1       ]  Chris Johnson              '8 Rd1 #24       Y1: 1228 yds     Peak: 1228 yds / 9 TDs (6x RB1)
+  ║  ✅ [RB1       ]  Cadillac Williams          '5 Rd1 #5        Y1: 1178 yds     Peak: 1178 yds / 6 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Josh Jacobs                '19 Rd1 #24      Y1: 1150 yds     Peak: 1150 yds / 7 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Kevin Jones                '4 Rd1 #30       Y1: 1133 yds     Peak: 1133 yds / 5 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Marshawn Lynch             '7 Rd1 #12       Y1: 1115 yds     Peak: 1115 yds / 7 TDs (6x RB1)
+  ║  ✅ [RB1       ]  Todd Gurley                '15 Rd1 #10      Y1: 1106 yds     Peak: 1106 yds / 10 TDs (3x RB1)
+  ║  ✅ [RB1       ]  Joseph Addai               '6 Rd1 #30       Y1: 1081 yds     Peak: 1081 yds / 7 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Leonard Fournette          '17 Rd1 #4       Y1: 1040 yds     Peak: 1040 yds / 9 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Knowshon Moreno            '9 Rd1 #12       Y1: 947 yds      Peak: 1038 yds / 10 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Ronnie Brown               '5 Rd1 #2        Y1: 907 yds      Peak: 1005 yds / 5 TDs (1x RB1)
+  ║  🟡 [RB2       ]  Trent Richardson           '12 Rd1 #3       Y1: 950 yds      Peak: 950 yds / 11 TDs
+  ║  🟡 [RB2       ]  Sony Michel                '18 Rd1 #31      Y1: 931 yds      Peak: 931 yds / 6 TDs
+  ╚═
+
+  ╔═ Rd 1 RB, under 200 rookie rush yds  (n=7)  Hit rate: 71%
+  ║  RB1: 5(71%) | RB2: 0(0%) | RB3: 1(14%) | Depth/Out: 1(14%)
+  ║
+  ║  ✅ [RB1       ]  Larry Johnson              '3 Rd1 #27       Y1: 85 yds       Peak: 1750 yds / 20 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Deuce McAllister           '1 Rd1 #23       Y1: 91 yds       Peak: 1388 yds / 13 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Willis McGahee             '3 Rd1 #23       Y1: 0 yds        Peak: 1128 yds / 13 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Travis Etienne             '21 Rd1 #25      Y1: 0 yds        Peak: 1125 yds / 5 TDs (3x RB1)
+  ║  ✅ [RB1       ]  Rashard Mendenhall         '8 Rd1 #23       Y1: 58 yds       Peak: 1108 yds / 7 TDs (2x RB1)
+  ║  🟠 [RB3       ]  Trung Canidate             '0 Rd1 #31       Y1: 6 yds        Peak: 441 yds / 6 TDs
+  ║  ❌ [Depth/Out ]  Chris Perry                '4 Rd1 #26       Y1: 1 yds        Peak: 1 yds / 0 TDs
+  ╚═
+
+  ╔═ Rd 2-3 RB, 600+ rookie rush yds  (n=30)  Hit rate: 93%
+  ║  RB1: 19(63%) | RB2: 9(30%) | RB3: 2(7%) | Depth/Out: 0(0%)
+  ║
+  ║  ✅ [RB1       ]  Frank Gore                 '5 Rd3 #65       Y1: 608 yds      Peak: 1695 yds / 8 TDs (9x RB1)
+  ║  ✅ [RB1       ]  Clinton Portis             '2 Rd2 #51       Y1: 1508 yds     Peak: 1508 yds / 15 TDs (6x RB1)
+  ║  ✅ [RB1       ]  Nick Chubb                 '18 Rd2 #35      Y1: 996 yds      Peak: 1494 yds / 8 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Travis Henry               '1 Rd2 #58       Y1: 729 yds      Peak: 1438 yds / 13 TDs (3x RB1)
+  ║  ✅ [RB1       ]  Maurice Jones-Drew         '6 Rd2 #60       Y1: 941 yds      Peak: 1391 yds / 15 TDs (3x RB1)
+  ║  ✅ [RB1       ]  Le'Veon Bell               '13 Rd2 #48      Y1: 860 yds      Peak: 1361 yds / 8 TDs (3x RB1)
+  ║  ✅ [RB1       ]  Kareem Hunt                '17 Rd3 #86      Y1: 1327 yds     Peak: 1327 yds / 8 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Steve Slaton               '8 Rd3 #89       Y1: 1282 yds     Peak: 1282 yds / 9 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Miles Sanders              '19 Rd2 #53      Y1: 818 yds      Peak: 1269 yds / 11 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Matt Forte                 '8 Rd2 #44       Y1: 1231 yds     Peak: 1231 yds / 8 TDs (5x RB1)
+  ║  ✅ [RB1       ]  Javonte Williams           '21 Rd2 #35      Y1: 903 yds      Peak: 1201 yds / 11 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Anthony Thomas             '1 Rd2 #38       Y1: 1183 yds     Peak: 1183 yds / 7 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Eddie Lacy                 '13 Rd2 #61      Y1: 1178 yds     Peak: 1178 yds / 11 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Jonathan Taylor            '20 Rd2 #41      Y1: 1169 yds     Peak: 1169 yds / 11 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Jeremy Hill                '14 Rd2 #55      Y1: 1124 yds     Peak: 1124 yds / 9 TDs (1x RB1)
+  ║  ✅ [RB1       ]  DeMarco Murray             '11 Rd3 #71      Y1: 897 yds      Peak: 1121 yds / 9 TDs (3x RB1)
+  ║  ✅ [RB1       ]  Julius Jones               '4 Rd2 #43       Y1: 819 yds      Peak: 1084 yds / 4 TDs (1x RB1)
+  ║  ✅ [RB1       ]  LeSean McCoy               '9 Rd2 #53       Y1: 637 yds      Peak: 1080 yds / 7 TDs (6x RB1)
+  ║  ✅ [RB1       ]  David Montgomery           '19 Rd3 #73      Y1: 889 yds      Peak: 1070 yds / 8 TDs (2x RB1)
+  ║  🟡 [RB2       ]  Kevin Smith                '8 Rd3 #64       Y1: 975 yds      Peak: 975 yds / 8 TDs
+  ║  🟡 [RB2       ]  J.K. Dobbins               '20 Rd2 #55      Y1: 805 yds      Peak: 805 yds / 9 TDs
+  ║  🟡 [RB2       ]  Cam Akers                  '20 Rd2 #52      Y1: 625 yds      Peak: 786 yds / 7 TDs
+  ║  🟡 [RB2       ]  Devin Singletary           '19 Rd3 #74      Y1: 775 yds      Peak: 775 yds / 2 TDs
+  ║  🟡 [RB2       ]  Tre Mason                  '14 Rd3 #75      Y1: 765 yds      Peak: 765 yds / 4 TDs
+  ║  🟡 [RB2       ]  T.J. Yeldon                '15 Rd2 #36      Y1: 740 yds      Peak: 740 yds / 2 TDs
+  ║  🟡 [RB2       ]  Alvin Kamara               '17 Rd3 #67      Y1: 728 yds      Peak: 728 yds / 8 TDs
+  ║  🟡 [RB2       ]  Giovani Bernard            '13 Rd2 #37      Y1: 695 yds      Peak: 695 yds / 5 TDs
+  ║  🟡 [RB2       ]  Terrance West              '14 Rd3 #94      Y1: 673 yds      Peak: 673 yds / 4 TDs
+  ║  🟠 [RB3       ]  Kerryon Johnson            '18 Rd2 #43      Y1: 641 yds      Peak: 641 yds / 3 TDs
+  ║  🟠 [RB3       ]  Jerious Norwood            '6 Rd3 #79       Y1: 633 yds      Peak: 633 yds / 2 TDs
+  ╚═
+
+  ╔═ Rd 4+ RB, 500+ rookie rush yds  (n=24)  Hit rate: 75%
+  ║  RB1: 6(25%) | RB2: 12(50%) | RB3: 6(25%) | Depth/Out: 0(0%)
+  ║
+  ║  ✅ [RB1       ]  Alfred Morris              '12 Rd6 #173     Y1: 1613 yds     Peak: 1613 yds / 13 TDs (3x RB1)
+  ║  ✅ [RB1       ]  Jordan Howard              '16 Rd5 #150     Y1: 1313 yds     Peak: 1313 yds / 6 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Chuba Hubbard              '21 Rd4 #126     Y1: 612 yds      Peak: 1195 yds / 10 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Jamaal Williams            '17 Rd4 #134     Y1: 556 yds      Peak: 1066 yds / 17 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Rhamondre Stevenson        '21 Rd4 #120     Y1: 606 yds      Peak: 1040 yds / 5 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Domanick Williams          '3 Rd4 #101      Y1: 1031 yds     Peak: 1031 yds / 8 TDs (2x RB1)
+  ║  🟡 [RB2       ]  Zac Stacy                  '13 Rd5 #160     Y1: 973 yds      Peak: 973 yds / 7 TDs
+  ║  🟡 [RB2       ]  Elijah Mitchell            '21 Rd6 #194     Y1: 963 yds      Peak: 963 yds / 5 TDs
+  ║  🟡 [RB2       ]  Vick Ballard               '12 Rd5 #170     Y1: 814 yds      Peak: 814 yds / 2 TDs
+  ║  🟡 [RB2       ]  Andre Williams             '14 Rd4 #113     Y1: 721 yds      Peak: 721 yds / 7 TDs
+  ║  🟡 [RB2       ]  Alfred Blue                '14 Rd6 #181     Y1: 528 yds      Peak: 698 yds / 2 TDs
+  ║  🟡 [RB2       ]  Andre Ellington            '13 Rd6 #187     Y1: 652 yds      Peak: 660 yds / 3 TDs
+  ║  🟡 [RB2       ]  Marion Barber              '5 Rd4 #109      Y1: 538 yds      Peak: 654 yds / 14 TDs
+  ║  🟡 [RB2       ]  Leon Washington            '6 Rd4 #117      Y1: 650 yds      Peak: 650 yds / 4 TDs
+  ║  🟡 [RB2       ]  Roy Helu                   '11 Rd4 #105     Y1: 640 yds      Peak: 640 yds / 2 TDs
+  ║  🟡 [RB2       ]  Michael Carter             '21 Rd4 #107     Y1: 639 yds      Peak: 639 yds / 4 TDs
+  ║  🟡 [RB2       ]  Devontae Booker            '16 Rd4 #136     Y1: 612 yds      Peak: 612 yds / 4 TDs
+  ║  🟡 [RB2       ]  Samaje Perine              '17 Rd4 #114     Y1: 603 yds      Peak: 603 yds / 1 TDs
+  ║  🟠 [RB3       ]  Correll Buckhalter         '1 Rd4 #121      Y1: 586 yds      Peak: 586 yds / 2 TDs
+  ║  🟠 [RB3       ]  Onterrio Smith             '3 Rd4 #105      Y1: 579 yds      Peak: 579 yds / 5 TDs
+  ║  🟠 [RB3       ]  Jeremy Langford            '15 Rd4 #106     Y1: 537 yds      Peak: 537 yds / 6 TDs
+  ║  🟠 [RB3       ]  Jonathan Wells             '2 Rd4 #99       Y1: 529 yds      Peak: 529 yds / 3 TDs
+  ║  🟠 [RB3       ]  Karlos Williams            '15 Rd5 #155     Y1: 517 yds      Peak: 517 yds / 7 TDs
+  ║  🟠 [RB3       ]  Javorius Allen             '15 Rd4 #125     Y1: 514 yds      Peak: 514 yds / 1 TDs
+  ╚═
+
+  ╔═ Rd 1 TE, any production  (n=26)  Hit rate: 96%
+  ║  TE1: 18(69%) | TE2: 7(27%) | Depth/Out: 1(4%)
+  ║
+  ║  ✅ [TE1       ]  Kyle Pitts                 '21 Rd1 #4       Y1: 1026 yds     Peak: 1026 yds / 68 rec / 1 TDs (2x TE1)
+  ║  ✅ [TE1       ]  Vernon Davis               '6 Rd1 #6        Y1: 265 yds      Peak: 965 yds / 78 rec / 13 TDs (4x TE1)
+  ║  ✅ [TE1       ]  Jeremy Shockey             '2 Rd1 #14       Y1: 894 yds      Peak: 894 yds / 74 rec / 2 TDs (2x TE1)
+  ║  ✅ [TE1       ]  David Njoku                '17 Rd1 #29      Y1: 386 yds      Peak: 882 yds / 81 rec / 6 TDs (1x TE1)
+  ║  ✅ [TE1       ]  Kellen Winslow             '4 Rd1 #6        Y1: 50 yds       Peak: 875 yds / 89 rec / 3 TDs (5x TE1)
+  ║  ✅ [TE1       ]  Dallas Clark               '3 Rd1 #24       Y1: 340 yds      Peak: 848 yds / 77 rec / 6 TDs (2x TE1)
+  ║  ✅ [TE1       ]  Greg Olsen                 '7 Rd1 #31       Y1: 391 yds      Peak: 843 yds / 69 rec / 5 TDs (5x TE1)
+  ║  ✅ [TE1       ]  Todd Heap                  '1 Rd1 #31       Y1: 206 yds      Peak: 836 yds / 68 rec / 6 TDs (3x TE1)
+  ║  ✅ [TE1       ]  Dustin Keller              '8 Rd1 #30       Y1: 535 yds      Peak: 815 yds / 65 rec / 5 TDs (1x TE1)
+  ║  ✅ [TE1       ]  Heath Miller               '5 Rd1 #30       Y1: 459 yds      Peak: 789 yds / 76 rec / 6 TDs (3x TE1)
+  ║  ✅ [TE1       ]  Benjamin Watson            '4 Rd1 #32       Y1: 16 yds       Peak: 763 yds / 68 rec / 3 TDs (2x TE1)
+  ║  ✅ [TE1       ]  Matt Jones                 '5 Rd1 #21       Y1: 432 yds      Peak: 750 yds / 64 rec / 2 TDs (1x TE1)
+  ║  ✅ [TE1       ]  Jermaine Gresham           '10 Rd1 #21      Y1: 471 yds      Peak: 737 yds / 64 rec / 5 TDs (1x TE1)
+  ║  ✅ [TE1       ]  T.J. Hockenson             '19 Rd1 #8       Y1: 367 yds      Peak: 723 yds / 67 rec / 6 TDs (3x TE1)
+  ║  ✅ [TE1       ]  Brandon Pettigrew          '9 Rd1 #20       Y1: 352 yds      Peak: 722 yds / 71 rec / 4 TDs (2x TE1)
+  ║  ✅ [TE1       ]  Evan Engram                '17 Rd1 #23      Y1: 722 yds      Peak: 722 yds / 64 rec / 6 TDs (3x TE1)
+  ║  ✅ [TE1       ]  Eric Ebron                 '14 Rd1 #10      Y1: 248 yds      Peak: 711 yds / 61 rec / 1 TDs (2x TE1)
+  ║  ✅ [TE1       ]  Marcedes Lewis             '6 Rd1 #28       Y1: 126 yds      Peak: 700 yds / 58 rec / 10 TDs (1x TE1)
+  ║  🟡 [TE2       ]  Hayden Hurst               '18 Rd1 #25      Y1: 163 yds      Peak: 571 yds / 56 rec / 6 TDs
+  ║  🟡 [TE2       ]  Noah Fant                  '19 Rd1 #20      Y1: 562 yds      Peak: 562 yds / 40 rec / 3 TDs
+  ║  🟡 [TE2       ]  Jerramy Stevens            '2 Rd1 #28       Y1: 252 yds      Peak: 554 yds / 45 rec / 5 TDs
+  ║  🟡 [TE2       ]  Tyler Eifert               '13 Rd1 #21      Y1: 445 yds      Peak: 445 yds / 39 rec / 2 TDs
+  ║  🟡 [TE2       ]  Bubba Franks               '0 Rd1 #14       Y1: 363 yds      Peak: 442 yds / 54 rec / 7 TDs
+  ║  🟡 [TE2       ]  O.J. Howard                '17 Rd1 #19      Y1: 432 yds      Peak: 432 yds / 26 rec / 6 TDs
+  ║  🟡 [TE2       ]  Daniel Graham              '2 Rd1 #21       Y1: 150 yds      Peak: 409 yds / 38 rec / 4 TDs
+  ║  ❌ [Depth/Out ]  Anthony Becht              '0 Rd1 #27       Y1: 144 yds      Peak: 144 yds / 16 rec / 2 TDs
+  ╚═
+
+  ╔═ Rd 2-3 TE, 300+ rookie rec yds  (n=24)  Hit rate: 83%
+  ║  TE1: 12(50%) | TE2: 8(33%) | Depth/Out: 4(17%)
+  ║
+  ║  ✅ [TE1       ]  Rob Gronkowski             '10 Rd2 #42      Y1: 546 yds      Peak: 1327 yds / 90 rec / 17 TDs (6x TE1)
+  ║  ✅ [TE1       ]  Jimmy Graham               '10 Rd3 #95      Y1: 356 yds      Peak: 1310 yds / 99 rec / 11 TDs (5x TE1)
+  ║  ✅ [TE1       ]  Jason Witten               '3 Rd3 #69       Y1: 347 yds      Peak: 980 yds / 87 rec / 6 TDs (12x TE1)
+  ║  ✅ [TE1       ]  Jordan Reed                '13 Rd3 #85      Y1: 499 yds      Peak: 952 yds / 87 rec / 11 TDs (1x TE1)
+  ║  ✅ [TE1       ]  Mark Andrews               '18 Rd3 #86      Y1: 552 yds      Peak: 852 yds / 64 rec / 10 TDs (4x TE1)
+  ║  ✅ [TE1       ]  Dallas Goedert             '18 Rd2 #49      Y1: 334 yds      Peak: 830 yds / 56 rec / 4 TDs (2x TE1)
+  ║  ✅ [TE1       ]  Zach Miller                '7 Rd2 #38       Y1: 444 yds      Peak: 778 yds / 56 rec / 1 TDs (2x TE1)
+  ║  ✅ [TE1       ]  Alge Crumpler              '1 Rd2 #35       Y1: 330 yds      Peak: 774 yds / 48 rec / 6 TDs (3x TE1)
+  ║  ✅ [TE1       ]  Chris Cooley               '4 Rd3 #81       Y1: 314 yds      Peak: 774 yds / 71 rec / 7 TDs (5x TE1)
+  ║  ✅ [TE1       ]  Hunter Henry               '16 Rd2 #35      Y1: 478 yds      Peak: 768 yds / 60 rec / 7 TDs (1x TE1)
+  ║  ✅ [TE1       ]  Pat Freiermuth             '21 Rd2 #55      Y1: 497 yds      Peak: 732 yds / 63 rec / 2 TDs (1x TE1)
+  ║  ✅ [TE1       ]  Zach Ertz                  '13 Rd2 #35      Y1: 469 yds      Peak: 702 yds / 58 rec / 3 TDs (7x TE1)
+  ║  🟡 [TE2       ]  L.J. Smith                 '3 Rd2 #61       Y1: 320 yds      Peak: 682 yds / 61 rec / 3 TDs
+  ║  🟡 [TE2       ]  John Carlson               '8 Rd2 #38       Y1: 627 yds      Peak: 627 yds / 55 rec / 5 TDs
+  ║  🟡 [TE2       ]  Dawson Knox                '19 Rd3 #96      Y1: 388 yds      Peak: 587 yds / 49 rec / 9 TDs
+  ║  🟡 [TE2       ]  Tony Moeaki                '10 Rd3 #93      Y1: 556 yds      Peak: 556 yds / 47 rec / 3 TDs
+  ║  🟡 [TE2       ]  Ben Troupe                 '4 Rd2 #40       Y1: 329 yds      Peak: 530 yds / 55 rec / 4 TDs
+  ║  🟡 [TE2       ]  Dwayne Allen               '12 Rd3 #64      Y1: 521 yds      Peak: 521 yds / 45 rec / 3 TDs
+  ║  🟡 [TE2       ]  Lance Kendricks            '11 Rd2 #47      Y1: 352 yds      Peak: 519 yds / 42 rec / 4 TDs
+  ║  🟡 [TE2       ]  Doug Jolley                '2 Rd2 #55       Y1: 409 yds      Peak: 409 yds / 32 rec / 2 TDs
+  ║  ❌ [Depth/Out ]  Alex Smith                 '5 Rd3 #71       Y1: 367 yds      Peak: 367 yds / 41 rec / 2 TDs
+  ║  ❌ [Depth/Out ]  Jace Amaro                 '14 Rd2 #49      Y1: 345 yds      Peak: 345 yds / 38 rec / 2 TDs
+  ║  ❌ [Depth/Out ]  Clive Walford              '15 Rd3 #68      Y1: 329 yds      Peak: 329 yds / 28 rec / 3 TDs
+  ║  ❌ [Depth/Out ]  Irv Smith                  '19 Rd2 #50      Y1: 311 yds      Peak: 311 yds / 36 rec / 2 TDs
+  ╚═
+
+  ╔═ Rd 4+ TE, 200+ rookie rec yds  (n=12)  Hit rate: 58%
+  ║  TE1: 4(33%) | TE2: 3(25%) | Depth/Out: 5(42%)
+  ║
+  ║  ✅ [TE1       ]  George Kittle              '17 Rd5 #146     Y1: 515 yds      Peak: 1377 yds / 88 rec / 5 TDs (6x TE1)
+  ║  ✅ [TE1       ]  Aaron Hernandez            '10 Rd4 #113     Y1: 563 yds      Peak: 910 yds / 79 rec / 7 TDs (1x TE1)
+  ║  ✅ [TE1       ]  Randy McMichael            '2 Rd4 #114      Y1: 485 yds      Peak: 791 yds / 73 rec / 4 TDs (1x TE1)
+  ║  ✅ [TE1       ]  Owen Daniels               '6 Rd4 #98       Y1: 350 yds      Peak: 768 yds / 63 rec / 3 TDs (3x TE1)
+  ║  🟡 [TE2       ]  Chris Herndon              '18 Rd4 #107     Y1: 502 yds      Peak: 502 yds / 39 rec / 4 TDs
+  ║  🟡 [TE2       ]  Bo Scaife                  '5 Rd6 #179      Y1: 273 yds      Peak: 421 yds / 46 rec / 1 TDs
+  ║  🟡 [TE2       ]  Mychal Rivera              '13 Rd6 #184     Y1: 407 yds      Peak: 407 yds / 38 rec / 4 TDs
+  ║  ❌ [Depth/Out ]  Ian Thomas                 '18 Rd4 #101     Y1: 333 yds      Peak: 333 yds / 36 rec / 2 TDs
+  ║  ❌ [Depth/Out ]  Kaden Smith                '19 Rd6 #176     Y1: 268 yds      Peak: 268 yds / 31 rec / 3 TDs
+  ║  ❌ [Depth/Out ]  Andrew Quarless            '10 Rd5 #154     Y1: 238 yds      Peak: 238 yds / 21 rec / 1 TDs
+  ║  ❌ [Depth/Out ]  Harrison Bryant            '20 Rd4 #115     Y1: 238 yds      Peak: 238 yds / 24 rec / 3 TDs
+  ║  ❌ [Depth/Out ]  Jordan Thomas              '18 Rd6 #211     Y1: 215 yds      Peak: 215 yds / 20 rec / 4 TDs
+  ╚═
+
+  ╔═ Rd 1 QB, 3000+ rookie pass yds  (n=15)  Hit rate: 93%
+  ║  QB1: 8(53%) | QB2: 6(40%) | Backup/Out: 1(7%)
+  ║
+  ║  ✅ [QB1       ]  Andrew Luck                '12 Rd1 #1       Y1: 4374 yds        Peak: 4761 yds / 40 TDs (3x QB1)
+  ║  ✅ [QB1       ]  Justin Herbert             '20 Rd1 #6       Y1: 4336 yds        Peak: 4336 yds / 31 TDs (3x QB1)
+  ║  ✅ [QB1       ]  Matt Ryan                  '8 Rd1 #3        Y1: 3440 yds        Peak: 4177 yds / 29 TDs (8x QB1)
+  ║  ✅ [QB1       ]  Trevor Lawrence            '21 Rd1 #1       Y1: 3641 yds        Peak: 4113 yds / 25 TDs (2x QB1)
+  ║  ✅ [QB1       ]  Jameis Winston             '15 Rd1 #1       Y1: 4042 yds        Peak: 4090 yds / 28 TDs (2x QB1)
+  ║  🟡 [QB2       ]  Cam Newton                 '11 Rd1 #1       Y1: 4051 yds        Peak: 4051 yds / 21 TDs
+  ║  ✅ [QB1       ]  Ryan Tannehill             '12 Rd1 #8       Y1: 3294 yds        Peak: 4045 yds / 27 TDs (1x QB1)
+  ║  ✅ [QB1       ]  Baker Mayfield             '18 Rd1 #1       Y1: 3725 yds        Peak: 4044 yds / 28 TDs (2x QB1)
+  ║  ✅ [QB1       ]  Carson Wentz               '16 Rd1 #2       Y1: 3782 yds        Peak: 4039 yds / 27 TDs (1x QB1)
+  ║  🟡 [QB2       ]  Mac Jones                  '21 Rd1 #15      Y1: 3801 yds        Peak: 3801 yds / 22 TDs
+  ║  🟡 [QB2       ]  Kyler Murray               '19 Rd1 #1       Y1: 3722 yds        Peak: 3722 yds / 20 TDs
+  ║  🟡 [QB2       ]  Sam Bradford               '10 Rd1 #1       Y1: 3512 yds        Peak: 3512 yds / 18 TDs
+  ║  ❌ [Backup/Out]  Brandon Weeden             '12 Rd1 #22      Y1: 3385 yds        Peak: 3385 yds / 14 TDs
+  ║  🟡 [QB2       ]  Robert Griffin             '12 Rd1 #2       Y1: 3200 yds        Peak: 3200 yds / 20 TDs
+  ║  🟡 [QB2       ]  Daniel Jones               '19 Rd1 #6       Y1: 3027 yds        Peak: 3027 yds / 24 TDs
+  ╚═
+
+  ╔═ Rd 1 QB, sat rookie year (0 pass yds)  (n=3)  Hit rate: 100%
+  ║  QB1: 2(67%) | QB2: 1(33%) | Backup/Out: 0(0%)
+  ║
+  ║  ✅ [QB1       ]  Jordan Love                '20 Rd1 #26      Y1: 0 yds           Peak: 4159 yds / 32 TDs (1x QB1)
+  ║  ✅ [QB1       ]  Carson Palmer              '3 Rd1 #1        Y1: 0 yds           Peak: 4036 yds / 28 TDs (4x QB1)
+  ║  🟡 [QB2       ]  Jason Campbell             '5 Rd1 #25       Y1: 0 yds           Peak: 3618 yds / 20 TDs
+  ╚═
+
+  ╔═ Rd 1 QB, under 1000 rookie pass yds  (n=15)  Hit rate: 53%
+  ║  QB1: 4(27%) | QB2: 4(27%) | Backup/Out: 7(47%)
+  ║
+  ║  ✅ [QB1       ]  Patrick Mahomes            '17 Rd1 #10      Y1: 284 yds         Peak: 5097 yds / 50 TDs (6x QB1)
+  ║  ✅ [QB1       ]  Alex Smith                 '5 Rd1 #1        Y1: 875 yds         Peak: 4042 yds / 26 TDs (1x QB1)
+  ║  ✅ [QB1       ]  Aaron Rodgers              '5 Rd1 #24       Y1: 65 yds          Peak: 4038 yds / 28 TDs (10x QB1)
+  ║  ✅ [QB1       ]  Philip Rivers              '4 Rd1 #4        Y1: 33 yds          Peak: 4004 yds / 34 TDs (10x QB1)
+  ║  🟡 [QB2       ]  Rex Grossman               '3 Rd1 #22       Y1: 437 yds         Peak: 3197 yds / 23 TDs
+  ║  🟡 [QB2       ]  Chad Pennington            '0 Rd1 #18       Y1: 67 yds          Peak: 3120 yds / 22 TDs
+  ║  🟡 [QB2       ]  J.P. Losman                '4 Rd1 #22       Y1: 32 yds          Peak: 3050 yds / 19 TDs
+  ║  🟡 [QB2       ]  Michael Vick               '1 Rd1 #1        Y1: 785 yds         Peak: 3018 yds / 21 TDs
+  ║  ❌ [Backup/Out]  Tim Tebow                  '10 Rd1 #25      Y1: 654 yds         Peak: 654 yds / 5 TDs
+  ║  ❌ [Backup/Out]  Trey Lance                 '21 Rd1 #3       Y1: 603 yds         Peak: 603 yds / 5 TDs
+  ║  ❌ [Backup/Out]  Jake Locker                '11 Rd1 #8       Y1: 542 yds         Peak: 542 yds / 4 TDs
+  ║  ❌ [Backup/Out]  Paxton Lynch               '16 Rd1 #26      Y1: 497 yds         Peak: 497 yds / 2 TDs
+  ║  ❌ [Backup/Out]  JaMarcus Russell           '7 Rd1 #1        Y1: 373 yds         Peak: 373 yds / 2 TDs
+  ║  ❌ [Backup/Out]  Johnny Manziel             '14 Rd1 #22      Y1: 175 yds         Peak: 175 yds / 0 TDs
+  ║  ❌ [Backup/Out]  Brady Quinn                '7 Rd1 #22       Y1: 45 yds          Peak: 45 yds / 0 TDs
+  ╚═
+
+  ╔═ Day 3 QB, 1000+ rookie pass yds  (n=6)  Hit rate: 50%
+  ║  QB1: 1(17%) | QB2: 2(33%) | Backup/Out: 3(50%)
+  ║
+  ║  ✅ [QB1       ]  Dak Prescott               '16 Rd4 #135     Y1: 3667 yds        Peak: 4902 yds / 30 TDs (4x QB1)
+  ║  🟡 [QB2       ]  Kyle Orton                 '5 Rd4 #106      Y1: 1869 yds        Peak: 3802 yds / 21 TDs
+  ║  🟡 [QB2       ]  Gardner Minshew            '19 Rd6 #178     Y1: 3271 yds        Peak: 3271 yds / 21 TDs
+  ║  ❌ [Backup/Out]  Chris Weinke               '1 Rd4 #106      Y1: 2931 yds        Peak: 2931 yds / 11 TDs
+  ║  ❌ [Backup/Out]  Bruce Gradkowski           '6 Rd6 #194      Y1: 1661 yds        Peak: 1661 yds / 9 TDs
+  ║  ❌ [Backup/Out]  Zach Mettenberger          '14 Rd6 #178     Y1: 1412 yds        Peak: 1412 yds / 8 TDs
+  ╚═
+
+  ╔═ Fast WR (≤4.45) drafted Rd 1  (n=46)  Hit rate: 74%
+  ║  WR1: 21(46%) | WR2: 13(28%) | WR3: 8(17%) | Depth/Out: 4(9%)
+  ║
+  ║  ✅ [WR1       ]  Ja'Marr Chase              '21 Rd1 #5       Y1: 1455 yds     Peak: 1455 yds / 81 rec / 13 TDs (5x WR1)
+  ║  ✅ [WR1       ]  Justin Jefferson           '20 Rd1 #22      Y1: 1400 yds     Peak: 1400 yds / 88 rec / 7 TDs (6x WR1)
+  ║  ✅ [WR1       ]  Javon Walker               '2 Rd1 #20       Y1: 319 yds      Peak: 1380 yds / 89 rec / 12 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Calvin Ridley              '18 Rd1 #26      Y1: 821 yds      Peak: 1374 yds / 90 rec / 9 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Calvin Johnson             '7 Rd1 #2        Y1: 756 yds      Peak: 1331 yds / 78 rec / 12 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Jeremy Maclin              '9 Rd1 #19       Y1: 762 yds      Peak: 1318 yds / 85 rec / 10 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Odell Beckham, Jr.         '14 Rd1 #12      Y1: 1305 yds     Peak: 1305 yds / 91 rec / 12 TDs (5x WR1)
+  ║  ✅ [WR1       ]  Lee Evans                  '4 Rd1 #13       Y1: 843 yds      Peak: 1291 yds / 82 rec / 8 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Braylon Edwards            '5 Rd1 #3        Y1: 512 yds      Peak: 1289 yds / 80 rec / 16 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Santonio Holmes            '6 Rd1 #25       Y1: 824 yds      Peak: 1248 yds / 79 rec / 5 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Jerry Jeudy                '20 Rd1 #15      Y1: 856 yds      Peak: 1229 yds / 90 rec / 4 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Reggie Wayne               '1 Rd1 #30       Y1: 345 yds      Peak: 1210 yds / 77 rec / 12 TDs (8x WR1)
+  ║  ✅ [WR1       ]  DeVante Parker             '15 Rd1 #14      Y1: 494 yds      Peak: 1202 yds / 72 rec / 9 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Julio Jones                '11 Rd1 #6       Y1: 959 yds      Peak: 1198 yds / 79 rec / 10 TDs (7x WR1)
+  ║  ✅ [WR1       ]  D.J. Moore                 '18 Rd1 #24      Y1: 788 yds      Peak: 1175 yds / 87 rec / 4 TDs (4x WR1)
+  ║  ✅ [WR1       ]  Andre Johnson              '3 Rd1 #3        Y1: 976 yds      Peak: 1142 yds / 79 rec / 6 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Brandin Cooks              '14 Rd1 #20      Y1: 550 yds      Peak: 1138 yds / 84 rec / 9 TDs (6x WR1)
+  ║  ✅ [WR1       ]  Santana Moss               '1 Rd1 #16       Y1: 40 yds       Peak: 1105 yds / 74 rec / 10 TDs (4x WR1)
+  ║  ✅ [WR1       ]  Amari Cooper               '15 Rd1 #4       Y1: 1070 yds     Peak: 1070 yds / 72 rec / 6 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Sammy Watkins              '14 Rd1 #4       Y1: 982 yds      Peak: 1047 yds / 60 rec / 9 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Michael Floyd              '12 Rd1 #13      Y1: 562 yds      Peak: 1041 yds / 65 rec / 5 TDs (1x WR1)
+  ║  🟡 [WR2       ]  Darrius Heyward-Bey        '9 Rd1 #7        Y1: 124 yds      Peak: 975 yds / 64 rec / 4 TDs
+  ║  🟡 [WR2       ]  Mark Clayton               '5 Rd1 #22       Y1: 471 yds      Peak: 939 yds / 67 rec / 5 TDs
+  ║  🟡 [WR2       ]  Travis Taylor              '0 Rd1 #10       Y1: 276 yds      Peak: 869 yds / 61 rec / 6 TDs
+  ║  🟡 [WR2       ]  Percy Harvin               '9 Rd1 #22       Y1: 790 yds      Peak: 790 yds / 60 rec / 6 TDs
+  ║  🟡 [WR2       ]  Ted Ginn                   '7 Rd1 #9        Y1: 420 yds      Peak: 790 yds / 56 rec / 2 TDs
+  ║  🟡 [WR2       ]  Michael Jenkins            '4 Rd1 #29       Y1: 119 yds      Peak: 777 yds / 50 rec / 3 TDs
+  ║  🟡 [WR2       ]  Nelson Agholor             '15 Rd1 #20      Y1: 283 yds      Peak: 768 yds / 62 rec / 8 TDs
+  ║  🟡 [WR2       ]  Donte' Stallworth          '2 Rd1 #13       Y1: 594 yds      Peak: 767 yds / 58 rec / 5 TDs
+  ║  🟡 [WR2       ]  Rashod Bateman             '21 Rd1 #27      Y1: 515 yds      Peak: 756 yds / 45 rec / 9 TDs
+  ║  🟡 [WR2       ]  Robert Meachem             '7 Rd1 #27       Y1: 0 yds        Peak: 722 yds / 45 rec / 9 TDs
+  ║  🟡 [WR2       ]  David Terrell              '1 Rd1 #8        Y1: 415 yds      Peak: 699 yds / 42 rec / 1 TDs
+  ║  🟡 [WR2       ]  Anthony Gonzalez           '7 Rd1 #32       Y1: 576 yds      Peak: 664 yds / 57 rec / 4 TDs
+  ║  🟡 [WR2       ]  Will Fuller                '16 Rd1 #21      Y1: 635 yds      Peak: 635 yds / 47 rec / 2 TDs
+  ║  🟠 [WR3       ]  Phillip Dorsett            '15 Rd1 #29      Y1: 225 yds      Peak: 528 yds / 33 rec / 2 TDs
+  ║  🟠 [WR3       ]  John Ross                  '17 Rd1 #9       Y1: 0 yds        Peak: 506 yds / 28 rec / 3 TDs
+  ║  🟠 [WR3       ]  Cordarrelle Patterson      '13 Rd1 #29      Y1: 469 yds      Peak: 469 yds / 45 rec / 4 TDs
+  ║  🟠 [WR3       ]  Henry Ruggs III            '20 Rd1 #12      Y1: 452 yds      Peak: 452 yds / 26 rec / 2 TDs
+  ║  🟠 [WR3       ]  Kadarius Toney             '21 Rd1 #20      Y1: 420 yds      Peak: 420 yds / 39 rec / 0 TDs
+  ║  🟠 [WR3       ]  Tavon Austin               '13 Rd1 #8       Y1: 418 yds      Peak: 418 yds / 40 rec / 4 TDs
+  ║  🟠 [WR3       ]  Corey Coleman              '16 Rd1 #15      Y1: 413 yds      Peak: 413 yds / 33 rec / 3 TDs
+  ║  🟠 [WR3       ]  Troy Williamson            '5 Rd1 #7        Y1: 372 yds      Peak: 372 yds / 24 rec / 2 TDs
+  ║  ❌ [Depth/Out ]  Charles Rogers             '3 Rd1 #2        Y1: 243 yds      Peak: 243 yds / 22 rec / 3 TDs
+  ║  ❌ [Depth/Out ]  Kevin White                '15 Rd1 #7       Y1: 0 yds        Peak: 187 yds / 19 rec / 0 TDs
+  ║  ❌ [Depth/Out ]  R. Jay Soward              '0 Rd1 #29       Y1: 154 yds      Peak: 154 yds / 14 rec / 1 TDs
+  ║  ❌ [Depth/Out ]  A.J. Jenkins               '12 Rd1 #30      Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  ╚═
+
+  ╔═ Slow WR (4.55+) drafted Rd 1-3  (n=47)  Hit rate: 68%
+  ║  WR1: 16(34%) | WR2: 16(34%) | WR3: 11(23%) | Depth/Out: 4(9%)
+  ║
+  ║  ✅ [WR1       ]  Allen Robinson             '14 Rd2 #61      Y1: 548 yds      Peak: 1400 yds / 80 rec / 14 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Davante Adams              '14 Rd2 #53      Y1: 446 yds      Peak: 1386 yds / 111 rec / 13 TDs (6x WR1)
+  ║  ✅ [WR1       ]  Anquan Boldin              '3 Rd2 #54       Y1: 1377 yds     Peak: 1377 yds / 101 rec / 8 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Koren Robinson             '1 Rd1 #9        Y1: 536 yds      Peak: 1240 yds / 78 rec / 5 TDs (1x WR1)
+  ║  ✅ [WR1       ]  DeAndre Hopkins            '13 Rd1 #27      Y1: 802 yds      Peak: 1210 yds / 76 rec / 6 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Michael Clayton            '4 Rd1 #15       Y1: 1193 yds     Peak: 1193 yds / 80 rec / 7 TDs (1x WR1)
+  ║  ✅ [WR1       ]  Chad Johnson               '1 Rd2 #36       Y1: 329 yds      Peak: 1166 yds / 69 rec / 5 TDs (7x WR1)
+  ║  ✅ [WR1       ]  Cooper Kupp                '17 Rd3 #69      Y1: 869 yds      Peak: 1161 yds / 94 rec / 10 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Jarvis Landry              '14 Rd2 #63      Y1: 758 yds      Peak: 1157 yds / 110 rec / 4 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Michael Thomas             '16 Rd2 #47      Y1: 1137 yds     Peak: 1137 yds / 92 rec / 9 TDs (4x WR1)
+  ║  ✅ [WR1       ]  Darrell Jackson            '0 Rd3 #80       Y1: 713 yds      Peak: 1081 yds / 70 rec / 8 TDs (3x WR1)
+  ║  ✅ [WR1       ]  Keenan Allen               '13 Rd3 #76      Y1: 1046 yds     Peak: 1046 yds / 71 rec / 8 TDs (6x WR1)
+  ║  ✅ [WR1       ]  Tyler Boyd                 '16 Rd2 #55      Y1: 603 yds      Peak: 1028 yds / 76 rec / 7 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Antonio Bryant             '2 Rd2 #63       Y1: 733 yds      Peak: 1009 yds / 69 rec / 4 TDs (2x WR1)
+  ║  ✅ [WR1       ]  Plaxico Burress            '0 Rd1 #8        Y1: 273 yds      Peak: 1008 yds / 66 rec / 6 TDs (4x WR1)
+  ║  ✅ [WR1       ]  Kelvin Benjamin            '14 Rd1 #28      Y1: 1008 yds     Peak: 1008 yds / 73 rec / 9 TDs (1x WR1)
+  ║  🟡 [WR2       ]  Devin Funchess             '15 Rd2 #41      Y1: 473 yds      Peak: 840 yds / 63 rec / 8 TDs
+  ║  🟡 [WR2       ]  Mario Manningham           '8 Rd3 #95       Y1: 26 yds       Peak: 822 yds / 57 rec / 5 TDs
+  ║  🟡 [WR2       ]  Mohamed Sanu               '12 Rd3 #83      Y1: 154 yds      Peak: 790 yds / 56 rec / 5 TDs
+  ║  🟡 [WR2       ]  Bernard Berrian            '4 Rd3 #78       Y1: 225 yds      Peak: 775 yds / 51 rec / 6 TDs
+  ║  🟡 [WR2       ]  Keary Colbert              '4 Rd2 #62       Y1: 754 yds      Peak: 754 yds / 47 rec / 5 TDs
+  ║  🟡 [WR2       ]  Mike Williams              '5 Rd1 #10       Y1: 350 yds      Peak: 751 yds / 65 rec / 2 TDs
+  ║  🟡 [WR2       ]  Bryant Johnson             '3 Rd1 #17       Y1: 438 yds      Peak: 740 yds / 40 rec / 4 TDs
+  ║  🟡 [WR2       ]  Early Doucet               '8 Rd3 #81       Y1: 90 yds       Peak: 689 yds / 54 rec / 5 TDs
+  ║  🟡 [WR2       ]  Brandon LaFell             '10 Rd3 #78      Y1: 468 yds      Peak: 677 yds / 44 rec / 4 TDs
+  ║  🟡 [WR2       ]  Peter Warrick              '0 Rd1 #4        Y1: 592 yds      Peak: 667 yds / 70 rec / 1 TDs
+  ║  🟡 [WR2       ]  Dez White                  '0 Rd3 #69       Y1: 87 yds       Peak: 656 yds / 51 rec / 4 TDs
+  ║  🟡 [WR2       ]  Jabar Gaffney              '2 Rd2 #33       Y1: 483 yds      Peak: 632 yds / 41 rec / 2 TDs
+  ║  🟡 [WR2       ]  Reggie Williams            '4 Rd1 #9        Y1: 268 yds      Peak: 615 yds / 53 rec / 4 TDs
+  ║  🟡 [WR2       ]  Rueben Randle              '12 Rd2 #63      Y1: 298 yds      Peak: 611 yds / 41 rec / 6 TDs
+  ║  🟡 [WR2       ]  Laviska Shenault Jr.       '20 Rd2 #42      Y1: 600 yds      Peak: 600 yds / 58 rec / 5 TDs
+  ║  🟡 [WR2       ]  Jordan Shipley             '10 Rd3 #84      Y1: 600 yds      Peak: 600 yds / 52 rec / 3 TDs
+  ║  🟠 [WR3       ]  Sylvester Morris           '0 Rd1 #21       Y1: 566 yds      Peak: 566 yds / 42 rec / 0 TDs
+  ║  🟠 [WR3       ]  Snoop Minnis               '1 Rd3 #77       Y1: 511 yds      Peak: 511 yds / 33 rec / 1 TDs
+  ║  🟠 [WR3       ]  Ron Dugans                 '0 Rd3 #66       Y1: 125 yds      Peak: 421 yds / 47 rec / 0 TDs
+  ║  🟠 [WR3       ]  Austin Pettis              '11 Rd3 #78      Y1: 256 yds      Peak: 399 yds / 38 rec / 4 TDs
+  ║  🟠 [WR3       ]  Arrelious Benn             '10 Rd2 #39      Y1: 395 yds      Peak: 395 yds / 25 rec / 2 TDs
+  ║  🟠 [WR3       ]  Maurice Stovall            '6 Rd3 #90       Y1: 102 yds      Peak: 366 yds / 24 rec / 1 TDs
+  ║  🟠 [WR3       ]  Ty Montgomery              '15 Rd3 #94      Y1: 136 yds      Peak: 348 yds / 44 rec / 0 TDs
+  ║  🟠 [WR3       ]  Malcolm Kelly              '8 Rd2 #51       Y1: 18 yds       Peak: 347 yds / 25 rec / 0 TDs
+  ║  🟠 [WR3       ]  Vincent Brown              '11 Rd3 #82      Y1: 329 yds      Peak: 329 yds / 19 rec / 2 TDs
+  ║  🟠 [WR3       ]  Ryan Broyles               '12 Rd2 #54      Y1: 310 yds      Peak: 310 yds / 22 rec / 2 TDs
+  ║  🟠 [WR3       ]  Billy McMullen             '3 Rd3 #95       Y1: 2 yds        Peak: 307 yds / 23 rec / 2 TDs
+  ║  ❌ [Depth/Out ]  Teyo Johnson               '3 Rd2 #63       Y1: 128 yds      Peak: 128 yds / 14 rec / 1 TDs
+  ║  ❌ [Depth/Out ]  JaJuan Dawson              '0 Rd3 #79       Y1: 97 yds       Peak: 97 yds / 9 rec / 1 TDs
+  ║  ❌ [Depth/Out ]  Dwayne Jarrett             '7 Rd2 #45       Y1: 73 yds       Peak: 73 yds / 6 rec / 0 TDs
+  ║  ❌ [Depth/Out ]  Patrick Turner             '9 Rd3 #87       Y1: 0 yds        Peak: 0 yds / 0 rec / 0 TDs
+  ╚═
+
+  ╔═ Big RB (225+) drafted Rd 1-2  (n=34)  Hit rate: 79%
+  ║  RB1: 21(62%) | RB2: 6(18%) | RB3: 4(12%) | Depth/Out: 3(9%)
+  ║
+  ║  ✅ [RB1       ]  Larry Johnson              '3 Rd1 #27       Y1: 85 yds       Peak: 1750 yds / 20 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Ezekiel Elliott            '16 Rd1 #4       Y1: 1631 yds     Peak: 1631 yds / 15 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Nick Chubb                 '18 Rd2 #35      Y1: 996 yds      Peak: 1494 yds / 8 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Jamal Lewis                '0 Rd1 #5        Y1: 1364 yds     Peak: 1364 yds / 6 TDs (7x RB1)
+  ║  ✅ [RB1       ]  Le'Veon Bell               '13 Rd2 #48      Y1: 860 yds      Peak: 1361 yds / 8 TDs (3x RB1)
+  ║  ✅ [RB1       ]  Saquon Barkley             '18 Rd1 #2       Y1: 1307 yds     Peak: 1307 yds / 11 TDs (5x RB1)
+  ║  ✅ [RB1       ]  Anthony Thomas             '1 Rd2 #38       Y1: 1183 yds     Peak: 1183 yds / 7 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Eddie Lacy                 '13 Rd2 #61      Y1: 1178 yds     Peak: 1178 yds / 11 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Jonathan Taylor            '20 Rd2 #41      Y1: 1169 yds     Peak: 1169 yds / 11 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Kevin Jones                '4 Rd1 #30       Y1: 1133 yds     Peak: 1133 yds / 5 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Jonathan Stewart           '8 Rd1 #13       Y1: 835 yds      Peak: 1133 yds / 10 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Jeremy Hill                '14 Rd2 #55      Y1: 1124 yds     Peak: 1124 yds / 9 TDs (1x RB1)
+  ║  ✅ [RB1       ]  LenDale White              '6 Rd2 #45       Y1: 244 yds      Peak: 1108 yds / 7 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Rashard Mendenhall         '8 Rd1 #23       Y1: 58 yds       Peak: 1108 yds / 7 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Carlos Hyde                '14 Rd2 #57      Y1: 333 yds      Peak: 1070 yds / 6 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Derrick Henry              '16 Rd2 #45      Y1: 490 yds      Peak: 1059 yds / 12 TDs (7x RB1)
+  ║  ✅ [RB1       ]  Beanie Wells               '9 Rd1 #31       Y1: 793 yds      Peak: 1047 yds / 10 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Steven Jackson             '4 Rd1 #24       Y1: 673 yds      Peak: 1046 yds / 8 TDs (8x RB1)
+  ║  ✅ [RB1       ]  Leonard Fournette          '17 Rd1 #4       Y1: 1040 yds     Peak: 1040 yds / 9 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Lamont Jordan              '1 Rd2 #49       Y1: 292 yds      Peak: 1025 yds / 9 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Ronnie Brown               '5 Rd1 #2        Y1: 907 yds      Peak: 1005 yds / 5 TDs (1x RB1)
+  ║  🟡 [RB2       ]  Trent Richardson           '12 Rd1 #3       Y1: 950 yds      Peak: 950 yds / 11 TDs
+  ║  🟡 [RB2       ]  AJ Dillon                  '20 Rd2 #62      Y1: 242 yds      Peak: 803 yds / 5 TDs
+  ║  🟡 [RB2       ]  Mikel Leshoure             '11 Rd2 #57      Y1: 0 yds        Peak: 798 yds / 9 TDs
+  ║  🟡 [RB2       ]  T.J. Duckett               '2 Rd1 #18       Y1: 507 yds      Peak: 779 yds / 11 TDs
+  ║  🟡 [RB2       ]  Ron Dayne                  '0 Rd1 #11       Y1: 770 yds      Peak: 770 yds / 5 TDs
+  ║  🟡 [RB2       ]  T.J. Yeldon                '15 Rd2 #36      Y1: 740 yds      Peak: 740 yds / 2 TDs
+  ║  🟠 [RB3       ]  Daniel Thomas              '11 Rd2 #62      Y1: 581 yds      Peak: 581 yds / 0 TDs
+  ║  🟠 [RB3       ]  Greg Jones                 '4 Rd2 #55       Y1: 162 yds      Peak: 575 yds / 4 TDs
+  ║  🟠 [RB3       ]  Toby Gerhart               '10 Rd2 #51      Y1: 322 yds      Peak: 322 yds / 1 TDs
+  ║  🟠 [RB3       ]  Brian Leonard              '7 Rd2 #52       Y1: 303 yds      Peak: 303 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Montario Hardesty          '10 Rd2 #59      Y1: 0 yds        Peak: 266 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Chris Henry                '7 Rd2 #50       Y1: 119 yds      Peak: 119 yds / 2 TDs
+  ║  ❌ [Depth/Out ]  Eric Shelton               '5 Rd2 #54       Y1: 0 yds        Peak: 23 yds / 0 TDs
+  ╚═
+
+  ╔═ Small RB (<200) any round  (n=44)  Hit rate: 20%
+  ║  RB1: 7(16%) | RB2: 2(5%) | RB3: 14(32%) | Depth/Out: 21(48%)
+  ║
+  ║  ✅ [RB1       ]  Ray Rice                   '8 Rd2 #55       Y1: 454 yds      Peak: 1339 yds / 7 TDs (4x RB1)
+  ║  ✅ [RB1       ]  Steve Slaton               '8 Rd3 #89       Y1: 1282 yds     Peak: 1282 yds / 9 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Justin Forsett             '8 Rd7 #233      Y1: 0 yds        Peak: 1266 yds / 8 TDs (1x RB1)
+  ║  ✅ [RB1       ]  C.J. Spiller               '10 Rd1 #9       Y1: 283 yds      Peak: 1244 yds / 6 TDs (1x RB1)
+  ║  ✅ [RB1       ]  Ahmad Bradshaw             '7 Rd7 #250      Y1: 190 yds      Peak: 1235 yds / 8 TDs (2x RB1)
+  ║  ✅ [RB1       ]  Chris Johnson              '8 Rd1 #24       Y1: 1228 yds     Peak: 1228 yds / 9 TDs (6x RB1)
+  ║  ✅ [RB1       ]  LeSean McCoy               '9 Rd2 #53       Y1: 637 yds      Peak: 1080 yds / 7 TDs (6x RB1)
+  ║  🟡 [RB2       ]  Dion Lewis                 '11 Rd5 #149     Y1: 102 yds      Peak: 896 yds / 6 TDs
+  ║  🟡 [RB2       ]  Andre Ellington            '13 Rd6 #187     Y1: 652 yds      Peak: 660 yds / 3 TDs
+  ║  🟠 [RB3       ]  Jahvid Best                '10 Rd1 #30      Y1: 563 yds      Peak: 563 yds / 4 TDs
+  ║  🟠 [RB3       ]  Derrick Blaylock           '1 Rd5 #150      Y1: 0 yds        Peak: 539 yds / 8 TDs
+  ║  🟠 [RB3       ]  Kendall Hunter             '11 Rd4 #115     Y1: 473 yds      Peak: 473 yds / 2 TDs
+  ║  🟠 [RB3       ]  Trung Canidate             '0 Rd1 #31       Y1: 6 yds        Peak: 441 yds / 6 TDs
+  ║  🟠 [RB3       ]  Kerwynn Williams           '13 Rd7 #230     Y1: 0 yds        Peak: 426 yds / 1 TDs
+  ║  🟠 [RB3       ]  Travis Minor               '1 Rd3 #85       Y1: 281 yds      Peak: 395 yds / 3 TDs
+  ║  🟠 [RB3       ]  Justice Hill               '19 Rd4 #113     Y1: 225 yds      Peak: 387 yds / 3 TDs
+  ║  🟠 [RB3       ]  Tarik Cohen                '17 Rd4 #119     Y1: 370 yds      Peak: 370 yds / 2 TDs
+  ║  🟠 [RB3       ]  Justin Jackson             '18 Rd7 #251     Y1: 206 yds      Peak: 364 yds / 2 TDs
+  ║  🟠 [RB3       ]  Jacquizz Rodgers           '11 Rd5 #145     Y1: 205 yds      Peak: 362 yds / 1 TDs
+  ║  🟠 [RB3       ]  Chris Thompson             '13 Rd5 #154     Y1: 0 yds        Peak: 356 yds / 3 TDs
+  ║  🟠 [RB3       ]  Quentin Griffin            '3 Rd4 #108      Y1: 345 yds      Peak: 345 yds / 0 TDs
+  ║  🟠 [RB3       ]  Darren Sproles             '5 Rd4 #130      Y1: 50 yds       Peak: 330 yds / 1 TDs
+  ║  🟠 [RB3       ]  Nyheim Hines               '18 Rd4 #104     Y1: 314 yds      Peak: 314 yds / 2 TDs
+  ║  ❌ [Depth/Out ]  Joe McKnight               '10 Rd4 #112     Y1: 189 yds      Peak: 189 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Chad Morton                '0 Rd5 #166      Y1: 136 yds      Peak: 136 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  LaMichael James            '12 Rd2 #61      Y1: 125 yds      Peak: 125 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Lorenzo Booker             '7 Rd3 #71       Y1: 125 yds      Peak: 125 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  De'Anthony Thomas          '14 Rd4 #124     Y1: 113 yds      Peak: 113 yds / 1 TDs
+  ║  ❌ [Depth/Out ]  Chris Rainey               '12 Rd5 #159     Y1: 102 yds      Peak: 102 yds / 2 TDs
+  ║  ❌ [Depth/Out ]  Michael Wiley              '0 Rd5 #144      Y1: 88 yds       Peak: 88 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Garrett Wolfe              '7 Rd3 #93       Y1: 85 yds       Peak: 85 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Taiwan Jones               '11 Rd4 #125     Y1: 73 yds       Peak: 73 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Isaiah Pead                '12 Rd2 #50      Y1: 54 yds       Peak: 54 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Demetric Felton            '21 Rd6 #211     Y1: 24 yds       Peak: 24 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Kenjon Barner              '13 Rd6 #182     Y1: 7 yds        Peak: 7 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Tyler Ervin                '16 Rd4 #119     Y1: 3 yds        Peak: 3 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  T.J. Logan                 '17 Rd5 #179     Y1: 0 yds        Peak: 2 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Marcus Murphy              '15 Rd7 #230     Y1: 0 yds        Peak: 0 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Derek Combs                '1 Rd7 #228      Y1: 0 yds        Peak: 0 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Travis Stephens            '2 Rd4 #119      Y1: 0 yds        Peak: 0 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  DeAndra Cobb               '5 Rd6 #201      Y1: 0 yds        Peak: 0 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Raymond Calais             '20 Rd7 #245     Y1: 0 yds        Peak: 0 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Allen Patrick              '8 Rd7 #240      Y1: 0 yds        Peak: 0 yds / 0 TDs
+  ║  ❌ [Depth/Out ]  Donnel Pumphrey            '17 Rd4 #132     Y1: 0 yds        Peak: 0 yds / 0 TDs
+  ╚═
+
+
+====================================================================================================
+SECTION 5: DRAFT CLASS RANKINGS — HIT RATE BY YEAR
+====================================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WR — Hit Rate by Draft Class (Tier 1 + Tier 2)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    Year     n    WR1    WR2    Hit%  WR1 Names
+  ──────  ────  ─────  ─────  ──────  ────────────────────────────────────────────────────────────
+    2014    31      9      6     48%  Davante Adams, Kelvin Benjamin, John Brown, Brandin Cooks
+    2001    25      7      4     44%  Chris Chambers, Rod Gardner, Chad Johnson, Santana Moss
+    2009    30      6      7     43%  Kenny Britt, Michael Crabtree, Brian Hartline, Jeremy Maclin
+    2004    28      5      7     43%  Michael Clayton, Jerricho Cotchery, Lee Evans, Larry Fitzgerald
+    2018    26      6      5     42%  D.J. Chark, Michael Gallup, Christian Kirk, D.J. Moore
+    2003    24      5      5     42%  Anquan Boldin, Nate Burleson, Kevin Curtis, Andre Johnson
+    2019    24      7      3     42%  A.J. Brown, Marquise Brown, Diontae Johnson, Terry McLaurin
+    2000    22      3      6     41%  Plaxico Burress, Laveranues Coles, Darrell Jackson
+    2002    22      3      6     41%  Antonio Bryant, Ashley Lelie, Javon Walker
+    2010    27      6      5     41%  Antonio Brown, Dez Bryant, Eric Decker, Emmanuel Sanders
+    2020    37      7      8     41%  Brandon Aiyuk, Tee Higgins, Justin Jefferson, Jerry Jeudy
+    2007    29      5      6     38%  Dwayne Bowe, Steve Breaston, Calvin Johnson, Sidney Rice
+    2017    29      5      6     38%  Chris Godwin, Kenny Golladay, Cooper Kupp, JuJu Smith-Schuster
+    2011    25      4      5     36%  Randall Cobb, A.J. Green, Julio Jones, Torrey Smith
+    2008    31      4      7     35%  Harry Douglas, Pierre Garcon, DeSean Jackson, Jordy Nelson
+    2012    31      5      6     35%  Michael Floyd, T.Y. Hilton, Alshon Jeffery, Marvin Jones
+    2005    21      3      4     33%  Braylon Edwards, Vincent Jackson, Roddy White
+    2015    30      5      5     33%  Amari Cooper, Stefon Diggs, Tyler Lockett, DeVante Parker
+    2013    23      3      4     30%  Keenan Allen, DeAndre Hopkins, Robert Woods
+    2006    26      5      2     27%  Marques Colston, Santonio Holmes, Greg Jennings, Brandon Marshall
+    2021    25      3      2     20%  Amon-Ra St. Brown, Ja'Marr Chase, Nico Collins
+    2016    24      2      2     17%  Tyler Boyd, Michael Thomas
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  RB — Hit Rate by Draft Class (Tier 1 + Tier 2)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    Year     n    RB1    RB2    Hit%  RB1 Names
+  ──────  ────  ─────  ─────  ──────  ────────────────────────────────────────────────────────────
+    2017    23      9      4     57%  Chris Carson, James Conner, Dalvin Cook, Leonard Fournette
+    2008    26     10      3     50%  Jamaal Charles, Justin Forsett, Matt Forte, Peyton Hillis
+    2001    17      8      0     47%  Kevan Barlow, Michael Bennett, Travis Henry, Rudi Johnson
+    2006    17      5      3     47%  Joseph Addai, Reggie Bush, Maurice Jones-Drew, LenDale White
+    2020    15      2      5     47%  D'Andre Swift, Jonathan Taylor
+    2019    20      4      5     45%  Josh Jacobs, David Montgomery, Tony Pollard, Miles Sanders
+    2021    16      4      3     44%  Travis Etienne, Chuba Hubbard, Rhamondre Stevenson, Javonte Williams
+    2004    16      5      1     38%  Tatum Bell, Steven Jackson, Julius Jones, Kevin Jones
+    2007    19      3      4     37%  Ahmad Bradshaw, Marshawn Lynch, Adrian Peterson
+    2014    19      3      4     37%  Devonta Freeman, Jeremy Hill, Carlos Hyde
+    2002    23      4      4     35%  Ladell Betts, Clinton Portis, Chester Taylor, Brian Westbrook
+    2003    18      5      1     33%  Chris Brown, Justin Fargas, Larry Johnson, Willis McGahee
+    2010    12      2      2     33%  Ryan Mathews, C.J. Spiller
+    2015    21      4      3     33%  Jay Ajayi, Melvin Gordon, Todd Gurley, David Johnson
+    2016    18      3      3     33%  Ezekiel Elliott, Derrick Henry, Jordan Howard
+    2012    19      3      3     32%  Doug Martin, Lamar Miller, Alfred Morris
+    2005    20      5      1     30%  Cedric Benson, Ronnie Brown, Frank Gore, Brandon Jacobs
+    2018    17      2      3     29%  Saquon Barkley, Nick Chubb
+    2009    21      4      2     29%  Shonn Greene, LeSean McCoy, Knowshon Moreno, Beanie Wells
+    2000    22      4      2     27%  Shaun Alexander, Reuben Droughns, Thomas Jones, Jamal Lewis
+    2013    22      2      4     27%  Le'Veon Bell, Eddie Lacy
+    2011    27      3      4     26%  Mark Ingram, DeMarco Murray, Stevan Ridley
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  QB — Hit Rate by Draft Class (Tier 1 + Tier 2)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    Year     n    QB1    QB2    Hit%  QB1 Names
+  ──────  ────  ─────  ─────  ──────  ────────────────────────────────────────────────────────────
+    2005     9      2      4     67%  Aaron Rodgers, Alex Smith
+    2020    10      4      1     50%  Joe Burrow, Justin Herbert, Jordan Love, Tua Tagovailoa
+    2004    11      4      1     45%  Eli Manning, Philip Rivers, Ben Roethlisberger, Matt Schaub
+    2012    11      4      1     45%  Kirk Cousins, Andrew Luck, Ryan Tannehill, Russell Wilson
+    2001     8      1      2     38%  Drew Brees
+    2009     9      2      1     33%  Josh Freeman, Matthew Stafford
+    2011    12      1      3     33%  Andy Dalton
+    2014    12      2      2     33%  Blake Bortles, Derek Carr
+    2015     6      1      1     33%  Jameis Winston
+    2017     9      2      1     33%  Patrick Mahomes, Deshaun Watson
+    2018    12      4      0     33%  Josh Allen, Sam Darnold, Lamar Jackson, Baker Mayfield
+    2021     9      1      2     33%  Trevor Lawrence
+    2000    10      1      2     30%  Tom Brady
+    2002    10      0      3     30%  
+    2016    14      3      1     29%  Jared Goff, Dak Prescott, Carson Wentz
+    2019    11      0      3     27%  
+    2008    12      1      2     25%  Matt Ryan
+    2003     9      1      1     22%  Carson Palmer
+    2006    10      1      0     10%  Jay Cutler
+    2013    10      1      0     10%  Geno Smith
+    2010    11      0      1      9%  
+    2007    10      0      0      0%  
+
+====================================================================================================
+DONE.
+====================================================================================================
