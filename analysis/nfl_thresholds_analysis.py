@@ -25,7 +25,14 @@ warnings.filterwarnings('ignore')
 
 import nflreadpy
 
-OUT_DIR = '/Users/cam/Documents/Personal/data/'
+import os
+
+# Output paths resolve relative to the repo so the script runs after a clean
+# `git clone`. Override with DRAFT_THEORY_FIG_DIR to write elsewhere.
+_REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FIG_DIR = os.environ.get('DRAFT_THEORY_FIG_DIR', os.path.join(_REPO_ROOT, 'figures'))
+os.makedirs(FIG_DIR, exist_ok=True)
+
 MAX_RELIABLE_YEAR = 2014
 
 print("=" * 70)
@@ -358,7 +365,7 @@ for row_idx, pos in enumerate(['WR', 'RB', 'TE', 'QB']):
 plt.suptitle(f'Year-1 Production → Career AV by Position & Draft Capital\n(2000-{MAX_RELIABLE_YEAR} draft classes)',
              fontsize=15, fontweight='bold', y=1.01)
 
-out_path = OUT_DIR + 'nfl_thresholds_analysis.png'
+out_path = os.path.join(FIG_DIR, 'nfl_thresholds_analysis.png')
 plt.savefig(out_path, dpi=150, bbox_inches='tight')
 print(f"    Saved: {out_path}")
 
@@ -426,7 +433,7 @@ for idx, pos in enumerate(['WR', 'RB', 'TE', 'QB']):
 plt.suptitle(f'Career Outcome Probabilities: Draft Capital × Year-1 Production\n(2000-{MAX_RELIABLE_YEAR})',
              fontsize=14, fontweight='bold', y=1.01)
 
-out_path2 = OUT_DIR + 'nfl_thresholds_stacked.png'
+out_path2 = os.path.join(FIG_DIR, 'nfl_thresholds_stacked.png')
 plt.savefig(out_path2, dpi=150, bbox_inches='tight')
 print(f"    Saved: {out_path2}")
 

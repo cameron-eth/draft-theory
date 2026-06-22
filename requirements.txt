@@ -1,5 +1,12 @@
+# Data pipeline
 numpy
 pandas
 pyarrow
 nflreadpy
 cfbd
+
+# Analysis & figures (analysis/*.py)
+matplotlib
+seaborn
+scipy
+scikit-learn
