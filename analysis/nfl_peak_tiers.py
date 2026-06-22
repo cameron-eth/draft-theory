@@ -36,7 +36,14 @@ import warnings
 warnings.filterwarnings('ignore')
 import nflreadpy
 
-OUT_DIR = '/Users/cam/Documents/Personal/data/'
+import os
+
+# Output paths resolve relative to the repo so the script runs after a clean
+# `git clone`. Override with DRAFT_THEORY_FIG_DIR to write elsewhere.
+_REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FIG_DIR = os.environ.get('DRAFT_THEORY_FIG_DIR', os.path.join(_REPO_ROOT, 'figures'))
+os.makedirs(FIG_DIR, exist_ok=True)
+
 MAX_DRAFT_YEAR = 2021   # give at least 4 seasons of career data
 MAX_STAT_YEAR  = 2025
 
@@ -751,7 +758,7 @@ plt.suptitle(f'Peak Career Outcome by Draft Capital + Rookie Production\n'
              f'(2000-{MAX_DRAFT_YEAR} draft classes, absolute stat floors)',
              fontsize=14, fontweight='bold', y=1.01)
 
-out_path = OUT_DIR + 'nfl_peak_tiers.png'
+out_path = os.path.join(FIG_DIR, 'nfl_peak_tiers.png')
 plt.savefig(out_path, dpi=150, bbox_inches='tight')
 print(f"    Saved: {out_path}")
 
@@ -811,7 +818,7 @@ fig2.suptitle(f'WR & RB Peak Outcome — Fine Draft Splits × Rookie Production\
               f'(2000-{MAX_DRAFT_YEAR})',
               fontsize=14, fontweight='bold')
 
-out_path2 = OUT_DIR + 'nfl_peak_tiers_fine.png'
+out_path2 = os.path.join(FIG_DIR, 'nfl_peak_tiers_fine.png')
 fig2.savefig(out_path2, dpi=150, bbox_inches='tight')
 print(f"    Saved: {out_path2}")
 

@@ -32,8 +32,15 @@ from sklearn.metrics import r2_score
 import warnings
 warnings.filterwarnings('ignore')
 
-COMBINE_PATH = '/Users/cam/Desktop/combine_data_since_2000_PROCESSED_2018-04-26.csv'
-OUT_DIR = '/Users/cam/Documents/Personal/data/'
+import os
+
+# Output paths resolve relative to the repo so the script runs after a clean
+# `git clone`. Override with env vars to read/write elsewhere.
+_REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FIG_DIR = os.environ.get('DRAFT_THEORY_FIG_DIR', os.path.join(_REPO_ROOT, 'figures'))
+DATA_DIR = os.environ.get('DRAFT_THEORY_DATA_DIR', os.path.join(_REPO_ROOT, 'data', 'processed'))
+os.makedirs(FIG_DIR, exist_ok=True)
+os.makedirs(DATA_DIR, exist_ok=True)
 
 # ─────────────────────────────────────────────
 # 1. Load data
@@ -43,10 +50,29 @@ print("NFL COMBINE PREDICTABILITY ANALYSIS")
 print("=" * 60)
 
 print("\n[1] Loading data...")
-combine = pd.read_csv(COMBINE_PATH)
-print(f"    Combine rows: {len(combine):,}  |  columns: {list(combine.columns)}")
 
 import nflreadpy
+
+# Combine testing pulled from nflreadpy (carries pfr_id for joining to outcomes)
+combine_raw = nflreadpy.load_combine().to_pandas(use_pyarrow_extension_array=False)
+combine = combine_raw.rename(columns={
+    'season': 'Year', 'pfr_id': 'Pfr_ID', 'pos': 'Pos',
+    'ht': 'Ht_str', 'wt': 'Wt', 'forty': 'Forty', 'bench': 'BenchReps',
+    'vertical': 'Vertical', 'broad_jump': 'BroadJump', 'cone': 'Cone',
+    'shuttle': 'Shuttle', 'draft_round': 'Round', 'draft_ovr': 'Pick',
+    'player_name': 'Player',
+})
+
+# Height string "6-4" → inches
+def ht_to_inches(h):
+    try:
+        parts = str(h).split('-')
+        return int(parts[0]) * 12 + int(parts[1])
+    except Exception:
+        return np.nan
+combine['Ht'] = combine['Ht_str'].apply(ht_to_inches)
+print(f"    Combine rows: {len(combine):,}  ({combine['Year'].min()}-{combine['Year'].max()})")
+
 draft_raw = nflreadpy.load_draft_picks().to_pandas(use_pyarrow_extension_array=False)
 draft_2000 = draft_raw[draft_raw['season'] >= 2000].copy()
 
@@ -89,10 +115,10 @@ COMBINE_METRICS = ['Forty', 'Vertical', 'BenchReps', 'BroadJump', 'Cone', 'Shutt
 SIZE_METRICS = ['Ht', 'Wt']
 ALL_METRICS = SIZE_METRICS + COMBINE_METRICS
 
-for col in ALL_METRICS + ['AV', 'Round', 'Pick']:
+for col in ALL_METRICS + ['Round', 'Pick']:
     combine[col] = pd.to_numeric(combine[col], errors='coerce')
 
-combine['CareerAV'] = combine['AV'].fillna(0.0)
+combine['CareerAV'] = combine['wAV'].fillna(0.0)
 
 # ─────────────────────────────────────────────
 # 3. Dataset splits
@@ -287,7 +313,7 @@ res_df = pd.DataFrame(results)
 if len(res_df) > 0:
     pivot = res_df.pivot(index='Metric', columns='Position', values='r')
     print(pivot.round(3).to_string())
-    res_df.to_csv(OUT_DIR + 'combine_correlations_by_position.csv', index=False)
+    res_df.to_csv(os.path.join(DATA_DIR, 'combine_correlations_by_position.csv'), index=False)
 
 # ─────────────────────────────────────────────
 # 14. Plots
@@ -391,7 +417,7 @@ ax8.set_title(f'Athleticism vs Excess Career Value\nr={r_ath:.3f}  n={len(has_sc
 
 plt.suptitle(f'NFL Combine: How Predictable is Career Success?\n(2000–{MAX_RELIABLE_YEAR} draft classes, AV through 2017 season)',
              fontsize=15, fontweight='bold', y=1.01)
-out_path = OUT_DIR + 'nfl_combine_analysis.png'
+out_path = os.path.join(FIG_DIR, 'nfl_combine_analysis.png')
 plt.savefig(out_path, dpi=150, bbox_inches='tight')
 print(f"    Saved: {out_path}")
 
